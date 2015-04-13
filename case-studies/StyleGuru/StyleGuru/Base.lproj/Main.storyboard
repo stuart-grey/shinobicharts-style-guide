@@ -2,6 +2,8 @@
 <document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="7531" systemVersion="14D131" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="H1p-Uh-vWS">
     <dependencies>
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="7520"/>
+        <capability name="Alignment constraints with different attributes" minToolsVersion="5.1"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
     </dependencies>
     <scenes>
         <!--Master-->
@@ -30,7 +32,73 @@
                 </splitViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cZU-Oi-B1e" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-856" y="-330"/>
+            <point key="canvasLocation" x="-781" y="-630"/>
+        </scene>
+        <!--TwitterStatsVC-->
+        <scene sceneID="VKe-Ke-GB8">
+            <objects>
+                <viewController storyboardIdentifier="TwitterStatsVC" id="rHd-fV-jfF" userLabel="TwitterStatsVC" customClass="TwitterStatsViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="r5F-Eg-gkn"/>
+                        <viewControllerLayoutGuide type="bottom" id="VVr-jA-zhj"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="cKq-Z5-HUQ">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XZy-DE-uvR" customClass="ShinobiChart">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="twitter stats" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="6E7-je-hRL">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="60"/>
+                                <color key="textColor" red="0.27464420630000003" green="0.050648574439999997" blue="0.44602272729999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="XZy-DE-uvR" firstAttribute="top" secondItem="6E7-je-hRL" secondAttribute="bottom" id="L6Z-sR-tKz"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="6E7-je-hRL" secondAttribute="trailing" id="Wly-5I-XI7"/>
+                            <constraint firstItem="XZy-DE-uvR" firstAttribute="leading" secondItem="cKq-Z5-HUQ" secondAttribute="leading" id="guq-qA-HNz"/>
+                            <constraint firstItem="XZy-DE-uvR" firstAttribute="top" secondItem="cKq-Z5-HUQ" secondAttribute="top" id="hny-xN-Ir0"/>
+                            <constraint firstAttribute="trailing" secondItem="XZy-DE-uvR" secondAttribute="trailing" id="i3C-DI-Tbz"/>
+                            <constraint firstItem="6E7-je-hRL" firstAttribute="top" secondItem="r5F-Eg-gkn" secondAttribute="bottom" id="llU-zW-Ibx"/>
+                            <constraint firstItem="6E7-je-hRL" firstAttribute="leading" secondItem="cKq-Z5-HUQ" secondAttribute="leadingMargin" id="ndR-CT-jmX"/>
+                            <constraint firstItem="VVr-jA-zhj" firstAttribute="top" secondItem="XZy-DE-uvR" secondAttribute="bottom" id="oDh-CD-DIr"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="6E7-je-hRL"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="L6Z-sR-tKz"/>
+                                <exclude reference="Wly-5I-XI7"/>
+                                <exclude reference="llU-zW-Ibx"/>
+                                <exclude reference="ndR-CT-jmX"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular">
+                            <mask key="subviews">
+                                <include reference="6E7-je-hRL"/>
+                            </mask>
+                            <mask key="constraints">
+                                <include reference="L6Z-sR-tKz"/>
+                                <exclude reference="hny-xN-Ir0"/>
+                                <include reference="Wly-5I-XI7"/>
+                                <include reference="llU-zW-Ibx"/>
+                                <include reference="ndR-CT-jmX"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="chart" destination="XZy-DE-uvR" id="KiH-aT-Kcf"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NlM-0l-kYp" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-781" y="159.75"/>
         </scene>
         <!--Master-->
         <scene sceneID="smW-Zh-WAh">

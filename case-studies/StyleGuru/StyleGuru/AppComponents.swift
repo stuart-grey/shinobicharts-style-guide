@@ -19,7 +19,7 @@ import UIKit
 enum AppComponentCategory: String {
   case Charts = "shinobicharts"
 
-  static let allValues = [ Charts, ]
+  static let allValues = [ Charts ]
 }
 
 enum AppComponentType {
@@ -52,6 +52,7 @@ struct AppComponent {
 extension AppComponent {
   static func appStructure() -> [AppComponent] {
     return [
+      AppComponent(name: "Twitter Stats", category: .Charts, vcIdentifier: "TwitterStatsVC")
     ]
   }
 }

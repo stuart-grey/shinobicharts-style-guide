@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
+		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
+		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
+		22A6CCE21ADBB05900D70068 /* libc++.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCE11ADBB05900D70068 /* libc++.dylib */; };
+		22A6CCE41ADBB06000D70068 /* OpenGLES.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCE31ADBB06000D70068 /* OpenGLES.framework */; };
 		22EDB86C1AD81BFE008515E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EDB86B1AD81BFE008515E4 /* AppDelegate.swift */; };
 		22EDB86E1AD81BFE008515E4 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EDB86D1AD81BFE008515E4 /* MasterViewController.swift */; };
 		22EDB8701AD81BFE008515E4 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22EDB86F1AD81BFE008515E4 /* DetailViewController.swift */; };
@@ -29,6 +34,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
+		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
+		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
+		22A6CCE11ADBB05900D70068 /* libc++.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = "libc++.dylib"; path = "usr/lib/libc++.dylib"; sourceTree = SDKROOT; };
+		22A6CCE31ADBB06000D70068 /* OpenGLES.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenGLES.framework; path = System/Library/Frameworks/OpenGLES.framework; sourceTree = SDKROOT; };
 		22EDB8661AD81BFE008515E4 /* StyleGuru.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StyleGuru.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22EDB86A1AD81BFE008515E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22EDB86B1AD81BFE008515E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +59,10 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22A6CCE41ADBB06000D70068 /* OpenGLES.framework in Frameworks */,
+				22A6CCE21ADBB05900D70068 /* libc++.dylib in Frameworks */,
+				22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */,
+				22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */,
 				22EDB8991AD826D0008515E4 /* ShinobiCharts.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -144,6 +158,7 @@
 		22EDB8911AD821D3008515E4 /* twitter */ = {
 			isa = PBXGroup;
 			children = (
+				22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */,
 			);
 			path = twitter;
 			sourceTree = "<group>";
@@ -173,6 +188,10 @@
 		22EDB8971AD826C4008515E4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				22A6CCE31ADBB06000D70068 /* OpenGLES.framework */,
+				22A6CCE11ADBB05900D70068 /* libc++.dylib */,
+				22A6CCDF1ADBB05100D70068 /* CoreText.framework */,
+				22A6CCDD1ADBB04C00D70068 /* Security.framework */,
 				22EDB8981AD826D0008515E4 /* ShinobiCharts.framework */,
 			);
 			name = Frameworks;
@@ -280,6 +299,7 @@
 			files = (
 				22EDB8701AD81BFE008515E4 /* DetailViewController.swift in Sources */,
 				22EDB8961AD82219008515E4 /* AppComponents.swift in Sources */,
+				22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */,
 				22EDB86E1AD81BFE008515E4 /* MasterViewController.swift in Sources */,
 				22EDB86C1AD81BFE008515E4 /* AppDelegate.swift in Sources */,
 			);
@@ -489,6 +509,7 @@
 				22EDB8891AD81BFE008515E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		22EDB88A1AD81BFE008515E4 /* Build configuration list for PBXNativeTarget "StyleGuruTests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +518,7 @@
 				22EDB88C1AD81BFE008515E4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
