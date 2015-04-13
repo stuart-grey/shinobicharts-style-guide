@@ -20,13 +20,25 @@ import UIKit
 class TwitterStatsViewController: UIViewController {
   
   @IBOutlet weak var chart: ShinobiChart!
+  let chartDatasource = TwitterStatsChartDataSource.defaultData()
   
   override func viewDidLoad() {
     super.viewDidLoad()
     
     // Do any additional setup after loading the view.
+    if let chartDatasource = chartDatasource {
+      chart.datasource = chartDatasource
+    }
     
-    chart.datasource = chart
+    prepareChart()
+  }
+  
+  private func prepareChart() {
+    let xAxis = SChartDateTimeAxis()
+    chart.xAxis = xAxis
+    
+    let yAxis = SChartNumberAxis()
+    chart.yAxis = yAxis
   }
   
 }
