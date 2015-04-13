@@ -73,10 +73,10 @@
                                 <exclude reference="6E7-je-hRL"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="L6Z-sR-tKz"/>
                                 <exclude reference="Wly-5I-XI7"/>
                                 <exclude reference="llU-zW-Ibx"/>
                                 <exclude reference="ndR-CT-jmX"/>
+                                <exclude reference="L6Z-sR-tKz"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular">
@@ -84,11 +84,11 @@
                                 <include reference="6E7-je-hRL"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="L6Z-sR-tKz"/>
-                                <exclude reference="hny-xN-Ir0"/>
                                 <include reference="Wly-5I-XI7"/>
                                 <include reference="llU-zW-Ibx"/>
                                 <include reference="ndR-CT-jmX"/>
+                                <include reference="L6Z-sR-tKz"/>
+                                <exclude reference="hny-xN-Ir0"/>
                             </mask>
                         </variation>
                     </view>

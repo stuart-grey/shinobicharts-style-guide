@@ -14,17 +14,26 @@
 // limitations under the License.
 //
 
-import UIKit
 
-@UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate, UISplitViewControllerDelegate {
+import Foundation
 
-  var window: UIWindow?
+extension ShinobiChart: SChartDatasource {
   
-  func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject : AnyObject]?) -> Bool {
-    ShinobiCharts.setLicenseKey("")
-    return true
+  // MARK:- SChartDatasource methods
+  public func numberOfSeriesInSChart(chart: ShinobiChart!) -> Int {
+    return 0
   }
-
+  
+  public func sChart(chart: ShinobiChart!, seriesAtIndex index: Int) -> SChartSeries! {
+    return nil
+  }
+  
+  public func sChart(chart: ShinobiChart!, numberOfDataPointsForSeriesAtIndex seriesIndex: Int) -> Int {
+    return 0
+  }
+  
+  public func sChart(chart: ShinobiChart!, dataPointAtIndex dataIndex: Int, forSeriesAtIndex seriesIndex: Int) -> SChartData! {
+    return nil
+  }
 }
 
