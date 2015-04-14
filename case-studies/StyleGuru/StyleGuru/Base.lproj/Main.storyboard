@@ -140,5 +140,71 @@
             </objects>
             <point key="canvasLocation" x="709" y="-630"/>
         </scene>
+        <!--RunningVC-->
+        <scene sceneID="vG8-pz-w4j">
+            <objects>
+                <viewController storyboardIdentifier="RunningVC" id="pih-M2-BYM" userLabel="RunningVC" customClass="RunningViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Vsw-dO-8L5"/>
+                        <viewControllerLayoutGuide type="bottom" id="sVe-rK-1D5"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="rYN-PL-Yh2">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="H9W-Io-Nnp" customClass="ShinobiChart">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="running" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="hcC-yO-6PO">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="60"/>
+                                <color key="textColor" red="0.27464420630000003" green="0.050648574439999997" blue="0.44602272729999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="hcC-yO-6PO" firstAttribute="top" secondItem="Vsw-dO-8L5" secondAttribute="bottom" id="2K0-Eb-TPQ"/>
+                            <constraint firstItem="H9W-Io-Nnp" firstAttribute="top" secondItem="rYN-PL-Yh2" secondAttribute="top" id="68Z-25-iTI"/>
+                            <constraint firstItem="hcC-yO-6PO" firstAttribute="leading" secondItem="rYN-PL-Yh2" secondAttribute="leadingMargin" id="CyF-cp-YQF"/>
+                            <constraint firstItem="H9W-Io-Nnp" firstAttribute="leading" secondItem="rYN-PL-Yh2" secondAttribute="leading" id="Td8-rg-xOe"/>
+                            <constraint firstAttribute="trailing" secondItem="H9W-Io-Nnp" secondAttribute="trailing" id="UWL-Mr-3S9"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="hcC-yO-6PO" secondAttribute="trailing" id="cQU-1b-UNg"/>
+                            <constraint firstItem="sVe-rK-1D5" firstAttribute="top" secondItem="H9W-Io-Nnp" secondAttribute="bottom" id="jFQ-jw-aZm"/>
+                            <constraint firstItem="H9W-Io-Nnp" firstAttribute="top" secondItem="hcC-yO-6PO" secondAttribute="bottom" id="p1t-c9-Vem"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="hcC-yO-6PO"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="cQU-1b-UNg"/>
+                                <exclude reference="2K0-Eb-TPQ"/>
+                                <exclude reference="CyF-cp-YQF"/>
+                                <exclude reference="p1t-c9-Vem"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular">
+                            <mask key="subviews">
+                                <include reference="hcC-yO-6PO"/>
+                            </mask>
+                            <mask key="constraints">
+                                <include reference="cQU-1b-UNg"/>
+                                <include reference="2K0-Eb-TPQ"/>
+                                <include reference="CyF-cp-YQF"/>
+                                <include reference="p1t-c9-Vem"/>
+                                <exclude reference="68Z-25-iTI"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="chart" destination="H9W-Io-Nnp" id="AEc-eR-0bS"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="HMQ-hG-RT5" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-38" y="159"/>
+        </scene>
     </scenes>
 </document>

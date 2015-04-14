@@ -11,6 +11,9 @@
 		222216B71ADBC5D300294F21 /* TwitterStatsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222216B61ADBC5D300294F21 /* TwitterStatsData.swift */; };
 		222216B91ADBD9A600294F21 /* TwitterStatsChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222216B81ADBD9A600294F21 /* TwitterStatsChartData.swift */; };
 		227E6EAA1ADD663800FE3442 /* running-data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 227E6EA91ADD663800FE3442 /* running-data.plist */; };
+		227E6EAC1ADD685E00FE3442 /* RunningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAB1ADD685E00FE3442 /* RunningViewController.swift */; };
+		227E6EAE1ADD697200FE3442 /* RunningChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAD1ADD697200FE3442 /* RunningChartData.swift */; };
+		227E6EB01ADD69A600FE3442 /* RunningData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAF1ADD69A600FE3442 /* RunningData.swift */; };
 		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
 		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
 		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
@@ -42,6 +45,9 @@
 		222216B61ADBC5D300294F21 /* TwitterStatsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsData.swift; sourceTree = "<group>"; };
 		222216B81ADBD9A600294F21 /* TwitterStatsChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsChartData.swift; sourceTree = "<group>"; };
 		227E6EA91ADD663800FE3442 /* running-data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "running-data.plist"; sourceTree = "<group>"; };
+		227E6EAB1ADD685E00FE3442 /* RunningViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningViewController.swift; sourceTree = "<group>"; };
+		227E6EAD1ADD697200FE3442 /* RunningChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningChartData.swift; sourceTree = "<group>"; };
+		227E6EAF1ADD69A600FE3442 /* RunningData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningData.swift; sourceTree = "<group>"; };
 		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
@@ -168,6 +174,9 @@
 			isa = PBXGroup;
 			children = (
 				227E6EA91ADD663800FE3442 /* running-data.plist */,
+				227E6EAB1ADD685E00FE3442 /* RunningViewController.swift */,
+				227E6EAD1ADD697200FE3442 /* RunningChartData.swift */,
+				227E6EAF1ADD69A600FE3442 /* RunningData.swift */,
 			);
 			path = sport;
 			sourceTree = "<group>";
@@ -320,11 +329,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				222216B91ADBD9A600294F21 /* TwitterStatsChartData.swift in Sources */,
+				227E6EB01ADD69A600FE3442 /* RunningData.swift in Sources */,
 				22A6CCE81ADBB1CC00D70068 /* EmptyDatasourceChart.swift in Sources */,
 				222216B71ADBC5D300294F21 /* TwitterStatsData.swift in Sources */,
 				22EDB8961AD82219008515E4 /* AppComponents.swift in Sources */,
+				227E6EAE1ADD697200FE3442 /* RunningChartData.swift in Sources */,
 				22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */,
 				22EDB86E1AD81BFE008515E4 /* MasterViewController.swift in Sources */,
+				227E6EAC1ADD685E00FE3442 /* RunningViewController.swift in Sources */,
 				22EDB86C1AD81BFE008515E4 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
