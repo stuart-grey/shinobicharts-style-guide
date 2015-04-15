@@ -52,9 +52,9 @@ struct AppComponent {
 extension AppComponent {
   static func appStructure() -> [AppComponent] {
     return [
-      AppComponent(name: "Twitter Stats", category: .Charts, vcIdentifier: "TwitterStatsVC"),
-      AppComponent(name: "Running", category: .Charts, vcIdentifier: "RunningVC"),
-      AppComponent(name: "Finance", category: .Charts, vcIdentifier: "FinanceVC")
+      AppComponent(name: "twitter stats", category: .Charts, vcIdentifier: "TwitterStatsVC"),
+      AppComponent(name: "running", category: .Charts, vcIdentifier: "RunningVC"),
+      AppComponent(name: "finance", category: .Charts, vcIdentifier: "FinanceVC")
     ]
   }
 }

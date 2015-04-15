@@ -37,7 +37,7 @@
         <!--TwitterStatsVC-->
         <scene sceneID="VKe-Ke-GB8">
             <objects>
-                <viewController storyboardIdentifier="TwitterStatsVC" id="rHd-fV-jfF" userLabel="TwitterStatsVC" customClass="TwitterStatsViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="TwitterStatsVC" title="twitter" id="rHd-fV-jfF" userLabel="TwitterStatsVC" customClass="TwitterStatsViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="r5F-Eg-gkn"/>
                         <viewControllerLayoutGuide type="bottom" id="VVr-jA-zhj"/>
@@ -143,7 +143,7 @@
         <!--RunningVC-->
         <scene sceneID="vG8-pz-w4j">
             <objects>
-                <viewController storyboardIdentifier="RunningVC" id="pih-M2-BYM" userLabel="RunningVC" customClass="RunningViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="RunningVC" title="running" id="pih-M2-BYM" userLabel="RunningVC" customClass="RunningViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="Vsw-dO-8L5"/>
                         <viewControllerLayoutGuide type="bottom" id="sVe-rK-1D5"/>
@@ -209,7 +209,7 @@
         <!--FinanceVC-->
         <scene sceneID="DNY-08-Xpi">
             <objects>
-                <viewController storyboardIdentifier="FinanceVC" title="FinanceVC" id="XjJ-dV-OMF" userLabel="FinanceVC" customClass="FinanceViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="FinanceVC" title="aapl" id="XjJ-dV-OMF" userLabel="FinanceVC" customClass="FinanceViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="n7u-Kj-88q"/>
                         <viewControllerLayoutGuide type="bottom" id="Qar-YJ-LuD"/>
