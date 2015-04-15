@@ -19,6 +19,7 @@
 		227E6EB71ADE5E0D00FE3442 /* AAPL.csv in Resources */ = {isa = PBXBuildFile; fileRef = 227E6EB61ADE5E0D00FE3442 /* AAPL.csv */; };
 		227E6EB91ADE5E9500FE3442 /* FinanceChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */; };
 		227E6EBB1ADE611F00FE3442 /* FinanceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */; };
+		227E6EBF1ADEA19600FE3442 /* healthspark.plist in Resources */ = {isa = PBXBuildFile; fileRef = 227E6EBE1ADEA19600FE3442 /* healthspark.plist */; };
 		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
 		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
 		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
@@ -58,6 +59,7 @@
 		227E6EB61ADE5E0D00FE3442 /* AAPL.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AAPL.csv; sourceTree = "<group>"; };
 		227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceChartData.swift; sourceTree = "<group>"; };
 		227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceViewController.swift; sourceTree = "<group>"; };
+		227E6EBE1ADEA19600FE3442 /* healthspark.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = healthspark.plist; sourceTree = "<group>"; };
 		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
@@ -217,6 +219,7 @@
 		22EDB8931AD821E3008515E4 /* sparklines */ = {
 			isa = PBXGroup;
 			children = (
+				227E6EBE1ADEA19600FE3442 /* healthspark.plist */,
 			);
 			path = sparklines;
 			sourceTree = "<group>";
@@ -325,6 +328,7 @@
 			files = (
 				227E6EB71ADE5E0D00FE3442 /* AAPL.csv in Resources */,
 				22EDB8731AD81BFE008515E4 /* Main.storyboard in Resources */,
+				227E6EBF1ADEA19600FE3442 /* healthspark.plist in Resources */,
 				227E6EAA1ADD663800FE3442 /* running-data.plist in Resources */,
 				222216B51ADBC2A000294F21 /* TwitterImpressions.plist in Resources */,
 				22EDB8781AD81BFE008515E4 /* LaunchScreen.xib in Resources */,
