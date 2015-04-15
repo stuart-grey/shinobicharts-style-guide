@@ -40,7 +40,17 @@ class TwitterStatsViewController: UIViewController {
     
     
     let xAxis = SChartDateTimeAxis()
+    xAxis.majorTickFrequency = 60*60*24*7
+    
+    xAxis.style.majorGridLineStyle.showMajorGridLines = true
+    xAxis.style.majorTickStyle.showTicks = true
+    
     chart.xAxis = xAxis
+    
+    
+    
+    
+    
     
     let yAxis = SChartNumberAxis()
     yAxis.axisPosition = SChartAxisPositionReverse
