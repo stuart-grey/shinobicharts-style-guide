@@ -14,6 +14,8 @@
 		227E6EAC1ADD685E00FE3442 /* RunningViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAB1ADD685E00FE3442 /* RunningViewController.swift */; };
 		227E6EAE1ADD697200FE3442 /* RunningChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAD1ADD697200FE3442 /* RunningChartData.swift */; };
 		227E6EB01ADD69A600FE3442 /* RunningData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAF1ADD69A600FE3442 /* RunningData.swift */; };
+		227E6EB21ADE48A300FE3442 /* FinanceData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EB11ADE48A300FE3442 /* FinanceData.swift */; };
+		227E6EB41ADE4C4F00FE3442 /* SwiftCSV.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 227E6EB31ADE4C4F00FE3442 /* SwiftCSV.framework */; };
 		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
 		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
 		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
@@ -48,6 +50,8 @@
 		227E6EAB1ADD685E00FE3442 /* RunningViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningViewController.swift; sourceTree = "<group>"; };
 		227E6EAD1ADD697200FE3442 /* RunningChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningChartData.swift; sourceTree = "<group>"; };
 		227E6EAF1ADD69A600FE3442 /* RunningData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningData.swift; sourceTree = "<group>"; };
+		227E6EB11ADE48A300FE3442 /* FinanceData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceData.swift; sourceTree = "<group>"; };
+		227E6EB31ADE4C4F00FE3442 /* SwiftCSV.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftCSV.framework; path = Carthage/Build/iOS/SwiftCSV.framework; sourceTree = "<group>"; };
 		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
@@ -74,6 +78,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22A6CCE41ADBB06000D70068 /* OpenGLES.framework in Frameworks */,
+				227E6EB41ADE4C4F00FE3442 /* SwiftCSV.framework in Frameworks */,
 				22A6CCE21ADBB05900D70068 /* libc++.dylib in Frameworks */,
 				22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */,
 				22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */,
@@ -195,6 +200,7 @@
 		22EDB8921AD821DB008515E4 /* finance */ = {
 			isa = PBXGroup;
 			children = (
+				227E6EB11ADE48A300FE3442 /* FinanceData.swift */,
 			);
 			path = finance;
 			sourceTree = "<group>";
@@ -217,6 +223,7 @@
 		22EDB8971AD826C4008515E4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				227E6EB31ADE4C4F00FE3442 /* SwiftCSV.framework */,
 				22A6CCE31ADBB06000D70068 /* OpenGLES.framework */,
 				22A6CCE11ADBB05900D70068 /* libc++.dylib */,
 				22A6CCDF1ADBB05100D70068 /* CoreText.framework */,
@@ -236,6 +243,7 @@
 				22EDB8621AD81BFE008515E4 /* Sources */,
 				22EDB8631AD81BFE008515E4 /* Frameworks */,
 				22EDB8641AD81BFE008515E4 /* Resources */,
+				227E6EB51ADE4DC500FE3442 /* Carthage Copy Frameworks */,
 			);
 			buildRules = (
 			);
@@ -323,6 +331,24 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		227E6EB51ADE4DC500FE3442 /* Carthage Copy Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"$(SRCROOT)/Carthage/Build/iOS/SwiftCSV.framework",
+			);
+			name = "Carthage Copy Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "if [ -e /usr/local/bin/carthage ]; then\n/usr/local/bin/carthage copy-frameworks\nelse\necho \"warning: Unable to find carthage. This build will not work for the app store. Install carthage to fix this.\"\nfi";
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		22EDB8621AD81BFE008515E4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -335,6 +361,7 @@
 				22EDB8961AD82219008515E4 /* AppComponents.swift in Sources */,
 				227E6EAE1ADD697200FE3442 /* RunningChartData.swift in Sources */,
 				22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */,
+				227E6EB21ADE48A300FE3442 /* FinanceData.swift in Sources */,
 				22EDB86E1AD81BFE008515E4 /* MasterViewController.swift in Sources */,
 				227E6EAC1ADD685E00FE3442 /* RunningViewController.swift in Sources */,
 				22EDB86C1AD81BFE008515E4 /* AppDelegate.swift in Sources */,
@@ -469,6 +496,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = StyleGuru/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -484,6 +512,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
+					"$(PROJECT_DIR)/Carthage/Build/iOS",
 				);
 				INFOPLIST_FILE = StyleGuru/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

@@ -28,9 +28,9 @@ DerivedData
 # Carthage
 #
 # Add this line if you want to avoid checking in source code from Carthage dependencies.
-# Carthage/Checkouts
-
-Carthage/Build
+**/Carthage/Checkouts
+# Want to be able to get non-carthage users to build
+!**/Carthage/Build
 
 
 # Don't include shinobi frameworks
