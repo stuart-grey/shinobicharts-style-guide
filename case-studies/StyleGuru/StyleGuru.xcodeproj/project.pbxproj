@@ -20,6 +20,9 @@
 		227E6EB91ADE5E9500FE3442 /* FinanceChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */; };
 		227E6EBB1ADE611F00FE3442 /* FinanceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */; };
 		227E6EBF1ADEA19600FE3442 /* healthspark.plist in Resources */ = {isa = PBXBuildFile; fileRef = 227E6EBE1ADEA19600FE3442 /* healthspark.plist */; };
+		227E6EC11ADEA25000FE3442 /* SparkData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC01ADEA25000FE3442 /* SparkData.swift */; };
+		227E6EC31ADEBAF100FE3442 /* SparkChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC21ADEBAF100FE3442 /* SparkChartData.swift */; };
+		227E6EC51ADEBC7700FE3442 /* SparkChartsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC41ADEBC7700FE3442 /* SparkChartsViewController.swift */; };
 		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
 		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
 		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
@@ -60,6 +63,9 @@
 		227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceChartData.swift; sourceTree = "<group>"; };
 		227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceViewController.swift; sourceTree = "<group>"; };
 		227E6EBE1ADEA19600FE3442 /* healthspark.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = healthspark.plist; sourceTree = "<group>"; };
+		227E6EC01ADEA25000FE3442 /* SparkData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SparkData.swift; sourceTree = "<group>"; };
+		227E6EC21ADEBAF100FE3442 /* SparkChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SparkChartData.swift; sourceTree = "<group>"; };
+		227E6EC41ADEBC7700FE3442 /* SparkChartsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SparkChartsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
@@ -220,6 +226,9 @@
 			isa = PBXGroup;
 			children = (
 				227E6EBE1ADEA19600FE3442 /* healthspark.plist */,
+				227E6EC01ADEA25000FE3442 /* SparkData.swift */,
+				227E6EC21ADEBAF100FE3442 /* SparkChartData.swift */,
+				227E6EC41ADEBC7700FE3442 /* SparkChartsViewController.swift */,
 			);
 			path = sparklines;
 			sourceTree = "<group>";
@@ -368,7 +377,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				227E6EC31ADEBAF100FE3442 /* SparkChartData.swift in Sources */,
 				222216B91ADBD9A600294F21 /* TwitterStatsChartData.swift in Sources */,
+				227E6EC11ADEA25000FE3442 /* SparkData.swift in Sources */,
 				227E6EB01ADD69A600FE3442 /* RunningData.swift in Sources */,
 				22A6CCE81ADBB1CC00D70068 /* EmptyDatasourceChart.swift in Sources */,
 				222216B71ADBC5D300294F21 /* TwitterStatsData.swift in Sources */,
@@ -381,6 +392,7 @@
 				227E6EB91ADE5E9500FE3442 /* FinanceChartData.swift in Sources */,
 				227E6EAC1ADD685E00FE3442 /* RunningViewController.swift in Sources */,
 				22EDB86C1AD81BFE008515E4 /* AppDelegate.swift in Sources */,
+				227E6EC51ADEBC7700FE3442 /* SparkChartsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

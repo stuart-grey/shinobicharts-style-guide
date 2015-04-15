@@ -54,7 +54,8 @@ extension AppComponent {
     return [
       AppComponent(name: "twitter stats", category: .Charts, vcIdentifier: "TwitterStatsVC"),
       AppComponent(name: "running", category: .Charts, vcIdentifier: "RunningVC"),
-      AppComponent(name: "finance", category: .Charts, vcIdentifier: "FinanceVC")
+      AppComponent(name: "finance", category: .Charts, vcIdentifier: "FinanceVC"),
+      AppComponent(name: "sparks", category: .Charts, vcIdentifier: "SparkChartsVC")
     ]
   }
 }

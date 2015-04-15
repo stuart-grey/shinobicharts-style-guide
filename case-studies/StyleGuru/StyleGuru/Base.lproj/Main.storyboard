@@ -209,7 +209,7 @@
         <!--FinanceVC-->
         <scene sceneID="DNY-08-Xpi">
             <objects>
-                <viewController storyboardIdentifier="FinanceVC" title="aapl" id="XjJ-dV-OMF" userLabel="FinanceVC" customClass="FinanceViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="FinanceVC" title="finance" id="XjJ-dV-OMF" userLabel="FinanceVC" customClass="FinanceViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="n7u-Kj-88q"/>
                         <viewControllerLayoutGuide type="bottom" id="Qar-YJ-LuD"/>
@@ -271,6 +271,97 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="RBI-fS-AxN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="709" y="159"/>
+        </scene>
+        <!--SparkChartsVC-->
+        <scene sceneID="QKH-g0-TgB">
+            <objects>
+                <viewController storyboardIdentifier="SparkChartsVC" title="spark charts" id="hQW-X2-fUG" userLabel="SparkChartsVC" customClass="SparkChartsViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="7wj-iV-v2I"/>
+                        <viewControllerLayoutGuide type="bottom" id="VI4-eb-JhI"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="ewm-33-bDq">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bUn-Va-hZg" userLabel="purpleChart" customClass="ShinobiChart">
+                                <rect key="frame" x="0.0" y="20" width="300" height="290"/>
+                                <color key="backgroundColor" red="0.27464420630000003" green="0.050648574439999997" blue="0.44602272729999998" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="38d-LS-Ufa" userLabel="redChart" customClass="ShinobiChart">
+                                <rect key="frame" x="300" y="20" width="300" height="290"/>
+                                <color key="backgroundColor" red="1" green="0.1641384038" blue="0.12800307950000001" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="rCw-B8-V7J" userLabel="blueChart" customClass="ShinobiChart">
+                                <rect key="frame" x="300" y="310" width="300" height="290"/>
+                                <color key="backgroundColor" red="0.76248444940000004" green="0.90933659909999998" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="0u8-33-WfR" userLabel="greenChart" customClass="ShinobiChart">
+                                <rect key="frame" x="0.0" y="310" width="300" height="290"/>
+                                <color key="backgroundColor" red="0.74451037279999999" green="1" blue="0.6180904894" alpha="1" colorSpace="calibratedRGB"/>
+                            </view>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="top" secondItem="7wj-iV-v2I" secondAttribute="bottom" id="1fa-aZ-5ZY"/>
+                            <constraint firstItem="VI4-eb-JhI" firstAttribute="top" secondItem="0u8-33-WfR" secondAttribute="bottom" id="461-M3-kCZ"/>
+                            <constraint firstItem="VI4-eb-JhI" firstAttribute="top" secondItem="rCw-B8-V7J" secondAttribute="bottom" id="7bv-Km-mNu"/>
+                            <constraint firstAttribute="trailing" secondItem="rCw-B8-V7J" secondAttribute="trailing" id="8La-Rf-a5A"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="width" secondItem="0u8-33-WfR" secondAttribute="width" id="9CD-kd-PSj"/>
+                            <constraint firstItem="38d-LS-Ufa" firstAttribute="leading" secondItem="ewm-33-bDq" secondAttribute="leading" id="L5Z-qa-TEk"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="height" secondItem="38d-LS-Ufa" secondAttribute="height" id="NLn-72-mbQ"/>
+                            <constraint firstItem="38d-LS-Ufa" firstAttribute="top" secondItem="bUn-Va-hZg" secondAttribute="bottom" id="OVb-XG-hXR"/>
+                            <constraint firstAttribute="trailing" secondItem="bUn-Va-hZg" secondAttribute="trailing" id="XjY-4e-esz"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="height" secondItem="0u8-33-WfR" secondAttribute="height" id="YgG-kg-S86"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="width" secondItem="38d-LS-Ufa" secondAttribute="width" id="akt-df-kGx"/>
+                            <constraint firstItem="38d-LS-Ufa" firstAttribute="top" secondItem="7wj-iV-v2I" secondAttribute="bottom" id="fYv-KC-RkP"/>
+                            <constraint firstAttribute="trailing" secondItem="38d-LS-Ufa" secondAttribute="trailing" id="hpe-de-SVG"/>
+                            <constraint firstItem="0u8-33-WfR" firstAttribute="top" secondItem="38d-LS-Ufa" secondAttribute="bottom" constant="19" id="i1q-mT-trk">
+                                <variation key="widthClass=compact" constant="0.0"/>
+                            </constraint>
+                            <constraint firstItem="rCw-B8-V7J" firstAttribute="leading" secondItem="0u8-33-WfR" secondAttribute="trailing" id="i6o-0l-uxF"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="height" secondItem="rCw-B8-V7J" secondAttribute="height" id="iVQ-Ee-pMY"/>
+                            <constraint firstItem="38d-LS-Ufa" firstAttribute="leading" secondItem="bUn-Va-hZg" secondAttribute="trailing" id="jC7-4D-hv2"/>
+                            <constraint firstItem="0u8-33-WfR" firstAttribute="leading" secondItem="ewm-33-bDq" secondAttribute="leading" id="ob0-pJ-6b7"/>
+                            <constraint firstItem="0u8-33-WfR" firstAttribute="top" secondItem="bUn-Va-hZg" secondAttribute="bottom" id="qN5-ma-86c"/>
+                            <constraint firstItem="rCw-B8-V7J" firstAttribute="top" secondItem="0u8-33-WfR" secondAttribute="bottom" id="vZ7-YS-qwy"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="width" secondItem="rCw-B8-V7J" secondAttribute="width" id="wxn-uA-udI"/>
+                            <constraint firstItem="bUn-Va-hZg" firstAttribute="leading" secondItem="ewm-33-bDq" secondAttribute="leading" id="wyV-Jq-mQ8"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="XjY-4e-esz"/>
+                                <exclude reference="L5Z-qa-TEk"/>
+                                <exclude reference="OVb-XG-hXR"/>
+                                <exclude reference="i1q-mT-trk"/>
+                                <exclude reference="vZ7-YS-qwy"/>
+                            </mask>
+                        </variation>
+                        <variation key="widthClass=compact">
+                            <mask key="constraints">
+                                <include reference="XjY-4e-esz"/>
+                                <include reference="L5Z-qa-TEk"/>
+                                <include reference="OVb-XG-hXR"/>
+                                <exclude reference="fYv-KC-RkP"/>
+                                <exclude reference="jC7-4D-hv2"/>
+                                <include reference="i1q-mT-trk"/>
+                                <exclude reference="qN5-ma-86c"/>
+                                <exclude reference="i6o-0l-uxF"/>
+                                <include reference="vZ7-YS-qwy"/>
+                                <exclude reference="461-M3-kCZ"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outletCollection property="charts" destination="bUn-Va-hZg" collectionClass="NSMutableArray" id="ckv-kJ-Hzs"/>
+                        <outletCollection property="charts" destination="38d-LS-Ufa" collectionClass="NSMutableArray" id="thi-HC-u5N"/>
+                        <outletCollection property="charts" destination="0u8-33-WfR" collectionClass="NSMutableArray" id="ShA-XZ-kld"/>
+                        <outletCollection property="charts" destination="rCw-B8-V7J" collectionClass="NSMutableArray" id="Ur1-Er-ci8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PJt-d5-8ha" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1522.5" y="159"/>
         </scene>
     </scenes>
 </document>
