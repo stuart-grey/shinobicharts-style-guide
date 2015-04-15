@@ -16,6 +16,9 @@
 		227E6EB01ADD69A600FE3442 /* RunningData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EAF1ADD69A600FE3442 /* RunningData.swift */; };
 		227E6EB21ADE48A300FE3442 /* FinanceData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EB11ADE48A300FE3442 /* FinanceData.swift */; };
 		227E6EB41ADE4C4F00FE3442 /* SwiftCSV.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 227E6EB31ADE4C4F00FE3442 /* SwiftCSV.framework */; };
+		227E6EB71ADE5E0D00FE3442 /* AAPL.csv in Resources */ = {isa = PBXBuildFile; fileRef = 227E6EB61ADE5E0D00FE3442 /* AAPL.csv */; };
+		227E6EB91ADE5E9500FE3442 /* FinanceChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */; };
+		227E6EBB1ADE611F00FE3442 /* FinanceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */; };
 		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
 		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
 		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
@@ -52,6 +55,9 @@
 		227E6EAF1ADD69A600FE3442 /* RunningData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RunningData.swift; sourceTree = "<group>"; };
 		227E6EB11ADE48A300FE3442 /* FinanceData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceData.swift; sourceTree = "<group>"; };
 		227E6EB31ADE4C4F00FE3442 /* SwiftCSV.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftCSV.framework; path = Carthage/Build/iOS/SwiftCSV.framework; sourceTree = "<group>"; };
+		227E6EB61ADE5E0D00FE3442 /* AAPL.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = AAPL.csv; sourceTree = "<group>"; };
+		227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceChartData.swift; sourceTree = "<group>"; };
+		227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinanceViewController.swift; sourceTree = "<group>"; };
 		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
@@ -200,7 +206,10 @@
 		22EDB8921AD821DB008515E4 /* finance */ = {
 			isa = PBXGroup;
 			children = (
+				227E6EB61ADE5E0D00FE3442 /* AAPL.csv */,
 				227E6EB11ADE48A300FE3442 /* FinanceData.swift */,
+				227E6EB81ADE5E9500FE3442 /* FinanceChartData.swift */,
+				227E6EBA1ADE611F00FE3442 /* FinanceViewController.swift */,
 			);
 			path = finance;
 			sourceTree = "<group>";
@@ -314,6 +323,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				227E6EB71ADE5E0D00FE3442 /* AAPL.csv in Resources */,
 				22EDB8731AD81BFE008515E4 /* Main.storyboard in Resources */,
 				227E6EAA1ADD663800FE3442 /* running-data.plist in Resources */,
 				222216B51ADBC2A000294F21 /* TwitterImpressions.plist in Resources */,
@@ -360,9 +370,11 @@
 				222216B71ADBC5D300294F21 /* TwitterStatsData.swift in Sources */,
 				22EDB8961AD82219008515E4 /* AppComponents.swift in Sources */,
 				227E6EAE1ADD697200FE3442 /* RunningChartData.swift in Sources */,
+				227E6EBB1ADE611F00FE3442 /* FinanceViewController.swift in Sources */,
 				22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */,
 				227E6EB21ADE48A300FE3442 /* FinanceData.swift in Sources */,
 				22EDB86E1AD81BFE008515E4 /* MasterViewController.swift in Sources */,
+				227E6EB91ADE5E9500FE3442 /* FinanceChartData.swift in Sources */,
 				227E6EAC1ADD685E00FE3442 /* RunningViewController.swift in Sources */,
 				22EDB86C1AD81BFE008515E4 /* AppDelegate.swift in Sources */,
 			);

@@ -179,9 +179,9 @@
                                 <exclude reference="hcC-yO-6PO"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="cQU-1b-UNg"/>
                                 <exclude reference="2K0-Eb-TPQ"/>
                                 <exclude reference="CyF-cp-YQF"/>
+                                <exclude reference="cQU-1b-UNg"/>
                                 <exclude reference="p1t-c9-Vem"/>
                             </mask>
                         </variation>
@@ -190,11 +190,11 @@
                                 <include reference="hcC-yO-6PO"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="cQU-1b-UNg"/>
                                 <include reference="2K0-Eb-TPQ"/>
                                 <include reference="CyF-cp-YQF"/>
-                                <include reference="p1t-c9-Vem"/>
+                                <include reference="cQU-1b-UNg"/>
                                 <exclude reference="68Z-25-iTI"/>
+                                <include reference="p1t-c9-Vem"/>
                             </mask>
                         </variation>
                     </view>
@@ -205,6 +205,72 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HMQ-hG-RT5" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-38" y="159"/>
+        </scene>
+        <!--FinanceVC-->
+        <scene sceneID="DNY-08-Xpi">
+            <objects>
+                <viewController storyboardIdentifier="FinanceVC" title="FinanceVC" id="XjJ-dV-OMF" userLabel="FinanceVC" customClass="FinanceViewController" customModule="StyleGuru" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="n7u-Kj-88q"/>
+                        <viewControllerLayoutGuide type="bottom" id="Qar-YJ-LuD"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="CJ6-RJ-IXl">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GR3-Mk-5V1" customClass="ShinobiChart">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="aapl" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="tpL-t0-D5K">
+                                <rect key="frame" x="0.0" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="60"/>
+                                <color key="textColor" red="0.27464420630000003" green="0.050648574439999997" blue="0.44602272729999998" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="GR3-Mk-5V1" firstAttribute="top" secondItem="CJ6-RJ-IXl" secondAttribute="top" id="6Nn-AD-2If"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="tpL-t0-D5K" secondAttribute="trailing" id="8Io-vp-84H"/>
+                            <constraint firstItem="GR3-Mk-5V1" firstAttribute="leading" secondItem="CJ6-RJ-IXl" secondAttribute="leading" id="9qZ-hI-pr4"/>
+                            <constraint firstItem="Qar-YJ-LuD" firstAttribute="top" secondItem="GR3-Mk-5V1" secondAttribute="bottom" id="I9c-By-hRq"/>
+                            <constraint firstItem="tpL-t0-D5K" firstAttribute="leading" secondItem="CJ6-RJ-IXl" secondAttribute="leadingMargin" id="R80-Ae-bn2"/>
+                            <constraint firstAttribute="trailing" secondItem="GR3-Mk-5V1" secondAttribute="trailing" id="W0S-y6-s6n"/>
+                            <constraint firstItem="tpL-t0-D5K" firstAttribute="top" secondItem="n7u-Kj-88q" secondAttribute="bottom" id="xKE-kd-8gV"/>
+                            <constraint firstItem="GR3-Mk-5V1" firstAttribute="top" secondItem="tpL-t0-D5K" secondAttribute="bottom" id="yAc-yE-7rv"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="tpL-t0-D5K"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="xKE-kd-8gV"/>
+                                <exclude reference="R80-Ae-bn2"/>
+                                <exclude reference="8Io-vp-84H"/>
+                                <exclude reference="yAc-yE-7rv"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular">
+                            <mask key="subviews">
+                                <include reference="tpL-t0-D5K"/>
+                            </mask>
+                            <mask key="constraints">
+                                <include reference="xKE-kd-8gV"/>
+                                <include reference="R80-Ae-bn2"/>
+                                <include reference="8Io-vp-84H"/>
+                                <exclude reference="6Nn-AD-2If"/>
+                                <include reference="yAc-yE-7rv"/>
+                            </mask>
+                        </variation>
+                    </view>
+                    <connections>
+                        <outlet property="chart" destination="GR3-Mk-5V1" id="TVe-nY-bBw"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="RBI-fS-AxN" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="709" y="159"/>
         </scene>
     </scenes>
 </document>
