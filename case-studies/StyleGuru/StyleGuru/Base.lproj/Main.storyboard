@@ -47,7 +47,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XZy-DE-uvR" customClass="ShinobiChart">
-                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                                <rect key="frame" x="0.0" y="20" width="600" height="580"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                             </view>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="twitter stats" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="6E7-je-hRL">
@@ -61,8 +61,8 @@
                         <constraints>
                             <constraint firstItem="XZy-DE-uvR" firstAttribute="top" secondItem="6E7-je-hRL" secondAttribute="bottom" id="L6Z-sR-tKz"/>
                             <constraint firstAttribute="trailingMargin" secondItem="6E7-je-hRL" secondAttribute="trailing" id="Wly-5I-XI7"/>
+                            <constraint firstItem="XZy-DE-uvR" firstAttribute="top" secondItem="r5F-Eg-gkn" secondAttribute="bottom" id="glj-6k-KCZ"/>
                             <constraint firstItem="XZy-DE-uvR" firstAttribute="leading" secondItem="cKq-Z5-HUQ" secondAttribute="leading" id="guq-qA-HNz"/>
-                            <constraint firstItem="XZy-DE-uvR" firstAttribute="top" secondItem="cKq-Z5-HUQ" secondAttribute="top" id="hny-xN-Ir0"/>
                             <constraint firstAttribute="trailing" secondItem="XZy-DE-uvR" secondAttribute="trailing" id="i3C-DI-Tbz"/>
                             <constraint firstItem="6E7-je-hRL" firstAttribute="top" secondItem="r5F-Eg-gkn" secondAttribute="bottom" id="llU-zW-Ibx"/>
                             <constraint firstItem="6E7-je-hRL" firstAttribute="leading" secondItem="cKq-Z5-HUQ" secondAttribute="leadingMargin" id="ndR-CT-jmX"/>
@@ -88,7 +88,7 @@
                                 <include reference="llU-zW-Ibx"/>
                                 <include reference="ndR-CT-jmX"/>
                                 <include reference="L6Z-sR-tKz"/>
-                                <exclude reference="hny-xN-Ir0"/>
+                                <exclude reference="glj-6k-KCZ"/>
                             </mask>
                         </variation>
                     </view>
@@ -245,10 +245,10 @@
                                 <exclude reference="tpL-t0-D5K"/>
                             </mask>
                             <mask key="constraints">
-                                <exclude reference="xKE-kd-8gV"/>
-                                <exclude reference="R80-Ae-bn2"/>
-                                <exclude reference="8Io-vp-84H"/>
                                 <exclude reference="yAc-yE-7rv"/>
+                                <exclude reference="8Io-vp-84H"/>
+                                <exclude reference="R80-Ae-bn2"/>
+                                <exclude reference="xKE-kd-8gV"/>
                             </mask>
                         </variation>
                         <variation key="heightClass=regular">
@@ -256,11 +256,11 @@
                                 <include reference="tpL-t0-D5K"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="xKE-kd-8gV"/>
-                                <include reference="R80-Ae-bn2"/>
-                                <include reference="8Io-vp-84H"/>
                                 <exclude reference="6Nn-AD-2If"/>
                                 <include reference="yAc-yE-7rv"/>
+                                <include reference="8Io-vp-84H"/>
+                                <include reference="R80-Ae-bn2"/>
+                                <include reference="xKE-kd-8gV"/>
                             </mask>
                         </variation>
                     </view>

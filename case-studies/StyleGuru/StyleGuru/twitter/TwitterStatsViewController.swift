@@ -21,6 +21,7 @@ class TwitterStatsViewController: UIViewController {
   
   @IBOutlet weak var chart: ShinobiChart!
   let chartDatasource = TwitterStatsChartDataSource.defaultData()
+  let chartDelegate = TwitterChartDelegate()
   
   override func viewDidLoad() {
     super.viewDidLoad()
@@ -29,16 +30,48 @@ class TwitterStatsViewController: UIViewController {
     if let chartDatasource = chartDatasource {
       chart.datasource = chartDatasource
     }
+    chart.delegate = chartDelegate
     
     prepareChart()
   }
   
   private func prepareChart() {
+    chart.backgroundColor = UIColor.clearColor()
+    
+    
     let xAxis = SChartDateTimeAxis()
     chart.xAxis = xAxis
     
     let yAxis = SChartNumberAxis()
+    yAxis.axisPosition = SChartAxisPositionReverse
+    yAxis.style.lineWidth = 0
+    yAxis.majorTickFrequency = 2000
+    let formatter = yAxis.labelFormatter.numberFormatter()
+    formatter.multiplier = 0.001
+    formatter.numberStyle = .DecimalStyle
+    formatter.minimumFractionDigits = 1
+    formatter.maximumFractionDigits = 1
+    formatter.positiveSuffix = "k"
+    formatter.negativeSuffix = "k"
+    
+    yAxis.style.majorGridLineStyle.showMajorGridLines = true
+    yAxis.style.majorGridLineStyle.dashedMajorGridLines = true
+    yAxis.style.majorGridLineStyle.dashStyle = [1]
+    
+    yAxis.width = 1
+    
     chart.yAxis = yAxis
   }
   
+}
+
+class TwitterChartDelegate: NSObject, SChartDelegate {
+  func sChart(chart: ShinobiChart!, alterTickMark tickMark: SChartTickMark!, beforeAddingToAxis axis: SChartAxis!) {
+    if !axis.isXAxis() {
+      if let tickLabel = tickMark.tickLabel {
+        tickLabel.frame = tickLabel.frame.rectByOffsetting(dx: -tickLabel.bounds.width * 1.5,
+                                                           dy: -tickLabel.bounds.height / 2.0)
+      }
+    }
+  }
 }
