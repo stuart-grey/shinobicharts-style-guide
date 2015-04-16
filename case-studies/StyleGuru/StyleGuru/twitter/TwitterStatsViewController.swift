@@ -96,8 +96,16 @@ class TwitterChartDelegate: NSObject, SChartDelegate {
         tickLabel.frame = tickLabel.frame.rectByOffsetting(dx: tickLabel.bounds.width * 0.5,
           dy: -tickLabel.bounds.height * 1.4)
       } else {
-        tickLabel.frame = tickLabel.frame.rectByOffsetting(dx: -tickLabel.bounds.width * 1.5,
-          dy: -tickLabel.bounds.height / 2.0)
+        // y Axis
+        if abs(tickMark.value) < 1e-4 {
+          // Hide the tick mark and grid line view at origin
+          tickMark.tickEnabled = false
+          tickMark.gridLineView.hidden = true
+        } else {
+          // Re-position the tick label
+          tickLabel.frame = tickLabel.frame.rectByOffsetting(dx: -tickLabel.bounds.width * 1.45,
+            dy: tickLabel.bounds.height / 2.0)
+        }
       }
     }
   }
