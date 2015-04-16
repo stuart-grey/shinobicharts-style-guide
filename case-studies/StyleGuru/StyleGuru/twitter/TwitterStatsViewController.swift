@@ -60,6 +60,9 @@ class TwitterStatsViewController: UIViewController {
     let anchor = NSCalendar.currentCalendar().dateBySettingUnit(.CalendarUnitWeekday, value: 1, ofDate: midnightToday!, options: .allZeros)
     xAxis.anchorPoint = anchor
     
+    // Configure column spacing
+    xAxis.style.interSeriesPadding = 0
+    xAxis.style.interSeriesSetPadding = 0.2
     
     chart.xAxis = xAxis
 
