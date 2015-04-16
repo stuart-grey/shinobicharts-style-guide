@@ -38,18 +38,25 @@ class TwitterStatsViewController: UIViewController {
   private func prepareChart() {
     chart.backgroundColor = UIColor.clearColor()
     
+    let lineColour = UIColor(white: 0.7, alpha: 1.0)
     
     let xAxis = SChartDateTimeAxis()
     xAxis.majorTickFrequency = 60*60*24*7
     
+    
     xAxis.style.majorGridLineStyle.showMajorGridLines = true
+    xAxis.style.majorGridLineStyle.lineWidth = 0.5
+    xAxis.style.majorGridLineStyle.lineColor = lineColour
     xAxis.style.majorTickStyle.showTicks = true
+    xAxis.style.majorTickStyle.lineWidth = 0.5
+    xAxis.style.majorTickStyle.lineLength = 20
+    xAxis.style.majorTickStyle.lineColor = lineColour
+    xAxis.style.lineColor = lineColour
+    
+    xAxis.width = 25
     
     chart.xAxis = xAxis
-    
-    
-    
-    
+
     
     
     let yAxis = SChartNumberAxis()
@@ -69,6 +76,7 @@ class TwitterStatsViewController: UIViewController {
     yAxis.style.majorGridLineStyle.dashStyle = [1]
     
     yAxis.width = 1
+    yAxis.rangePaddingHigh = 100
     
     chart.yAxis = yAxis
   }
@@ -77,10 +85,13 @@ class TwitterStatsViewController: UIViewController {
 
 class TwitterChartDelegate: NSObject, SChartDelegate {
   func sChart(chart: ShinobiChart!, alterTickMark tickMark: SChartTickMark!, beforeAddingToAxis axis: SChartAxis!) {
-    if !axis.isXAxis() {
-      if let tickLabel = tickMark.tickLabel {
+    if let tickLabel = tickMark.tickLabel {
+      if axis.isXAxis() {
+        tickLabel.frame = tickLabel.frame.rectByOffsetting(dx: tickLabel.bounds.width * 0.5,
+          dy: -tickLabel.bounds.height * 1.4)
+      } else {
         tickLabel.frame = tickLabel.frame.rectByOffsetting(dx: -tickLabel.bounds.width * 1.5,
-                                                           dy: -tickLabel.bounds.height / 2.0)
+          dy: -tickLabel.bounds.height / 2.0)
       }
     }
   }
