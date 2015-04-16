@@ -42,7 +42,7 @@ class TwitterStatsViewController: UIViewController {
     
     let xAxis = SChartDateTimeAxis()
     xAxis.majorTickFrequency = 60*60*24*7
-    
+    xAxis.style.lineWidth = 0.5
     
     xAxis.style.majorGridLineStyle.showMajorGridLines = true
     xAxis.style.majorGridLineStyle.lineWidth = 0.5
@@ -55,6 +55,12 @@ class TwitterStatsViewController: UIViewController {
     
     xAxis.width = 25
     
+    // Ticks marks should represent saturday. Have to deal with daylight saving
+    let midnightToday = NSCalendar.currentCalendar().dateBySettingHour(0, minute: 0, second: 0, ofDate: NSDate(), options: .allZeros)
+    let anchor = NSCalendar.currentCalendar().dateBySettingUnit(.CalendarUnitWeekday, value: 1, ofDate: midnightToday!, options: .allZeros)
+    xAxis.anchorPoint = anchor
+    
+    
     chart.xAxis = xAxis
 
     
@@ -62,7 +68,7 @@ class TwitterStatsViewController: UIViewController {
     let yAxis = SChartNumberAxis()
     yAxis.axisPosition = SChartAxisPositionReverse
     yAxis.style.lineWidth = 0
-    yAxis.majorTickFrequency = 2000
+    yAxis.majorTickFrequency = 1000
     let formatter = yAxis.labelFormatter.numberFormatter()
     formatter.multiplier = 0.001
     formatter.numberStyle = .DecimalStyle
