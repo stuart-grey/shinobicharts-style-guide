@@ -31,7 +31,17 @@ extension TwitterStatsChartDataSource : SChartDatasource {
   }
   
   func sChart(chart: ShinobiChart!, seriesAtIndex index: Int) -> SChartSeries! {
-    return SChartColumnSeries()
+    let columnSeries = SChartColumnSeries()
+    let style = columnSeries.style()
+    style.areaColor = UIColor(red: 170/255.0, green: 213/255.0, blue: 243/255.0, alpha: 1)
+    style.showAreaWithGradient = false
+    let selectedStyle = columnSeries.selectedStyle()
+    selectedStyle.areaColor = UIColor(red: 51/255.0, green: 148/255.0, blue: 225/255.0, alpha: 1)
+    selectedStyle.showAreaWithGradient = false
+    
+    columnSeries.selectionMode = SChartSelectionPoint
+    
+    return columnSeries
   }
   
   func sChart(chart: ShinobiChart!, numberOfDataPointsForSeriesAtIndex seriesIndex: Int) -> Int {
