@@ -34,9 +34,17 @@ class RunningViewController: UIViewController {
 
   private func prepareChart() {
     let xAxis = SChartNumberAxis()
+    xAxis.enableGesturePanning = true
+    xAxis.enableGestureZooming = true
+    xAxis.enableMomentumPanning = true
+    xAxis.enableMomentumZooming = true
     chart.xAxis = xAxis
     
     let yAxis = SChartNumberAxis()
+    yAxis.enableGesturePanning = true
+    yAxis.enableGestureZooming = true
+    yAxis.enableMomentumPanning = true
+    yAxis.enableMomentumZooming = true
     chart.yAxis = yAxis
   }
 
