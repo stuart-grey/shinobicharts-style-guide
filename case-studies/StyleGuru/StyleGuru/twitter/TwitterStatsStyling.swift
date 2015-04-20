@@ -110,8 +110,8 @@ extension AxisStyler {
     // Create an x-axis. We're showing time
     let axis = SChartDateTimeAxis()
     
-    // Only want ticks once per week. The units are in seconds.
-    axis.majorTickFrequency = 60*60*24*7
+    // Only want ticks once per week
+    axis.majorTickFrequency = SChartDateFrequency(week: 1)
     // Ticks marks should represent saturday. Use anchorPoint to offset them
     axis.anchorPoint = NSCalendar.midnightSaturday()
     
@@ -167,6 +167,6 @@ extension AxisStyler {
 private extension NSCalendar {
   private static func midnightSaturday() -> NSDate {
     let midnightToday = NSCalendar.currentCalendar().dateBySettingHour(0, minute: 0, second: 0, ofDate: NSDate(), options: .allZeros)
-    return NSCalendar.currentCalendar().dateBySettingUnit(.CalendarUnitWeekday, value: 1, ofDate: midnightToday!, options: .allZeros)!
+    return NSCalendar.currentCalendar().dateBySettingUnit(.CalendarUnitWeekday, value: 7, ofDate: midnightToday!, options: .allZeros)!
   }
 }
