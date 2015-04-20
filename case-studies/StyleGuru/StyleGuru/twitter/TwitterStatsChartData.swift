@@ -31,32 +31,7 @@ extension TwitterStatsChartDataSource : SChartDatasource {
   }
   
   func sChart(chart: ShinobiChart!, seriesAtIndex index: Int) -> SChartSeries! {
-    //*************************//
-    // Column Series Styling   //
-    //*************************//
-    
-    // Create the column series
-    let columnSeries = SChartColumnSeries()
-    
-    // Get hold of the SChartColumnSeriesStyle object
-    let style = columnSeries.style()
-    
-    // Specify the colour for the columns, and that they shouldn't use gradient fill
-    style.areaColor = UIColor(red: 170/255.0, green: 213/255.0, blue: 243/255.0, alpha: 1)
-    style.showAreaWithGradient = false
-    
-    // Get hold of the style object for when a column is selected
-    let selectedStyle = columnSeries.selectedStyle()
-    
-    // Once again, set the colour and disable gradient fill
-    selectedStyle.areaColor = UIColor(red: 51/255.0, green: 148/255.0, blue: 225/255.0, alpha: 1)
-    selectedStyle.showAreaWithGradient = false
-    
-    // Set that the selection mode should be single point (as opposed to series)
-    columnSeries.selectionMode = SChartSelectionPoint
-    
-    // We're done - hand the series back
-    return columnSeries
+    return SeriesStyler.blueColumnSeries()
   }
   
   func sChart(chart: ShinobiChart!, numberOfDataPointsForSeriesAtIndex seriesIndex: Int) -> Int {

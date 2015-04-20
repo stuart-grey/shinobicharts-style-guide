@@ -23,6 +23,8 @@
 		227E6EC11ADEA25000FE3442 /* SparkData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC01ADEA25000FE3442 /* SparkData.swift */; };
 		227E6EC31ADEBAF100FE3442 /* SparkChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC21ADEBAF100FE3442 /* SparkChartData.swift */; };
 		227E6EC51ADEBC7700FE3442 /* SparkChartsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC41ADEBC7700FE3442 /* SparkChartsViewController.swift */; };
+		227E6EC71AE14E3400FE3442 /* StylingUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC61AE14E3400FE3442 /* StylingUtils.swift */; };
+		227E6EC91AE1507500FE3442 /* TwitterStatsStyling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 227E6EC81AE1507500FE3442 /* TwitterStatsStyling.swift */; };
 		22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */; };
 		22A6CCDE1ADBB04C00D70068 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDD1ADBB04C00D70068 /* Security.framework */; };
 		22A6CCE01ADBB05100D70068 /* CoreText.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 22A6CCDF1ADBB05100D70068 /* CoreText.framework */; };
@@ -66,6 +68,8 @@
 		227E6EC01ADEA25000FE3442 /* SparkData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SparkData.swift; sourceTree = "<group>"; };
 		227E6EC21ADEBAF100FE3442 /* SparkChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SparkChartData.swift; sourceTree = "<group>"; };
 		227E6EC41ADEBC7700FE3442 /* SparkChartsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SparkChartsViewController.swift; sourceTree = "<group>"; };
+		227E6EC61AE14E3400FE3442 /* StylingUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StylingUtils.swift; sourceTree = "<group>"; };
+		227E6EC81AE1507500FE3442 /* TwitterStatsStyling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsStyling.swift; sourceTree = "<group>"; };
 		22A6CCDB1ADBADBC00D70068 /* TwitterStatsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsViewController.swift; sourceTree = "<group>"; };
 		22A6CCDD1ADBB04C00D70068 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 		22A6CCDF1ADBB05100D70068 /* CoreText.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreText.framework; path = System/Library/Frameworks/CoreText.framework; sourceTree = SDKROOT; };
@@ -207,6 +211,7 @@
 				222216B41ADBC2A000294F21 /* TwitterImpressions.plist */,
 				222216B61ADBC5D300294F21 /* TwitterStatsData.swift */,
 				222216B81ADBD9A600294F21 /* TwitterStatsChartData.swift */,
+				227E6EC81AE1507500FE3442 /* TwitterStatsStyling.swift */,
 			);
 			path = twitter;
 			sourceTree = "<group>";
@@ -237,6 +242,7 @@
 			isa = PBXGroup;
 			children = (
 				22EDB8951AD82219008515E4 /* AppComponents.swift */,
+				227E6EC61AE14E3400FE3442 /* StylingUtils.swift */,
 			);
 			name = "App Construction";
 			sourceTree = "<group>";
@@ -381,10 +387,12 @@
 				222216B91ADBD9A600294F21 /* TwitterStatsChartData.swift in Sources */,
 				227E6EC11ADEA25000FE3442 /* SparkData.swift in Sources */,
 				227E6EB01ADD69A600FE3442 /* RunningData.swift in Sources */,
+				227E6EC91AE1507500FE3442 /* TwitterStatsStyling.swift in Sources */,
 				22A6CCE81ADBB1CC00D70068 /* EmptyDatasourceChart.swift in Sources */,
 				222216B71ADBC5D300294F21 /* TwitterStatsData.swift in Sources */,
 				22EDB8961AD82219008515E4 /* AppComponents.swift in Sources */,
 				227E6EAE1ADD697200FE3442 /* RunningChartData.swift in Sources */,
+				227E6EC71AE14E3400FE3442 /* StylingUtils.swift in Sources */,
 				227E6EBB1ADE611F00FE3442 /* FinanceViewController.swift in Sources */,
 				22A6CCDC1ADBADBC00D70068 /* TwitterStatsViewController.swift in Sources */,
 				227E6EB21ADE48A300FE3442 /* FinanceData.swift in Sources */,
