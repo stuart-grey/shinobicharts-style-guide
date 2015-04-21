@@ -1114,36 +1114,6 @@
 	</dict>
 	<dict>
 		<key>distance</key>
-		<real>295.1000061035156</real>
-		<key>elevation</key>
-		<real>19</real>
-		<key>pace</key>
-		<real>83.3282470703125</real>
-		<key>time</key>
-		<date>2015-02-17T09:49:43Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>295.1000061035156</real>
-		<key>elevation</key>
-		<real>19</real>
-		<key>pace</key>
-		<real>0</real>
-		<key>time</key>
-		<date>2015-02-17T09:49:44Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>295.1000061035156</real>
-		<key>elevation</key>
-		<real>19</real>
-		<key>pace</key>
-		<real>0</real>
-		<key>time</key>
-		<date>2015-02-17T09:49:45Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
 		<real>295.7000122070312</real>
 		<key>elevation</key>
 		<real>18.79999923706055</real>

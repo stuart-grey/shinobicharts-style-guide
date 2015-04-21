@@ -16,13 +16,21 @@
 
 import Foundation
 
+enum RunningChartSeries: Int {
+  case Pace
+  case Elevation
+}
+
+typealias SeriesAxisMapping = [RunningChartSeries : SChartAxis]
 
 class RunningChartDataSource: NSObject {
-  let datapoints: [[SChartData]]
+  let datapoints: [RunningChartSeries : [SChartData]]
+  let axisMapping: SeriesAxisMapping
   
-  init(data: [RunningTrackpoint]) {
-    datapoints = [ data.map { $0.elevationDataPoint() },
-                   data.map { $0.paceDataPoint() } ]
+  init(data: [RunningTrackpoint], axisMapping: SeriesAxisMapping) {
+    datapoints = [ .Elevation : data.map { $0.elevationDataPoint() },
+                   .Pace :      data.map { $0.paceDataPoint() } ]
+    self.axisMapping = axisMapping
     super.init()
   }
 }
@@ -37,22 +45,26 @@ extension RunningChartDataSource : SChartDatasource {
   }
   
   func sChart(chart: ShinobiChart!, numberOfDataPointsForSeriesAtIndex seriesIndex: Int) -> Int {
-    return datapoints[seriesIndex].count
+    return datapoints[RunningChartSeries(rawValue: seriesIndex)!]?.count ?? 0
   }
   
   func sChart(chart: ShinobiChart!, dataPointAtIndex dataIndex: Int, forSeriesAtIndex seriesIndex: Int) -> SChartData! {
-    return datapoints[seriesIndex][dataIndex]
+    return datapoints[RunningChartSeries(rawValue: seriesIndex)!]?[dataIndex]
   }
   
   func sChart(chart: ShinobiChart!, dataPointsForSeriesAtIndex seriesIndex: Int) -> [AnyObject]! {
-    return datapoints[seriesIndex]
+    return datapoints[RunningChartSeries(rawValue: seriesIndex)!]
+  }
+  
+  func sChart(chart: ShinobiChart!, yAxisForSeriesAtIndex index: Int) -> SChartAxis! {
+    return axisMapping[RunningChartSeries(rawValue: index)!]
   }
 }
 
 extension RunningChartDataSource {
-  static func defaultData() -> RunningChartDataSource? {
+  static func defaultData(axisMapping: SeriesAxisMapping) -> RunningChartDataSource? {
     if let runningData = RunningTrackpoint.loadDataFromDefaultPlist() {
-      return RunningChartDataSource(data: runningData)
+      return RunningChartDataSource(data: runningData, axisMapping: axisMapping)
     }
     return .None
   }

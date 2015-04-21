@@ -19,20 +19,23 @@ import UIKit
 class RunningViewController: UIViewController {
   
   @IBOutlet weak var chart: ShinobiChart!
-  let chartDatasource = RunningChartDataSource.defaultData()
+  var chartDatasource: RunningChartDataSource?
   
   
   override func viewDidLoad() {
     super.viewDidLoad()
     
+    let axisMapping = prepareChart()
+    chartDatasource = RunningChartDataSource.defaultData(axisMapping)
+    
     // Do any additional setup after loading the view.
     if let chartDatasource = chartDatasource {
       chart.datasource = chartDatasource
     }
-    prepareChart()
+    
   }
 
-  private func prepareChart() {
+  private func prepareChart() -> SeriesAxisMapping {
     let xAxis = SChartNumberAxis()
     xAxis.enableGesturePanning = true
     xAxis.enableGestureZooming = true
@@ -40,12 +43,18 @@ class RunningViewController: UIViewController {
     xAxis.enableMomentumZooming = true
     chart.xAxis = xAxis
     
-    let yAxis = SChartNumberAxis()
-    yAxis.enableGesturePanning = true
-    yAxis.enableGestureZooming = true
-    yAxis.enableMomentumPanning = true
-    yAxis.enableMomentumZooming = true
-    chart.yAxis = yAxis
+    let elevationAxis = SChartNumberAxis()
+    elevationAxis.enableGesturePanning = true
+    elevationAxis.enableGestureZooming = true
+    elevationAxis.enableMomentumPanning = true
+    elevationAxis.enableMomentumZooming = true
+    chart.yAxis = elevationAxis
+    
+    let paceAxis = SChartNumberAxis()
+    chart.addYAxis(paceAxis)
+    
+    return [.Pace      : paceAxis,
+            .Elevation : elevationAxis]
   }
 
 }
