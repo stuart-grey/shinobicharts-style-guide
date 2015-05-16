@@ -20,6 +20,7 @@ class RunningViewController: UIViewController {
   
   @IBOutlet weak var chart: ShinobiChart!
   var chartDatasource: RunningChartDataSource?
+  let chartDelegate = RunningChartDelegate()
   
   
   override func viewDidLoad() {
@@ -32,29 +33,35 @@ class RunningViewController: UIViewController {
     if let chartDatasource = chartDatasource {
       chart.datasource = chartDatasource
     }
+    chart.delegate = chartDelegate
     
   }
 
   private func prepareChart() -> SeriesAxisMapping {
-    let xAxis = SChartNumberAxis()
-    xAxis.enableGesturePanning = true
-    xAxis.enableGestureZooming = true
-    xAxis.enableMomentumPanning = true
-    xAxis.enableMomentumZooming = true
-    chart.xAxis = xAxis
+    chart.xAxis = AxisStyler.runningXAxis()
     
-    let elevationAxis = SChartNumberAxis()
-    elevationAxis.enableGesturePanning = true
-    elevationAxis.enableGestureZooming = true
-    elevationAxis.enableMomentumPanning = true
-    elevationAxis.enableMomentumZooming = true
-    chart.yAxis = elevationAxis
+    let elevationAxis = AxisStyler.runningElevationYAxis()
+    chart.addYAxis(elevationAxis)
     
-    let paceAxis = SChartNumberAxis()
+    let paceAxis = AxisStyler.runningPaceYAxis()
     chart.addYAxis(paceAxis)
     
     return [.Pace      : paceAxis,
             .Elevation : elevationAxis]
   }
+}
 
+
+class RunningChartDelegate: NSObject, SChartDelegate {
+  // This method is called as tick marks are drawn on the chart. It's used here
+  // to both hide tick marks we don't want, and to reposition the ones we do.
+  func sChart(chart: ShinobiChart!, alterTickMark tickMark: SChartTickMark!,
+    beforeAddingToAxis axis: SChartAxis!) {
+      if !axis.visibleRange().contains(tickMark.value) {
+        tickMark.disableTick(axis)
+        if let tickMarkView = tickMark.tickMarkView {
+          tickMarkView.hidden = true
+        }
+      }
+  }
 }
