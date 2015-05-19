@@ -39,3 +39,48 @@ public func calculatePace(trackpoints: [Trackpoint]) -> [Trackpoint] {
     return (tp.time, tp.distance, cum.tps + [newTP])
     }.tps
 }
+
+
+public func paceMovingAverage(trackpoints: [Trackpoint], windowSize : Int = 20) -> [Trackpoint] {
+  return trackpoints.reduce((runningAverage: 0 as Float, currentWindow: [Float](), result: [Trackpoint]())) {
+    cum, tp in
+    var newWindow = cum.currentWindow + [tp.pace]
+    var newrunningAverage = cum.runningAverage + tp.pace
+    var newResult = cum.result
+    if count(newWindow) >= windowSize {
+      
+      var newTP = Trackpoint(trackpoint: tp)
+      newTP.pace = newrunningAverage / Float(windowSize)
+      newResult += [newTP]
+      
+      newrunningAverage -= newWindow[0]
+      newWindow = Array(newWindow[1..<count(newWindow)])
+    }
+    
+    return (newrunningAverage, newWindow, newResult)
+  }.result
+}
+
+public func filterTrackpoints(trackpoints: [Trackpoint]) -> [Trackpoint] {
+  return trackpoints.filter {
+    tp in
+    return tp.distance.isNormal && tp.elevation.isNormal && tp.pace.isNormal
+  }
+}
+
+public func loadTrackpoints() -> [Trackpoint] {
+  let p = Parser(fileName: "running.tcx")
+  var trackpoints = [Trackpoint]()
+  p.beginParsing { trackpoints.append($0) }
+  
+  trackpoints = calculatePace(trackpoints)
+  trackpoints = filterTrackpoints(trackpoints)
+  
+  trackpoints = paceMovingAverage(trackpoints, windowSize: 60)
+  
+  
+  return trackpoints
+}
+
+
+

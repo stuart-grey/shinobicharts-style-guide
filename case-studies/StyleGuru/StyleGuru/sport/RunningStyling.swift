@@ -28,7 +28,7 @@ extension AxisStyler {
     let axis = SChartNumberAxis()
     axis.enableTouch()
     axis.axisPosition = SChartAxisPositionReverse
-    axis.rangePaddingHigh = 4000
+    //axis.rangePaddingHigh = 4000
     
     // Want to see tick marks. Set their colour, thickness and length
     axis.style.majorTickStyle.showTicks = true
