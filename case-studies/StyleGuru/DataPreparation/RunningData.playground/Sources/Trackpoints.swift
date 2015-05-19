@@ -27,16 +27,20 @@ extension Trackpoint {
 
 public func calculatePace(trackpoints: [Trackpoint]) -> [Trackpoint] {
   return trackpoints.reduce((prevTime: NSDate(), prevDist: 0.0 as Float, tps:[Trackpoint]())) {
-    cum, tp in
-    var newTP = Trackpoint(trackpoint: tp)
-    let elapsedTime = tp.time.timeIntervalSinceDate(cum.prevTime)
-    if elapsedTime > 0 {
-      let distTravelled = tp.distance - Float(cum.prevDist)
-      let pace = Float(elapsedTime) / distTravelled * 1000.0 / 60.0
-      
-      newTP.pace = pace
-    }
-    return (tp.time, tp.distance, cum.tps + [newTP])
+      cum, tp in
+      var newTP = Trackpoint(trackpoint: tp)
+      let elapsedTime = tp.time.timeIntervalSinceDate(cum.prevTime)
+      if elapsedTime > 0 {
+        let distTravelled = tp.distance - Float(cum.prevDist)
+        let pace = Float(elapsedTime) / distTravelled * 1000.0 / 60.0
+        
+        newTP.pace = pace
+      }
+      if newTP.pace < 20 {
+        return (tp.time, tp.distance, cum.tps + [newTP])
+      } else {
+        return (tp.time, tp.distance, cum.tps)
+      }
     }.tps
 }
 
@@ -68,15 +72,15 @@ public func filterTrackpoints(trackpoints: [Trackpoint]) -> [Trackpoint] {
   }
 }
 
-public func loadTrackpoints() -> [Trackpoint] {
+public func loadTrackpoints(subsample: Int, windowSize: Int) -> [Trackpoint] {
   let p = Parser(fileName: "running.tcx")
   var trackpoints = [Trackpoint]()
   p.beginParsing { trackpoints.append($0) }
   
-  trackpoints = trackpoints.takeEvery(30)
+  trackpoints = trackpoints.takeEvery(subsample)
   trackpoints = calculatePace(trackpoints)
   trackpoints = filterTrackpoints(trackpoints)
-  trackpoints = paceMovingAverage(trackpoints, windowSize: 60)
+  trackpoints = paceMovingAverage(trackpoints, windowSize: windowSize)
   
   
   return trackpoints

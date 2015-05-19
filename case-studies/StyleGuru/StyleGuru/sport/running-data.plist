@@ -4,11 +4,551 @@
 <array>
 	<dict>
 		<key>distance</key>
+		<real>819.5999755859375</real>
+		<key>elevation</key>
+		<real>58.400001525878906</real>
+		<key>pace</key>
+		<real>8.5952425003051758</real>
+		<key>time</key>
+		<date>2015-02-17T09:53:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>863.5999755859375</real>
+		<key>elevation</key>
+		<real>65.599998474121094</real>
+		<key>pace</key>
+		<real>9.6543779373168945</real>
+		<key>time</key>
+		<date>2015-02-17T09:54:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>921.5999755859375</real>
+		<key>elevation</key>
+		<real>70.400001525878906</real>
+		<key>pace</key>
+		<real>9.6086044311523438</real>
+		<key>time</key>
+		<date>2015-02-17T09:54:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1003.5</real>
+		<key>elevation</key>
+		<real>75.800003051757812</real>
+		<key>pace</key>
+		<real>9.1024904251098633</real>
+		<key>time</key>
+		<date>2015-02-17T09:55:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1083.199951171875</real>
+		<key>elevation</key>
+		<real>83</real>
+		<key>pace</key>
+		<real>8.5778350830078125</real>
+		<key>time</key>
+		<date>2015-02-17T09:55:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1153.5999755859375</real>
+		<key>elevation</key>
+		<real>92.599998474121094</real>
+		<key>pace</key>
+		<real>7.8930268287658691</real>
+		<key>time</key>
+		<date>2015-02-17T09:56:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1230.0999755859375</real>
+		<key>elevation</key>
+		<real>97.599998474121094</real>
+		<key>pace</key>
+		<real>6.9274888038635254</real>
+		<key>time</key>
+		<date>2015-02-17T09:56:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1303.5</real>
+		<key>elevation</key>
+		<real>103.59999847412109</real>
+		<key>pace</key>
+		<real>6.5657486915588379</real>
+		<key>time</key>
+		<date>2015-02-17T09:57:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1355.199951171875</real>
+		<key>elevation</key>
+		<real>111</real>
+		<key>pace</key>
+		<real>7.2789855003356934</real>
+		<key>time</key>
+		<date>2015-02-17T09:57:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1410.4000244140625</real>
+		<key>elevation</key>
+		<real>117.40000152587891</real>
+		<key>pace</key>
+		<real>7.835871696472168</real>
+		<key>time</key>
+		<date>2015-02-17T09:58:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1466.5999755859375</real>
+		<key>elevation</key>
+		<real>125</real>
+		<key>pace</key>
+		<real>8.1947784423828125</real>
+		<key>time</key>
+		<date>2015-02-17T09:58:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1509.0999755859375</real>
+		<key>elevation</key>
+		<real>131.80000305175781</real>
+		<key>pace</key>
+		<real>9.2405300140380859</real>
+		<key>time</key>
+		<date>2015-02-17T09:59:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1551.0999755859375</real>
+		<key>elevation</key>
+		<real>134.19999694824219</real>
+		<key>pace</key>
+		<real>10.259084701538086</real>
+		<key>time</key>
+		<date>2015-02-17T09:59:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1630.800048828125</real>
+		<key>elevation</key>
+		<real>136.60000610351562</real>
+		<key>pace</key>
+		<real>9.5795516967773438</real>
+		<key>time</key>
+		<date>2015-02-17T10:00:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1701.4000244140625</real>
+		<key>elevation</key>
+		<real>144.39999389648438</real>
+		<key>pace</key>
+		<real>9.1843900680541992</real>
+		<key>time</key>
+		<date>2015-02-17T10:00:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1766.4000244140625</real>
+		<key>elevation</key>
+		<real>155.19999694824219</real>
+		<key>pace</key>
+		<real>8.9434909820556641</real>
+		<key>time</key>
+		<date>2015-02-17T10:01:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1816.199951171875</real>
+		<key>elevation</key>
+		<real>165.60000610351562</real>
+		<key>pace</key>
+		<real>8.5985851287841797</real>
+		<key>time</key>
+		<date>2015-02-17T10:01:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1859.9000244140625</real>
+		<key>elevation</key>
+		<real>172.80000305175781</real>
+		<key>pace</key>
+		<real>8.5059576034545898</real>
+		<key>time</key>
+		<date>2015-02-17T10:02:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1899.699951171875</real>
+		<key>elevation</key>
+		<real>182.60000610351562</real>
+		<key>pace</key>
+		<real>9.7638206481933594</real>
+		<key>time</key>
+		<date>2015-02-17T10:02:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1937.800048828125</real>
+		<key>elevation</key>
+		<real>194.60000610351562</real>
+		<key>pace</key>
+		<real>10.972054481506348</real>
+		<key>time</key>
+		<date>2015-02-17T10:03:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>1980.9000244140625</real>
+		<key>elevation</key>
+		<real>202</real>
+		<key>pace</key>
+		<real>11.753779411315918</real>
+		<key>time</key>
+		<date>2015-02-17T10:03:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2021.800048828125</real>
+		<key>elevation</key>
+		<real>209</real>
+		<key>pace</key>
+		<real>12.190730094909668</real>
+		<key>time</key>
+		<date>2015-02-17T10:04:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2064.60009765625</real>
+		<key>elevation</key>
+		<real>217</real>
+		<key>pace</key>
+		<real>12.238850593566895</real>
+		<key>time</key>
+		<date>2015-02-17T10:04:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2107.10009765625</real>
+		<key>elevation</key>
+		<real>223</real>
+		<key>pace</key>
+		<real>12.079224586486816</real>
+		<key>time</key>
+		<date>2015-02-17T10:05:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2159.89990234375</real>
+		<key>elevation</key>
+		<real>227.60000610351562</real>
+		<key>pace</key>
+		<real>11.348505020141602</real>
+		<key>time</key>
+		<date>2015-02-17T10:05:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2232.199951171875</real>
+		<key>elevation</key>
+		<real>233.60000610351562</real>
+		<key>pace</key>
+		<real>10.411443710327148</real>
+		<key>time</key>
+		<date>2015-02-17T10:06:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2303.199951171875</real>
+		<key>elevation</key>
+		<real>242.80000305175781</real>
+		<key>pace</key>
+		<real>9.374908447265625</real>
+		<key>time</key>
+		<date>2015-02-17T10:06:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2373.60009765625</real>
+		<key>elevation</key>
+		<real>252.19999694824219</real>
+		<key>pace</key>
+		<real>8.4589138031005859</real>
+		<key>time</key>
+		<date>2015-02-17T10:07:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2437.5</real>
+		<key>elevation</key>
+		<real>263.39999389648438</real>
+		<key>pace</key>
+		<real>7.6709203720092773</real>
+		<key>time</key>
+		<date>2015-02-17T10:07:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2489.300048828125</real>
+		<key>elevation</key>
+		<real>271.60000610351562</real>
+		<key>pace</key>
+		<real>7.7074747085571289</real>
+		<key>time</key>
+		<date>2015-02-17T10:08:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2549.60009765625</real>
+		<key>elevation</key>
+		<real>276.60000610351562</real>
+		<key>pace</key>
+		<real>7.9827232360839844</real>
+		<key>time</key>
+		<date>2015-02-17T10:08:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2639.39990234375</real>
+		<key>elevation</key>
+		<real>267.39999389648438</real>
+		<key>pace</key>
+		<real>7.6878600120544434</real>
+		<key>time</key>
+		<date>2015-02-17T10:09:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2733.5</real>
+		<key>elevation</key>
+		<real>262.20001220703125</real>
+		<key>pace</key>
+		<real>7.3301072120666504</real>
+		<key>time</key>
+		<date>2015-02-17T10:09:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2829.300048828125</real>
+		<key>elevation</key>
+		<real>250.19999694824219</real>
+		<key>pace</key>
+		<real>6.8090004920959473</real>
+		<key>time</key>
+		<date>2015-02-17T10:10:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>2918.10009765625</real>
+		<key>elevation</key>
+		<real>246.80000305175781</real>
+		<key>pace</key>
+		<real>6.0046262741088867</real>
+		<key>time</key>
+		<date>2015-02-17T10:10:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3007.699951171875</real>
+		<key>elevation</key>
+		<real>242.19999694824219</real>
+		<key>pace</key>
+		<real>5.4623255729675293</real>
+		<key>time</key>
+		<date>2015-02-17T10:11:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3096.89990234375</real>
+		<key>elevation</key>
+		<real>238.60000610351562</real>
+		<key>pace</key>
+		<real>5.4698143005371094</real>
+		<key>time</key>
+		<date>2015-02-17T10:11:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3186.300048828125</real>
+		<key>elevation</key>
+		<real>233.80000305175781</real>
+		<key>pace</key>
+		<real>5.5256824493408203</real>
+		<key>time</key>
+		<date>2015-02-17T10:12:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3267.800048828125</real>
+		<key>elevation</key>
+		<real>225.39999389648438</real>
+		<key>pace</key>
+		<real>5.7088356018066406</real>
+		<key>time</key>
+		<date>2015-02-17T10:12:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3354.699951171875</real>
+		<key>elevation</key>
+		<real>220</real>
+		<key>pace</key>
+		<real>5.7334589958190918</real>
+		<key>time</key>
+		<date>2015-02-17T10:13:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3437.60009765625</real>
+		<key>elevation</key>
+		<real>213</real>
+		<key>pace</key>
+		<real>5.8236565589904785</real>
+		<key>time</key>
+		<date>2015-02-17T10:13:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3527.699951171875</real>
+		<key>elevation</key>
+		<real>200.80000305175781</real>
+		<key>pace</key>
+		<real>5.8124589920043945</real>
+		<key>time</key>
+		<date>2015-02-17T10:14:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3615.10009765625</real>
+		<key>elevation</key>
+		<real>196.60000610351562</real>
+		<key>pace</key>
+		<real>5.8380556106567383</real>
+		<key>time</key>
+		<date>2015-02-17T10:14:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3697.89990234375</real>
+		<key>elevation</key>
+		<real>193.39999389648438</real>
+		<key>pace</key>
+		<real>5.818793773651123</real>
+		<key>time</key>
+		<date>2015-02-17T10:15:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3777.60009765625</real>
+		<key>elevation</key>
+		<real>196.60000610351562</real>
+		<key>pace</key>
+		<real>5.9227471351623535</real>
+		<key>time</key>
+		<date>2015-02-17T10:15:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3856.39990234375</real>
+		<key>elevation</key>
+		<real>201</real>
+		<key>pace</key>
+		<real>5.9855151176452637</real>
+		<key>time</key>
+		<date>2015-02-17T10:16:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>3926.60009765625</real>
+		<key>elevation</key>
+		<real>206</real>
+		<key>pace</key>
+		<real>6.300133228302002</real>
+		<key>time</key>
+		<date>2015-02-17T10:16:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4002</real>
+		<key>elevation</key>
+		<real>212.19999694824219</real>
+		<key>pace</key>
+		<real>6.4822320938110352</real>
+		<key>time</key>
+		<date>2015-02-17T10:17:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4069.5</real>
+		<key>elevation</key>
+		<real>217.80000305175781</real>
+		<key>pace</key>
+		<real>6.7559814453125</real>
+		<key>time</key>
+		<date>2015-02-17T10:17:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4122.60009765625</real>
+		<key>elevation</key>
+		<real>224</real>
+		<key>pace</key>
+		<real>7.3845152854919434</real>
+		<key>time</key>
+		<date>2015-02-17T10:18:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4195.60009765625</real>
+		<key>elevation</key>
+		<real>227.39999389648438</real>
+		<key>pace</key>
+		<real>7.4853391647338867</real>
+		<key>time</key>
+		<date>2015-02-17T10:18:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4274.39990234375</real>
+		<key>elevation</key>
+		<real>232</real>
+		<key>pace</key>
+		<real>7.3298807144165039</real>
+		<key>time</key>
+		<date>2015-02-17T10:19:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4331.89990234375</real>
+		<key>elevation</key>
+		<real>238.39999389648438</real>
+		<key>pace</key>
+		<real>7.7427492141723633</real>
+		<key>time</key>
+		<date>2015-02-17T10:19:44Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
+		<real>4383.60009765625</real>
+		<key>elevation</key>
+		<real>241.80000305175781</real>
+		<key>pace</key>
+		<real>8.1954965591430664</real>
+		<key>time</key>
+		<date>2015-02-17T10:20:14Z</date>
+	</dict>
+	<dict>
+		<key>distance</key>
 		<real>4435.2001953125</real>
 		<key>elevation</key>
 		<real>247.19999694824219</real>
 		<key>pace</key>
-		<real>8.0580863952636719</real>
+		<real>8.2502412796020508</real>
 		<key>time</key>
 		<date>2015-02-17T10:20:44Z</date>
 	</dict>
@@ -18,7 +558,7 @@
 		<key>elevation</key>
 		<real>248.19999694824219</real>
 		<key>pace</key>
-		<real>8.0508947372436523</real>
+		<real>8.0794200897216797</real>
 		<key>time</key>
 		<date>2015-02-17T10:21:14Z</date>
 	</dict>
@@ -28,7 +568,7 @@
 		<key>elevation</key>
 		<real>248.39999389648438</real>
 		<key>pace</key>
-		<real>8.0446748733520508</real>
+		<real>7.9493370056152344</real>
 		<key>time</key>
 		<date>2015-02-17T10:21:44Z</date>
 	</dict>
@@ -38,7 +578,7 @@
 		<key>elevation</key>
 		<real>247.39999389648438</real>
 		<key>pace</key>
-		<real>7.9925293922424316</real>
+		<real>7.354372501373291</real>
 		<key>time</key>
 		<date>2015-02-17T10:22:14Z</date>
 	</dict>
@@ -48,7 +588,7 @@
 		<key>elevation</key>
 		<real>248.60000610351562</real>
 		<key>pace</key>
-		<real>7.9472222328186035</real>
+		<real>6.6035757064819336</real>
 		<key>time</key>
 		<date>2015-02-17T10:22:44Z</date>
 	</dict>
@@ -58,7 +598,7 @@
 		<key>elevation</key>
 		<real>247.19999694824219</real>
 		<key>pace</key>
-		<real>7.892155647277832</real>
+		<real>5.7841587066650391</real>
 		<key>time</key>
 		<date>2015-02-17T10:23:14Z</date>
 	</dict>
@@ -68,7 +608,7 @@
 		<key>elevation</key>
 		<real>249.39999389648438</real>
 		<key>pace</key>
-		<real>7.8127231597900391</real>
+		<real>5.7371931076049805</real>
 		<key>time</key>
 		<date>2015-02-17T10:23:44Z</date>
 	</dict>
@@ -78,7 +618,7 @@
 		<key>elevation</key>
 		<real>251.19999694824219</real>
 		<key>pace</key>
-		<real>7.7197799682617188</real>
+		<real>5.7556471824645996</real>
 		<key>time</key>
 		<date>2015-02-17T10:24:14Z</date>
 	</dict>
@@ -88,7 +628,7 @@
 		<key>elevation</key>
 		<real>254.39999389648438</real>
 		<key>pace</key>
-		<real>7.6834897994995117</real>
+		<real>5.9001398086547852</real>
 		<key>time</key>
 		<date>2015-02-17T10:24:44Z</date>
 	</dict>
@@ -98,7 +638,7 @@
 		<key>elevation</key>
 		<real>261.79998779296875</real>
 		<key>pace</key>
-		<real>7.7213263511657715</real>
+		<real>6.3917436599731445</real>
 		<key>time</key>
 		<date>2015-02-17T10:25:14Z</date>
 	</dict>
@@ -108,7 +648,7 @@
 		<key>elevation</key>
 		<real>268</real>
 		<key>pace</key>
-		<real>7.7959790229797363</real>
+		<real>7.4237184524536133</real>
 		<key>time</key>
 		<date>2015-02-17T10:25:44Z</date>
 	</dict>
@@ -118,7 +658,7 @@
 		<key>elevation</key>
 		<real>274.39999389648438</real>
 		<key>pace</key>
-		<real>7.8746137619018555</real>
+		<real>8.6357192993164062</real>
 		<key>time</key>
 		<date>2015-02-17T10:26:14Z</date>
 	</dict>
@@ -128,7 +668,7 @@
 		<key>elevation</key>
 		<real>282.39999389648438</real>
 		<key>pace</key>
-		<real>8.0037765502929688</real>
+		<real>10.335453987121582</real>
 		<key>time</key>
 		<date>2015-02-17T10:26:44Z</date>
 	</dict>
@@ -138,7 +678,7 @@
 		<key>elevation</key>
 		<real>286.79998779296875</real>
 		<key>pace</key>
-		<real>8.0349187850952148</real>
+		<real>10.782903671264648</real>
 		<key>time</key>
 		<date>2015-02-17T10:27:14Z</date>
 	</dict>
@@ -148,7 +688,7 @@
 		<key>elevation</key>
 		<real>295.39999389648438</real>
 		<key>pace</key>
-		<real>8.0283403396606445</real>
+		<real>10.96315860748291</real>
 		<key>time</key>
 		<date>2015-02-17T10:27:44Z</date>
 	</dict>
@@ -158,7 +698,7 @@
 		<key>elevation</key>
 		<real>300.79998779296875</real>
 		<key>pace</key>
-		<real>8.0539274215698242</real>
+		<real>10.931256294250488</real>
 		<key>time</key>
 		<date>2015-02-17T10:28:14Z</date>
 	</dict>
@@ -168,7 +708,7 @@
 		<key>elevation</key>
 		<real>305</real>
 		<key>pace</key>
-		<real>8.0844755172729492</real>
+		<real>10.713119506835938</real>
 		<key>time</key>
 		<date>2015-02-17T10:28:44Z</date>
 	</dict>
@@ -178,7 +718,7 @@
 		<key>elevation</key>
 		<real>310.20001220703125</real>
 		<key>pace</key>
-		<real>8.0480384826660156</real>
+		<real>9.7716779708862305</real>
 		<key>time</key>
 		<date>2015-02-17T10:29:14Z</date>
 	</dict>
@@ -188,7 +728,7 @@
 		<key>elevation</key>
 		<real>317.20001220703125</real>
 		<key>pace</key>
-		<real>8.0179767608642578</real>
+		<real>10.055771827697754</real>
 		<key>time</key>
 		<date>2015-02-17T10:29:44Z</date>
 	</dict>
@@ -198,7 +738,7 @@
 		<key>elevation</key>
 		<real>325.20001220703125</real>
 		<key>pace</key>
-		<real>8.0817680358886719</real>
+		<real>10.220682144165039</real>
 		<key>time</key>
 		<date>2015-02-17T10:30:14Z</date>
 	</dict>
@@ -208,7 +748,7 @@
 		<key>elevation</key>
 		<real>331</real>
 		<key>pace</key>
-		<real>8.1388015747070312</real>
+		<real>10.202882766723633</real>
 		<key>time</key>
 		<date>2015-02-17T10:30:44Z</date>
 	</dict>
@@ -218,7 +758,7 @@
 		<key>elevation</key>
 		<real>336.79998779296875</real>
 		<key>pace</key>
-		<real>8.1782703399658203</real>
+		<real>10.069026947021484</real>
 		<key>time</key>
 		<date>2015-02-17T10:31:14Z</date>
 	</dict>
@@ -228,7 +768,7 @@
 		<key>elevation</key>
 		<real>341.60000610351562</real>
 		<key>pace</key>
-		<real>8.1820487976074219</real>
+		<real>10.206705093383789</real>
 		<key>time</key>
 		<date>2015-02-17T10:31:44Z</date>
 	</dict>
@@ -238,7 +778,7 @@
 		<key>elevation</key>
 		<real>345.39999389648438</real>
 		<key>pace</key>
-		<real>8.1557207107543945</real>
+		<real>10.158882141113281</real>
 		<key>time</key>
 		<date>2015-02-17T10:32:14Z</date>
 	</dict>
@@ -248,7 +788,7 @@
 		<key>elevation</key>
 		<real>350.20001220703125</real>
 		<key>pace</key>
-		<real>8.1133403778076172</real>
+		<real>10.142692565917969</real>
 		<key>time</key>
 		<date>2015-02-17T10:32:44Z</date>
 	</dict>
@@ -258,7 +798,7 @@
 		<key>elevation</key>
 		<real>356.60000610351562</real>
 		<key>pace</key>
-		<real>8.073063850402832</real>
+		<real>10.183197021484375</real>
 		<key>time</key>
 		<date>2015-02-17T10:33:14Z</date>
 	</dict>
@@ -268,7 +808,7 @@
 		<key>elevation</key>
 		<real>363.20001220703125</real>
 		<key>pace</key>
-		<real>8.087010383605957</real>
+		<real>10.658662796020508</real>
 		<key>time</key>
 		<date>2015-02-17T10:33:44Z</date>
 	</dict>
@@ -278,7 +818,7 @@
 		<key>elevation</key>
 		<real>368.60000610351562</real>
 		<key>pace</key>
-		<real>8.0775117874145508</real>
+		<real>10.936291694641113</real>
 		<key>time</key>
 		<date>2015-02-17T10:34:14Z</date>
 	</dict>
@@ -288,7 +828,7 @@
 		<key>elevation</key>
 		<real>372.20001220703125</real>
 		<key>pace</key>
-		<real>8.0816946029663086</real>
+		<real>11.350552558898926</real>
 		<key>time</key>
 		<date>2015-02-17T10:34:44Z</date>
 	</dict>
@@ -298,7 +838,7 @@
 		<key>elevation</key>
 		<real>381.79998779296875</real>
 		<key>pace</key>
-		<real>8.0577917098999023</real>
+		<real>11.412639617919922</real>
 		<key>time</key>
 		<date>2015-02-17T10:35:14Z</date>
 	</dict>
@@ -308,7 +848,7 @@
 		<key>elevation</key>
 		<real>386</real>
 		<key>pace</key>
-		<real>8.0656366348266602</real>
+		<real>11.259378433227539</real>
 		<key>time</key>
 		<date>2015-02-17T10:35:44Z</date>
 	</dict>
@@ -318,7 +858,7 @@
 		<key>elevation</key>
 		<real>395.20001220703125</real>
 		<key>pace</key>
-		<real>8.1106319427490234</real>
+		<real>10.694905281066895</real>
 		<key>time</key>
 		<date>2015-02-17T10:36:14Z</date>
 	</dict>
@@ -328,7 +868,7 @@
 		<key>elevation</key>
 		<real>399.39999389648438</real>
 		<key>pace</key>
-		<real>8.1589345932006836</real>
+		<real>10.351977348327637</real>
 		<key>time</key>
 		<date>2015-02-17T10:36:44Z</date>
 	</dict>
@@ -338,7 +878,7 @@
 		<key>elevation</key>
 		<real>406.20001220703125</real>
 		<key>pace</key>
-		<real>8.2127389907836914</real>
+		<real>10.031435966491699</real>
 		<key>time</key>
 		<date>2015-02-17T10:37:14Z</date>
 	</dict>
@@ -348,7 +888,7 @@
 		<key>elevation</key>
 		<real>415.60000610351562</real>
 		<key>pace</key>
-		<real>8.2743387222290039</real>
+		<real>10.269490242004395</real>
 		<key>time</key>
 		<date>2015-02-17T10:37:44Z</date>
 	</dict>
@@ -358,7 +898,7 @@
 		<key>elevation</key>
 		<real>425.60000610351562</real>
 		<key>pace</key>
-		<real>8.3147525787353516</real>
+		<real>10.696874618530273</real>
 		<key>time</key>
 		<date>2015-02-17T10:38:14Z</date>
 	</dict>
@@ -368,7 +908,7 @@
 		<key>elevation</key>
 		<real>435.20001220703125</real>
 		<key>pace</key>
-		<real>8.4146499633789062</real>
+		<real>11.630940437316895</real>
 		<key>time</key>
 		<date>2015-02-17T10:38:44Z</date>
 	</dict>
@@ -378,7 +918,7 @@
 		<key>elevation</key>
 		<real>443.20001220703125</real>
 		<key>pace</key>
-		<real>8.574376106262207</real>
+		<real>12.673163414001465</real>
 		<key>time</key>
 		<date>2015-02-17T10:39:14Z</date>
 	</dict>
@@ -388,7 +928,7 @@
 		<key>elevation</key>
 		<real>450.39999389648438</real>
 		<key>pace</key>
-		<real>8.7771930694580078</real>
+		<real>14.103556632995605</real>
 		<key>time</key>
 		<date>2015-02-17T10:39:44Z</date>
 	</dict>
@@ -398,7 +938,7 @@
 		<key>elevation</key>
 		<real>456.39999389648438</real>
 		<key>pace</key>
-		<real>8.9100837707519531</real>
+		<real>14.437932968139648</real>
 		<key>time</key>
 		<date>2015-02-17T10:40:14Z</date>
 	</dict>
@@ -408,7 +948,7 @@
 		<key>elevation</key>
 		<real>460.60000610351562</real>
 		<key>pace</key>
-		<real>9.000605583190918</real>
+		<real>14.234848022460938</real>
 		<key>time</key>
 		<date>2015-02-17T10:40:44Z</date>
 	</dict>
@@ -418,7 +958,7 @@
 		<key>elevation</key>
 		<real>466.20001220703125</real>
 		<key>pace</key>
-		<real>9.1154146194458008</real>
+		<real>13.871495246887207</real>
 		<key>time</key>
 		<date>2015-02-17T10:41:14Z</date>
 	</dict>
@@ -428,7 +968,7 @@
 		<key>elevation</key>
 		<real>470.39999389648438</real>
 		<key>pace</key>
-		<real>9.2166938781738281</real>
+		<real>13.177624702453613</real>
 		<key>time</key>
 		<date>2015-02-17T10:41:44Z</date>
 	</dict>
@@ -438,7 +978,7 @@
 		<key>elevation</key>
 		<real>479.60000610351562</real>
 		<key>pace</key>
-		<real>9.32525634765625</real>
+		<real>12.102451324462891</real>
 		<key>time</key>
 		<date>2015-02-17T10:42:14Z</date>
 	</dict>
@@ -448,7 +988,7 @@
 		<key>elevation</key>
 		<real>482</real>
 		<key>pace</key>
-		<real>9.4115438461303711</real>
+		<real>11.726354598999023</real>
 		<key>time</key>
 		<date>2015-02-17T10:42:44Z</date>
 	</dict>
@@ -458,7 +998,7 @@
 		<key>elevation</key>
 		<real>490.60000610351562</real>
 		<key>pace</key>
-		<real>9.5089969635009766</real>
+		<real>11.834156036376953</real>
 		<key>time</key>
 		<date>2015-02-17T10:43:14Z</date>
 	</dict>
@@ -468,7 +1008,7 @@
 		<key>elevation</key>
 		<real>501.79998779296875</real>
 		<key>pace</key>
-		<real>9.620518684387207</real>
+		<real>11.884908676147461</real>
 		<key>time</key>
 		<date>2015-02-17T10:43:44Z</date>
 	</dict>
@@ -478,7 +1018,7 @@
 		<key>elevation</key>
 		<real>509.39999389648438</real>
 		<key>pace</key>
-		<real>9.7760448455810547</real>
+		<real>12.524657249450684</real>
 		<key>time</key>
 		<date>2015-02-17T10:44:14Z</date>
 	</dict>
@@ -488,7 +1028,7 @@
 		<key>elevation</key>
 		<real>521.20001220703125</real>
 		<key>pace</key>
-		<real>9.9720726013183594</real>
+		<real>13.599830627441406</real>
 		<key>time</key>
 		<date>2015-02-17T10:44:44Z</date>
 	</dict>
@@ -498,7 +1038,7 @@
 		<key>elevation</key>
 		<real>528.4000244140625</real>
 		<key>pace</key>
-		<real>10.144652366638184</real>
+		<real>14.616086006164551</real>
 		<key>time</key>
 		<date>2015-02-17T10:45:14Z</date>
 	</dict>
@@ -508,7 +1048,7 @@
 		<key>elevation</key>
 		<real>536.4000244140625</real>
 		<key>pace</key>
-		<real>10.292618751525879</real>
+		<real>15.326208114624023</real>
 		<key>time</key>
 		<date>2015-02-17T10:45:44Z</date>
 	</dict>
@@ -518,7 +1058,7 @@
 		<key>elevation</key>
 		<real>546.20001220703125</real>
 		<key>pace</key>
-		<real>10.404446601867676</real>
+		<real>15.392644882202148</real>
 		<key>time</key>
 		<date>2015-02-17T10:46:14Z</date>
 	</dict>
@@ -528,7 +1068,7 @@
 		<key>elevation</key>
 		<real>552.4000244140625</real>
 		<key>pace</key>
-		<real>10.460439682006836</real>
+		<real>14.512890815734863</real>
 		<key>time</key>
 		<date>2015-02-17T10:46:44Z</date>
 	</dict>
@@ -538,7 +1078,7 @@
 		<key>elevation</key>
 		<real>557.5999755859375</real>
 		<key>pace</key>
-		<real>10.537607192993164</real>
+		<real>13.268655776977539</real>
 		<key>time</key>
 		<date>2015-02-17T10:47:14Z</date>
 	</dict>
@@ -548,7 +1088,7 @@
 		<key>elevation</key>
 		<real>561</real>
 		<key>pace</key>
-		<real>10.613991737365723</real>
+		<real>12.388066291809082</real>
 		<key>time</key>
 		<date>2015-02-17T10:47:44Z</date>
 	</dict>
@@ -558,7 +1098,7 @@
 		<key>elevation</key>
 		<real>568.20001220703125</real>
 		<key>pace</key>
-		<real>10.639402389526367</real>
+		<real>11.545937538146973</real>
 		<key>time</key>
 		<date>2015-02-17T10:48:14Z</date>
 	</dict>
@@ -568,7 +1108,7 @@
 		<key>elevation</key>
 		<real>575.5999755859375</real>
 		<key>pace</key>
-		<real>10.710432052612305</real>
+		<real>11.157179832458496</real>
 		<key>time</key>
 		<date>2015-02-17T10:48:44Z</date>
 	</dict>
@@ -578,7 +1118,7 @@
 		<key>elevation</key>
 		<real>582.4000244140625</real>
 		<key>pace</key>
-		<real>10.789862632751465</real>
+		<real>11.282975196838379</real>
 		<key>time</key>
 		<date>2015-02-17T10:49:14Z</date>
 	</dict>
@@ -588,7 +1128,7 @@
 		<key>elevation</key>
 		<real>587.4000244140625</real>
 		<key>pace</key>
-		<real>10.818546295166016</real>
+		<real>11.11405086517334</real>
 		<key>time</key>
 		<date>2015-02-17T10:49:44Z</date>
 	</dict>
@@ -598,7 +1138,7 @@
 		<key>elevation</key>
 		<real>574.5999755859375</real>
 		<key>pace</key>
-		<real>10.758249282836914</real>
+		<real>9.926605224609375</real>
 		<key>time</key>
 		<date>2015-02-17T10:50:14Z</date>
 	</dict>
@@ -608,7 +1148,7 @@
 		<key>elevation</key>
 		<real>561.79998779296875</real>
 		<key>pace</key>
-		<real>10.677343368530273</real>
+		<real>8.7055492401123047</real>
 		<key>time</key>
 		<date>2015-02-17T10:50:44Z</date>
 	</dict>
@@ -618,7 +1158,7 @@
 		<key>elevation</key>
 		<real>544.79998779296875</real>
 		<key>pace</key>
-		<real>10.656939506530762</real>
+		<real>7.4375276565551758</real>
 		<key>time</key>
 		<date>2015-02-17T10:51:14Z</date>
 	</dict>
@@ -628,7 +1168,7 @@
 		<key>elevation</key>
 		<real>530.20001220703125</real>
 		<key>pace</key>
-		<real>10.641618728637695</real>
+		<real>6.1704130172729492</real>
 		<key>time</key>
 		<date>2015-02-17T10:51:44Z</date>
 	</dict>
@@ -638,7 +1178,7 @@
 		<key>elevation</key>
 		<real>513.20001220703125</real>
 		<key>pace</key>
-		<real>10.629273414611816</real>
+		<real>5.0830965042114258</real>
 		<key>time</key>
 		<date>2015-02-17T10:52:14Z</date>
 	</dict>
@@ -648,7 +1188,7 @@
 		<key>elevation</key>
 		<real>489</real>
 		<key>pace</key>
-		<real>10.608462333679199</real>
+		<real>4.806149959564209</real>
 		<key>time</key>
 		<date>2015-02-17T10:52:44Z</date>
 	</dict>
@@ -658,7 +1198,7 @@
 		<key>elevation</key>
 		<real>465.79998779296875</real>
 		<key>pace</key>
-		<real>10.594690322875977</real>
+		<real>4.7923212051391602</real>
 		<key>time</key>
 		<date>2015-02-17T10:53:14Z</date>
 	</dict>
@@ -668,7 +1208,7 @@
 		<key>elevation</key>
 		<real>444</real>
 		<key>pace</key>
-		<real>10.592105865478516</real>
+		<real>4.9591946601867676</real>
 		<key>time</key>
 		<date>2015-02-17T10:53:44Z</date>
 	</dict>
@@ -678,7 +1218,7 @@
 		<key>elevation</key>
 		<real>423.39999389648438</real>
 		<key>pace</key>
-		<real>10.584686279296875</real>
+		<real>5.0724611282348633</real>
 		<key>time</key>
 		<date>2015-02-17T10:54:14Z</date>
 	</dict>
@@ -688,7 +1228,7 @@
 		<key>elevation</key>
 		<real>402.79998779296875</real>
 		<key>pace</key>
-		<real>10.570303916931152</real>
+		<real>5.1925206184387207</real>
 		<key>time</key>
 		<date>2015-02-17T10:54:44Z</date>
 	</dict>
@@ -698,7 +1238,7 @@
 		<key>elevation</key>
 		<real>383.79998779296875</real>
 		<key>pace</key>
-		<real>10.538662910461426</real>
+		<real>5.5541481971740723</real>
 		<key>time</key>
 		<date>2015-02-17T10:55:14Z</date>
 	</dict>
@@ -708,7 +1248,7 @@
 		<key>elevation</key>
 		<real>360.60000610351562</real>
 		<key>pace</key>
-		<real>10.462714195251465</real>
+		<real>5.8400125503540039</real>
 		<key>time</key>
 		<date>2015-02-17T10:55:44Z</date>
 	</dict>
@@ -718,7 +1258,7 @@
 		<key>elevation</key>
 		<real>343</real>
 		<key>pace</key>
-		<real>10.399684906005859</real>
+		<real>6.3266510963439941</real>
 		<key>time</key>
 		<date>2015-02-17T10:56:14Z</date>
 	</dict>
@@ -728,7 +1268,7 @@
 		<key>elevation</key>
 		<real>329</real>
 		<key>pace</key>
-		<real>10.288816452026367</real>
+		<real>6.7849936485290527</real>
 		<key>time</key>
 		<date>2015-02-17T10:56:44Z</date>
 	</dict>
@@ -738,7 +1278,7 @@
 		<key>elevation</key>
 		<real>317.60000610351562</real>
 		<key>pace</key>
-		<real>10.264218330383301</real>
+		<real>7.1098518371582031</real>
 		<key>time</key>
 		<date>2015-02-17T10:57:14Z</date>
 	</dict>
@@ -748,7 +1288,7 @@
 		<key>elevation</key>
 		<real>307</real>
 		<key>pace</key>
-		<real>10.206060409545898</real>
+		<real>6.9719209671020508</real>
 		<key>time</key>
 		<date>2015-02-17T10:57:44Z</date>
 	</dict>
@@ -758,7 +1298,7 @@
 		<key>elevation</key>
 		<real>296.39999389648438</real>
 		<key>pace</key>
-		<real>10.132899284362793</real>
+		<real>6.9734673500061035</real>
 		<key>time</key>
 		<date>2015-02-17T10:58:14Z</date>
 	</dict>
@@ -768,7 +1308,7 @@
 		<key>elevation</key>
 		<real>284</real>
 		<key>pace</key>
-		<real>10.079384803771973</real>
+		<real>6.8695154190063477</real>
 		<key>time</key>
 		<date>2015-02-17T10:58:44Z</date>
 	</dict>
@@ -778,7 +1318,7 @@
 		<key>elevation</key>
 		<real>269.20001220703125</real>
 		<key>pace</key>
-		<real>10.028532028198242</real>
+		<real>6.6482710838317871</real>
 		<key>time</key>
 		<date>2015-02-17T10:59:14Z</date>
 	</dict>
@@ -788,7 +1328,7 @@
 		<key>elevation</key>
 		<real>255.80000305175781</real>
 		<key>pace</key>
-		<real>9.9783849716186523</real>
+		<real>6.6257767677307129</real>
 		<key>time</key>
 		<date>2015-02-17T10:59:44Z</date>
 	</dict>
@@ -798,7 +1338,7 @@
 		<key>elevation</key>
 		<real>242.60000610351562</real>
 		<key>pace</key>
-		<real>9.9264230728149414</real>
+		<real>6.8650298118591309</real>
 		<key>time</key>
 		<date>2015-02-17T11:00:14Z</date>
 	</dict>
@@ -808,7 +1348,7 @@
 		<key>elevation</key>
 		<real>229.39999389648438</real>
 		<key>pace</key>
-		<real>9.8761043548583984</real>
+		<real>7.1213393211364746</real>
 		<key>time</key>
 		<date>2015-02-17T11:00:44Z</date>
 	</dict>
@@ -818,7 +1358,7 @@
 		<key>elevation</key>
 		<real>214</real>
 		<key>pace</key>
-		<real>9.8185138702392578</real>
+		<real>6.9385805130004883</real>
 		<key>time</key>
 		<date>2015-02-17T11:01:14Z</date>
 	</dict>
@@ -828,7 +1368,7 @@
 		<key>elevation</key>
 		<real>199.39999389648438</real>
 		<key>pace</key>
-		<real>9.7641115188598633</real>
+		<real>7.0336599349975586</real>
 		<key>time</key>
 		<date>2015-02-17T11:01:44Z</date>
 	</dict>
@@ -838,7 +1378,7 @@
 		<key>elevation</key>
 		<real>183.60000610351562</real>
 		<key>pace</key>
-		<real>9.7169532775878906</real>
+		<real>7.021697998046875</real>
 		<key>time</key>
 		<date>2015-02-17T11:02:14Z</date>
 	</dict>
@@ -848,7 +1388,7 @@
 		<key>elevation</key>
 		<real>172.60000610351562</real>
 		<key>pace</key>
-		<real>9.6832857131958008</real>
+		<real>7.2250428199768066</real>
 		<key>time</key>
 		<date>2015-02-17T11:02:44Z</date>
 	</dict>
@@ -858,7 +1398,7 @@
 		<key>elevation</key>
 		<real>161.19999694824219</real>
 		<key>pace</key>
-		<real>9.6342382431030273</real>
+		<real>7.280817985534668</real>
 		<key>time</key>
 		<date>2015-02-17T11:03:14Z</date>
 	</dict>
@@ -868,7 +1408,7 @@
 		<key>elevation</key>
 		<real>149.39999389648438</real>
 		<key>pace</key>
-		<real>9.5533990859985352</real>
+		<real>7.4772820472717285</real>
 		<key>time</key>
 		<date>2015-02-17T11:03:44Z</date>
 	</dict>
@@ -878,7 +1418,7 @@
 		<key>elevation</key>
 		<real>141</real>
 		<key>pace</key>
-		<real>9.4588289260864258</real>
+		<real>7.2728934288024902</real>
 		<key>time</key>
 		<date>2015-02-17T11:04:14Z</date>
 	</dict>
@@ -888,7 +1428,7 @@
 		<key>elevation</key>
 		<real>133.19999694824219</real>
 		<key>pace</key>
-		<real>9.4053754806518555</real>
+		<real>7.6116228103637695</real>
 		<key>time</key>
 		<date>2015-02-17T11:04:44Z</date>
 	</dict>
@@ -898,7 +1438,7 @@
 		<key>elevation</key>
 		<real>127.40000152587891</real>
 		<key>pace</key>
-		<real>9.3497495651245117</real>
+		<real>7.4102239608764648</real>
 		<key>time</key>
 		<date>2015-02-17T11:05:14Z</date>
 	</dict>
@@ -908,7 +1448,7 @@
 		<key>elevation</key>
 		<real>125.59999847412109</real>
 		<key>pace</key>
-		<real>9.271611213684082</real>
+		<real>6.9078569412231445</real>
 		<key>time</key>
 		<date>2015-02-17T11:05:44Z</date>
 	</dict>
@@ -918,7 +1458,7 @@
 		<key>elevation</key>
 		<real>129.60000610351562</real>
 		<key>pace</key>
-		<real>9.2044658660888672</real>
+		<real>6.5077109336853027</real>
 		<key>time</key>
 		<date>2015-02-17T11:06:14Z</date>
 	</dict>
@@ -928,7 +1468,7 @@
 		<key>elevation</key>
 		<real>130.39999389648438</real>
 		<key>pace</key>
-		<real>9.1286897659301758</real>
+		<real>6.3903050422668457</real>
 		<key>time</key>
 		<date>2015-02-17T11:06:44Z</date>
 	</dict>
@@ -938,7 +1478,7 @@
 		<key>elevation</key>
 		<real>124.59999847412109</real>
 		<key>pace</key>
-		<real>9.0505695343017578</real>
+		<real>5.7737588882446289</real>
 		<key>time</key>
 		<date>2015-02-17T11:07:14Z</date>
 	</dict>
@@ -948,7 +1488,7 @@
 		<key>elevation</key>
 		<real>114.80000305175781</real>
 		<key>pace</key>
-		<real>8.9528255462646484</real>
+		<real>5.5063867568969727</real>
 		<key>time</key>
 		<date>2015-02-17T11:07:44Z</date>
 	</dict>
@@ -958,7 +1498,7 @@
 		<key>elevation</key>
 		<real>109.59999847412109</real>
 		<key>pace</key>
-		<real>8.8447513580322266</real>
+		<real>5.5745320320129395</real>
 		<key>time</key>
 		<date>2015-02-17T11:08:14Z</date>
 	</dict>
@@ -968,7 +1508,7 @@
 		<key>elevation</key>
 		<real>108.80000305175781</real>
 		<key>pace</key>
-		<real>8.6995573043823242</real>
+		<real>5.5720381736755371</real>
 		<key>time</key>
 		<date>2015-02-17T11:08:44Z</date>
 	</dict>
@@ -978,7 +1518,7 @@
 		<key>elevation</key>
 		<real>106</real>
 		<key>pace</key>
-		<real>8.5413017272949219</real>
+		<real>5.624509334564209</real>
 		<key>time</key>
 		<date>2015-02-17T11:09:14Z</date>
 	</dict>
@@ -988,7 +1528,7 @@
 		<key>elevation</key>
 		<real>104</real>
 		<key>pace</key>
-		<real>8.3451652526855469</real>
+		<real>5.6387062072753906</real>
 		<key>time</key>
 		<date>2015-02-17T11:09:44Z</date>
 	</dict>
@@ -998,7 +1538,7 @@
 		<key>elevation</key>
 		<real>97.199996948242188</real>
 		<key>pace</key>
-		<real>8.2201995849609375</real>
+		<real>5.646418571472168</real>
 		<key>time</key>
 		<date>2015-02-17T11:10:14Z</date>
 	</dict>
@@ -1008,7 +1548,7 @@
 		<key>elevation</key>
 		<real>92.599998474121094</real>
 		<key>pace</key>
-		<real>8.1274099349975586</real>
+		<real>5.6267561912536621</real>
 		<key>time</key>
 		<date>2015-02-17T11:10:44Z</date>
 	</dict>
@@ -1018,7 +1558,7 @@
 		<key>elevation</key>
 		<real>83.599998474121094</real>
 		<key>pace</key>
-		<real>8.0110683441162109</real>
+		<real>5.6096310615539551</real>
 		<key>time</key>
 		<date>2015-02-17T11:11:14Z</date>
 	</dict>
@@ -1028,7 +1568,7 @@
 		<key>elevation</key>
 		<real>79.599998474121094</real>
 		<key>pace</key>
-		<real>7.9049243927001953</real>
+		<real>5.5411057472229004</real>
 		<key>time</key>
 		<date>2015-02-17T11:11:44Z</date>
 	</dict>
@@ -1038,7 +1578,7 @@
 		<key>elevation</key>
 		<real>70.199996948242188</real>
 		<key>pace</key>
-		<real>7.7892355918884277</real>
+		<real>5.431297779083252</real>
 		<key>time</key>
 		<date>2015-02-17T11:12:14Z</date>
 	</dict>
@@ -1048,7 +1588,7 @@
 		<key>elevation</key>
 		<real>67.199996948242188</real>
 		<key>pace</key>
-		<real>7.6869659423828125</real>
+		<real>5.3275566101074219</real>
 		<key>time</key>
 		<date>2015-02-17T11:12:44Z</date>
 	</dict>
@@ -1058,7 +1598,7 @@
 		<key>elevation</key>
 		<real>63.799999237060547</real>
 		<key>pace</key>
-		<real>7.5779633522033691</real>
+		<real>5.2408027648925781</real>
 		<key>time</key>
 		<date>2015-02-17T11:13:14Z</date>
 	</dict>
@@ -1068,7 +1608,7 @@
 		<key>elevation</key>
 		<real>62.200000762939453</real>
 		<key>pace</key>
-		<real>7.4910421371459961</real>
+		<real>5.6445913314819336</real>
 		<key>time</key>
 		<date>2015-02-17T11:13:44Z</date>
 	</dict>
@@ -1078,7 +1618,7 @@
 		<key>elevation</key>
 		<real>61</real>
 		<key>pace</key>
-		<real>7.4298748970031738</real>
+		<real>6.8240599632263184</real>
 		<key>time</key>
 		<date>2015-02-17T11:14:14Z</date>
 	</dict>
@@ -1088,7 +1628,7 @@
 		<key>elevation</key>
 		<real>61.400001525878906</real>
 		<key>pace</key>
-		<real>7.3180971145629883</real>
+		<real>7.9461655616760254</real>
 		<key>time</key>
 		<date>2015-02-17T11:14:44Z</date>
 	</dict>
@@ -1098,7 +1638,7 @@
 		<key>elevation</key>
 		<real>60</real>
 		<key>pace</key>
-		<real>7.2237014770507812</real>
+		<real>9.0569057464599609</real>
 		<key>time</key>
 		<date>2015-02-17T11:15:14Z</date>
 	</dict>
@@ -1108,7 +1648,7 @@
 		<key>elevation</key>
 		<real>59</real>
 		<key>pace</key>
-		<real>7.1415905952453613</real>
+		<real>10.08973217010498</real>
 		<key>time</key>
 		<date>2015-02-17T11:15:44Z</date>
 	</dict>
@@ -1118,7 +1658,7 @@
 		<key>elevation</key>
 		<real>60</real>
 		<key>pace</key>
-		<real>7.0930423736572266</real>
+		<real>10.616649627685547</real>
 		<key>time</key>
 		<date>2015-02-17T11:16:14Z</date>
 	</dict>
@@ -1128,7 +1668,7 @@
 		<key>elevation</key>
 		<real>57.200000762939453</real>
 		<key>pace</key>
-		<real>7.0761690139770508</real>
+		<real>10.268423080444336</real>
 		<key>time</key>
 		<date>2015-02-17T11:16:44Z</date>
 	</dict>
@@ -1138,7 +1678,7 @@
 		<key>elevation</key>
 		<real>57</real>
 		<key>pace</key>
-		<real>7.0859522819519043</real>
+		<real>10.482926368713379</real>
 		<key>time</key>
 		<date>2015-02-17T11:17:14Z</date>
 	</dict>
@@ -1148,7 +1688,7 @@
 		<key>elevation</key>
 		<real>55</real>
 		<key>pace</key>
-		<real>7.1401772499084473</real>
+		<real>11.385784149169922</real>
 		<key>time</key>
 		<date>2015-02-17T11:17:44Z</date>
 	</dict>
@@ -1158,7 +1698,7 @@
 		<key>elevation</key>
 		<real>54.799999237060547</real>
 		<key>pace</key>
-		<real>7.0983586311340332</real>
+		<real>11.027157783508301</real>
 		<key>time</key>
 		<date>2015-02-17T11:18:14Z</date>
 	</dict>
@@ -1168,7 +1708,7 @@
 		<key>elevation</key>
 		<real>59</real>
 		<key>pace</key>
-		<real>7.1262989044189453</real>
+		<real>11.556258201599121</real>
 		<key>time</key>
 		<date>2015-02-17T11:18:44Z</date>
 	</dict>
@@ -1178,7 +1718,7 @@
 		<key>elevation</key>
 		<real>59.200000762939453</real>
 		<key>pace</key>
-		<real>7.1087889671325684</real>
+		<real>11.674416542053223</real>
 		<key>time</key>
 		<date>2015-02-17T11:19:14Z</date>
 	</dict>
@@ -1188,7 +1728,7 @@
 		<key>elevation</key>
 		<real>53.599998474121094</real>
 		<key>pace</key>
-		<real>7.0659995079040527</real>
+		<real>10.874612808227539</real>
 		<key>time</key>
 		<date>2015-02-17T11:19:44Z</date>
 	</dict>
@@ -1198,7 +1738,7 @@
 		<key>elevation</key>
 		<real>53.200000762939453</real>
 		<key>pace</key>
-		<real>7.0971760749816895</real>
+		<real>9.4105863571166992</real>
 		<key>time</key>
 		<date>2015-02-17T11:20:14Z</date>
 	</dict>
@@ -1208,7 +1748,7 @@
 		<key>elevation</key>
 		<real>55.599998474121094</real>
 		<key>pace</key>
-		<real>7.1370081901550293</real>
+		<real>9.1693429946899414</real>
 		<key>time</key>
 		<date>2015-02-17T11:20:44Z</date>
 	</dict>
@@ -1218,7 +1758,7 @@
 		<key>elevation</key>
 		<real>58.400001525878906</real>
 		<key>pace</key>
-		<real>7.222508430480957</real>
+		<real>8.5920343399047852</real>
 		<key>time</key>
 		<date>2015-02-17T11:21:14Z</date>
 	</dict>
@@ -1228,7 +1768,7 @@
 		<key>elevation</key>
 		<real>58</real>
 		<key>pace</key>
-		<real>7.3837594985961914</real>
+		<real>9.4700546264648438</real>
 		<key>time</key>
 		<date>2015-02-17T11:21:44Z</date>
 	</dict>
@@ -1238,7 +1778,7 @@
 		<key>elevation</key>
 		<real>56.599998474121094</real>
 		<key>pace</key>
-		<real>7.5101394653320312</real>
+		<real>10.412775993347168</real>
 		<key>time</key>
 		<date>2015-02-17T11:22:14Z</date>
 	</dict>
@@ -1248,7 +1788,7 @@
 		<key>elevation</key>
 		<real>59.200000762939453</real>
 		<key>pace</key>
-		<real>7.5350852012634277</real>
+		<real>10.061056137084961</real>
 		<key>time</key>
 		<date>2015-02-17T11:22:44Z</date>
 	</dict>
@@ -1258,7 +1798,7 @@
 		<key>elevation</key>
 		<real>56</real>
 		<key>pace</key>
-		<real>7.6116976737976074</real>
+		<real>10.488598823547363</real>
 		<key>time</key>
 		<date>2015-02-17T11:23:14Z</date>
 	</dict>
@@ -1268,7 +1808,7 @@
 		<key>elevation</key>
 		<real>58.799999237060547</real>
 		<key>pace</key>
-		<real>7.6195306777954102</real>
+		<real>9.7234706878662109</real>
 		<key>time</key>
 		<date>2015-02-17T11:23:44Z</date>
 	</dict>
@@ -1278,7 +1818,7 @@
 		<key>elevation</key>
 		<real>57.599998474121094</real>
 		<key>pace</key>
-		<real>7.6955161094665527</real>
+		<real>8.8135433197021484</real>
 		<key>time</key>
 		<date>2015-02-17T11:24:14Z</date>
 	</dict>
@@ -1288,7 +1828,7 @@
 		<key>elevation</key>
 		<real>58.200000762939453</real>
 		<key>pace</key>
-		<real>7.8468847274780273</real>
+		<real>9.2334690093994141</real>
 		<key>time</key>
 		<date>2015-02-17T11:24:44Z</date>
 	</dict>
@@ -1298,7 +1838,7 @@
 		<key>elevation</key>
 		<real>58.799999237060547</real>
 		<key>pace</key>
-		<real>7.8932614326477051</real>
+		<real>9.852269172668457</real>
 		<key>time</key>
 		<date>2015-02-17T11:25:14Z</date>
 	</dict>
@@ -1308,7 +1848,7 @@
 		<key>elevation</key>
 		<real>61.200000762939453</real>
 		<key>pace</key>
-		<real>7.9978146553039551</real>
+		<real>10.473413467407227</real>
 		<key>time</key>
 		<date>2015-02-17T11:25:44Z</date>
 	</dict>
@@ -1318,7 +1858,7 @@
 		<key>elevation</key>
 		<real>66</real>
 		<key>pace</key>
-		<real>8.0449972152709961</real>
+		<real>11.432256698608398</real>
 		<key>time</key>
 		<date>2015-02-17T11:26:14Z</date>
 	</dict>
@@ -1328,7 +1868,7 @@
 		<key>elevation</key>
 		<real>71.599998474121094</real>
 		<key>pace</key>
-		<real>8.1353530883789062</real>
+		<real>12.06303882598877</real>
 		<key>time</key>
 		<date>2015-02-17T11:26:44Z</date>
 	</dict>
@@ -1338,7 +1878,7 @@
 		<key>elevation</key>
 		<real>78.199996948242188</real>
 		<key>pace</key>
-		<real>8.3321342468261719</real>
+		<real>12.932846069335938</real>
 		<key>time</key>
 		<date>2015-02-17T11:27:14Z</date>
 	</dict>
@@ -1348,7 +1888,7 @@
 		<key>elevation</key>
 		<real>82</real>
 		<key>pace</key>
-		<real>8.5311899185180664</real>
+		<real>14.627069473266602</real>
 		<key>time</key>
 		<date>2015-02-17T11:27:44Z</date>
 	</dict>
@@ -1358,19 +1898,9 @@
 		<key>elevation</key>
 		<real>90.400001525878906</real>
 		<key>pace</key>
-		<real>8.6788015365600586</real>
+		<real>15.145309448242188</real>
 		<key>time</key>
 		<date>2015-02-17T11:28:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>12755.7001953125</real>
-		<key>elevation</key>
-		<real>98.599998474121094</real>
-		<key>pace</key>
-		<real>8.9205923080444336</real>
-		<key>time</key>
-		<date>2015-02-17T11:28:44Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -1378,19 +1908,9 @@
 		<key>elevation</key>
 		<real>106</real>
 		<key>pace</key>
-		<real>9.0698032379150391</real>
+		<real>16.067390441894531</real>
 		<key>time</key>
 		<date>2015-02-17T11:29:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>12811</real>
-		<key>elevation</key>
-		<real>113.59999847412109</real>
-		<key>pace</key>
-		<real>9.3139181137084961</real>
-		<key>time</key>
-		<date>2015-02-17T11:29:44Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -1398,7 +1918,7 @@
 		<key>elevation</key>
 		<real>121.80000305175781</real>
 		<key>pace</key>
-		<real>9.4508199691772461</real>
+		<real>16.495889663696289</real>
 		<key>time</key>
 		<date>2015-02-17T11:30:14Z</date>
 	</dict>
@@ -1408,7 +1928,7 @@
 		<key>elevation</key>
 		<real>131.39999389648438</real>
 		<key>pace</key>
-		<real>9.6104850769042969</real>
+		<real>16.106571197509766</real>
 		<key>time</key>
 		<date>2015-02-17T11:30:44Z</date>
 	</dict>
@@ -1418,7 +1938,7 @@
 		<key>elevation</key>
 		<real>134</real>
 		<key>pace</key>
-		<real>9.7287120819091797</real>
+		<real>15.300222396850586</real>
 		<key>time</key>
 		<date>2015-02-17T11:31:14Z</date>
 	</dict>
@@ -1428,7 +1948,7 @@
 		<key>elevation</key>
 		<real>143.80000305175781</real>
 		<key>pace</key>
-		<real>9.8556632995605469</real>
+		<real>15.212152481079102</real>
 		<key>time</key>
 		<date>2015-02-17T11:31:44Z</date>
 	</dict>
@@ -1438,7 +1958,7 @@
 		<key>elevation</key>
 		<real>152.60000610351562</real>
 		<key>pace</key>
-		<real>9.9560375213623047</real>
+		<real>14.727137565612793</real>
 		<key>time</key>
 		<date>2015-02-17T11:32:14Z</date>
 	</dict>
@@ -1448,7 +1968,7 @@
 		<key>elevation</key>
 		<real>160.80000305175781</real>
 		<key>pace</key>
-		<real>10.080703735351562</real>
+		<real>14.783655166625977</real>
 		<key>time</key>
 		<date>2015-02-17T11:32:44Z</date>
 	</dict>
@@ -1458,7 +1978,7 @@
 		<key>elevation</key>
 		<real>169.60000610351562</real>
 		<key>pace</key>
-		<real>10.215022087097168</real>
+		<real>14.535258293151855</real>
 		<key>time</key>
 		<date>2015-02-17T11:33:14Z</date>
 	</dict>
@@ -1468,7 +1988,7 @@
 		<key>elevation</key>
 		<real>180.80000305175781</real>
 		<key>pace</key>
-		<real>10.318767547607422</real>
+		<real>14.557948112487793</real>
 		<key>time</key>
 		<date>2015-02-17T11:33:44Z</date>
 	</dict>
@@ -1478,7 +1998,7 @@
 		<key>elevation</key>
 		<real>186.80000305175781</real>
 		<key>pace</key>
-		<real>10.408480644226074</real>
+		<real>13.906715393066406</real>
 		<key>time</key>
 		<date>2015-02-17T11:34:14Z</date>
 	</dict>
@@ -1488,7 +2008,7 @@
 		<key>elevation</key>
 		<real>192.19999694824219</real>
 		<key>pace</key>
-		<real>10.425806999206543</real>
+		<real>13.24885368347168</real>
 		<key>time</key>
 		<date>2015-02-17T11:34:44Z</date>
 	</dict>
@@ -1498,7 +2018,7 @@
 		<key>elevation</key>
 		<real>198.80000305175781</real>
 		<key>pace</key>
-		<real>10.490809440612793</real>
+		<real>12.331491470336914</real>
 		<key>time</key>
 		<date>2015-02-17T11:35:14Z</date>
 	</dict>
@@ -1508,7 +2028,7 @@
 		<key>elevation</key>
 		<real>204.60000610351562</real>
 		<key>pace</key>
-		<real>10.57834529876709</real>
+		<real>11.267751693725586</real>
 		<key>time</key>
 		<date>2015-02-17T11:35:44Z</date>
 	</dict>
@@ -1518,7 +2038,7 @@
 		<key>elevation</key>
 		<real>209.80000305175781</real>
 		<key>pace</key>
-		<real>10.665609359741211</real>
+		<real>10.669828414916992</real>
 		<key>time</key>
 		<date>2015-02-17T11:36:14Z</date>
 	</dict>
@@ -1528,7 +2048,7 @@
 		<key>elevation</key>
 		<real>213.60000610351562</real>
 		<key>pace</key>
-		<real>10.713912010192871</real>
+		<real>10.055481910705566</real>
 		<key>time</key>
 		<date>2015-02-17T11:36:44Z</date>
 	</dict>
@@ -1538,7 +2058,7 @@
 		<key>elevation</key>
 		<real>207.60000610351562</real>
 		<key>pace</key>
-		<real>10.730086326599121</real>
+		<real>9.4251222610473633</real>
 		<key>time</key>
 		<date>2015-02-17T11:37:14Z</date>
 	</dict>
@@ -1548,7 +2068,7 @@
 		<key>elevation</key>
 		<real>201.39999389648438</real>
 		<key>pace</key>
-		<real>10.85511589050293</real>
+		<real>9.8780698776245117</real>
 		<key>time</key>
 		<date>2015-02-17T11:37:44Z</date>
 	</dict>
@@ -1558,7 +2078,7 @@
 		<key>elevation</key>
 		<real>200.19999694824219</real>
 		<key>pace</key>
-		<real>10.871550559997559</real>
+		<real>9.0930023193359375</real>
 		<key>time</key>
 		<date>2015-02-17T11:38:14Z</date>
 	</dict>
@@ -1568,7 +2088,7 @@
 		<key>elevation</key>
 		<real>196.80000305175781</real>
 		<key>pace</key>
-		<real>10.878808975219727</real>
+		<real>8.1304302215576172</real>
 		<key>time</key>
 		<date>2015-02-17T11:38:44Z</date>
 	</dict>
@@ -1578,7 +2098,7 @@
 		<key>elevation</key>
 		<real>192.19999694824219</real>
 		<key>pace</key>
-		<real>10.886789321899414</real>
+		<real>7.6990432739257812</real>
 		<key>time</key>
 		<date>2015-02-17T11:39:14Z</date>
 	</dict>
@@ -1588,7 +2108,7 @@
 		<key>elevation</key>
 		<real>192</real>
 		<key>pace</key>
-		<real>10.895717620849609</real>
+		<real>7.6262845993041992</real>
 		<key>time</key>
 		<date>2015-02-17T11:39:44Z</date>
 	</dict>
@@ -1598,7 +2118,7 @@
 		<key>elevation</key>
 		<real>196.80000305175781</real>
 		<key>pace</key>
-		<real>10.905758857727051</real>
+		<real>6.254145622253418</real>
 		<key>time</key>
 		<date>2015-02-17T11:40:14Z</date>
 	</dict>
@@ -1608,7 +2128,7 @@
 		<key>elevation</key>
 		<real>196.80000305175781</real>
 		<key>pace</key>
-		<real>10.925592422485352</real>
+		<real>6.2752580642700195</real>
 		<key>time</key>
 		<date>2015-02-17T11:40:44Z</date>
 	</dict>
@@ -1618,7 +2138,7 @@
 		<key>elevation</key>
 		<real>201</real>
 		<key>pace</key>
-		<real>11.02437686920166</real>
+		<real>7.3564538955688477</real>
 		<key>time</key>
 		<date>2015-02-17T11:41:14Z</date>
 	</dict>
@@ -1628,7 +2148,7 @@
 		<key>elevation</key>
 		<real>200.80000305175781</real>
 		<key>pace</key>
-		<real>11.205501556396484</real>
+		<real>9.3656644821166992</real>
 		<key>time</key>
 		<date>2015-02-17T11:41:44Z</date>
 	</dict>
@@ -1638,7 +2158,7 @@
 		<key>elevation</key>
 		<real>195.39999389648438</real>
 		<key>pace</key>
-		<real>11.223451614379883</real>
+		<real>9.364109992980957</real>
 		<key>time</key>
 		<date>2015-02-17T11:42:14Z</date>
 	</dict>
@@ -1648,7 +2168,7 @@
 		<key>elevation</key>
 		<real>188.80000305175781</real>
 		<key>pace</key>
-		<real>11.255388259887695</real>
+		<real>9.5231094360351562</real>
 		<key>time</key>
 		<date>2015-02-17T11:42:44Z</date>
 	</dict>
@@ -1658,7 +2178,7 @@
 		<key>elevation</key>
 		<real>182.80000305175781</real>
 		<key>pace</key>
-		<real>11.267492294311523</real>
+		<real>9.3436098098754883</real>
 		<key>time</key>
 		<date>2015-02-17T11:43:14Z</date>
 	</dict>
@@ -1668,7 +2188,7 @@
 		<key>elevation</key>
 		<real>183.19999694824219</real>
 		<key>pace</key>
-		<real>11.244870185852051</real>
+		<real>8.2905101776123047</real>
 		<key>time</key>
 		<date>2015-02-17T11:43:44Z</date>
 	</dict>
@@ -1678,7 +2198,7 @@
 		<key>elevation</key>
 		<real>185.80000305175781</real>
 		<key>pace</key>
-		<real>11.161028861999512</real>
+		<real>6.2903928756713867</real>
 		<key>time</key>
 		<date>2015-02-17T11:44:14Z</date>
 	</dict>
@@ -1688,7 +2208,7 @@
 		<key>elevation</key>
 		<real>192.19999694824219</real>
 		<key>pace</key>
-		<real>11.083558082580566</real>
+		<real>6.2674436569213867</real>
 		<key>time</key>
 		<date>2015-02-17T11:44:44Z</date>
 	</dict>
@@ -1698,7 +2218,7 @@
 		<key>elevation</key>
 		<real>194.39999389648438</real>
 		<key>pace</key>
-		<real>11.110491752624512</real>
+		<real>7.3181395530700684</real>
 		<key>time</key>
 		<date>2015-02-17T11:45:14Z</date>
 	</dict>
@@ -1708,7 +2228,7 @@
 		<key>elevation</key>
 		<real>198.39999389648438</real>
 		<key>pace</key>
-		<real>11.137548446655273</real>
+		<real>8.5303945541381836</real>
 		<key>time</key>
 		<date>2015-02-17T11:45:44Z</date>
 	</dict>
@@ -1718,7 +2238,7 @@
 		<key>elevation</key>
 		<real>199.60000610351562</real>
 		<key>pace</key>
-		<real>11.142126083374023</real>
+		<real>9.3837127685546875</real>
 		<key>time</key>
 		<date>2015-02-17T11:46:14Z</date>
 	</dict>
@@ -1728,7 +2248,7 @@
 		<key>elevation</key>
 		<real>200.19999694824219</real>
 		<key>pace</key>
-		<real>11.163897514343262</real>
+		<real>10.302824020385742</real>
 		<key>time</key>
 		<date>2015-02-17T11:46:44Z</date>
 	</dict>
@@ -1738,7 +2258,7 @@
 		<key>elevation</key>
 		<real>201</real>
 		<key>pace</key>
-		<real>11.070592880249023</real>
+		<real>10.327328681945801</real>
 		<key>time</key>
 		<date>2015-02-17T11:47:14Z</date>
 	</dict>
@@ -1748,7 +2268,7 @@
 		<key>elevation</key>
 		<real>207.19999694824219</real>
 		<key>pace</key>
-		<real>10.938715934753418</real>
+		<real>9.3244638442993164</real>
 		<key>time</key>
 		<date>2015-02-17T11:47:44Z</date>
 	</dict>
@@ -1758,19 +2278,9 @@
 		<key>elevation</key>
 		<real>208.60000610351562</real>
 		<key>pace</key>
-		<real>11.091610908508301</real>
+		<real>10.475885391235352</real>
 		<key>time</key>
 		<date>2015-02-17T11:48:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>14895.7998046875</real>
-		<key>elevation</key>
-		<real>208.60000610351562</real>
-		<key>pace</key>
-		<real>11.283022880554199</real>
-		<key>time</key>
-		<date>2015-02-17T11:48:44Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -1778,7 +2288,7 @@
 		<key>elevation</key>
 		<real>208.39999389648438</real>
 		<key>pace</key>
-		<real>11.332928657531738</real>
+		<real>11.003530502319336</real>
 		<key>time</key>
 		<date>2015-02-17T11:49:14Z</date>
 	</dict>
@@ -1788,7 +2298,7 @@
 		<key>elevation</key>
 		<real>208.19999694824219</real>
 		<key>pace</key>
-		<real>11.467496871948242</real>
+		<real>12.033005714416504</real>
 		<key>time</key>
 		<date>2015-02-17T11:49:44Z</date>
 	</dict>
@@ -1798,7 +2308,7 @@
 		<key>elevation</key>
 		<real>209.60000610351562</real>
 		<key>pace</key>
-		<real>11.44091796875</real>
+		<real>12.048828125</real>
 		<key>time</key>
 		<date>2015-02-17T11:50:14Z</date>
 	</dict>
@@ -1808,7 +2318,7 @@
 		<key>elevation</key>
 		<real>212.19999694824219</real>
 		<key>pace</key>
-		<real>11.430867195129395</real>
+		<real>11.907060623168945</real>
 		<key>time</key>
 		<date>2015-02-17T11:50:44Z</date>
 	</dict>
@@ -1818,7 +2328,7 @@
 		<key>elevation</key>
 		<real>215.19999694824219</real>
 		<key>pace</key>
-		<real>11.375211715698242</real>
+		<real>9.6983137130737305</real>
 		<key>time</key>
 		<date>2015-02-17T11:51:14Z</date>
 	</dict>
@@ -1828,7 +2338,7 @@
 		<key>elevation</key>
 		<real>219.80000305175781</real>
 		<key>pace</key>
-		<real>11.244890213012695</real>
+		<real>8.413604736328125</real>
 		<key>time</key>
 		<date>2015-02-17T11:51:44Z</date>
 	</dict>
@@ -1838,7 +2348,7 @@
 		<key>elevation</key>
 		<real>224.39999389648438</real>
 		<key>pace</key>
-		<real>11.172568321228027</real>
+		<real>6.8736467361450195</real>
 		<key>time</key>
 		<date>2015-02-17T11:52:14Z</date>
 	</dict>
@@ -1848,7 +2358,7 @@
 		<key>elevation</key>
 		<real>232.39999389648438</real>
 		<key>pace</key>
-		<real>11.196460723876953</real>
+		<real>7.1275854110717773</real>
 		<key>time</key>
 		<date>2015-02-17T11:52:44Z</date>
 	</dict>
@@ -1858,7 +2368,7 @@
 		<key>elevation</key>
 		<real>239</real>
 		<key>pace</key>
-		<real>11.162596702575684</real>
+		<real>7.2693533897399902</real>
 		<key>time</key>
 		<date>2015-02-17T11:53:14Z</date>
 	</dict>
@@ -1868,7 +2378,7 @@
 		<key>elevation</key>
 		<real>241.19999694824219</real>
 		<key>pace</key>
-		<real>11.22221565246582</real>
+		<real>7.8875303268432617</real>
 		<key>time</key>
 		<date>2015-02-17T11:53:44Z</date>
 	</dict>
@@ -1878,7 +2388,7 @@
 		<key>elevation</key>
 		<real>245.60000610351562</real>
 		<key>pace</key>
-		<real>11.170424461364746</real>
+		<real>7.9199628829956055</real>
 		<key>time</key>
 		<date>2015-02-17T11:54:14Z</date>
 	</dict>
@@ -1888,7 +2398,7 @@
 		<key>elevation</key>
 		<real>251</real>
 		<key>pace</key>
-		<real>11.07951831817627</real>
+		<real>8.1168746948242188</real>
 		<key>time</key>
 		<date>2015-02-17T11:54:44Z</date>
 	</dict>
@@ -1898,7 +2408,7 @@
 		<key>elevation</key>
 		<real>254.19999694824219</real>
 		<key>pace</key>
-		<real>11.06862735748291</real>
+		<real>8.3182659149169922</real>
 		<key>time</key>
 		<date>2015-02-17T11:55:14Z</date>
 	</dict>
@@ -1908,7 +2418,7 @@
 		<key>elevation</key>
 		<real>261.79998779296875</real>
 		<key>pace</key>
-		<real>11.032280921936035</real>
+		<real>8.9096240997314453</real>
 		<key>time</key>
 		<date>2015-02-17T11:55:44Z</date>
 	</dict>
@@ -1918,7 +2428,7 @@
 		<key>elevation</key>
 		<real>262</real>
 		<key>pace</key>
-		<real>11.10673999786377</real>
+		<real>10.046545028686523</real>
 		<key>time</key>
 		<date>2015-02-17T11:56:14Z</date>
 	</dict>
@@ -1928,7 +2438,7 @@
 		<key>elevation</key>
 		<real>263.79998779296875</real>
 		<key>pace</key>
-		<real>11.105051040649414</real>
+		<real>11.278541564941406</real>
 		<key>time</key>
 		<date>2015-02-17T11:56:44Z</date>
 	</dict>
@@ -1938,7 +2448,7 @@
 		<key>elevation</key>
 		<real>267</real>
 		<key>pace</key>
-		<real>11.012812614440918</real>
+		<real>12.132360458374023</real>
 		<key>time</key>
 		<date>2015-02-17T11:57:14Z</date>
 	</dict>
@@ -1948,7 +2458,7 @@
 		<key>elevation</key>
 		<real>271.60000610351562</real>
 		<key>pace</key>
-		<real>10.871627807617188</real>
+		<real>12.263058662414551</real>
 		<key>time</key>
 		<date>2015-02-17T11:57:44Z</date>
 	</dict>
@@ -1958,7 +2468,7 @@
 		<key>elevation</key>
 		<real>276.39999389648438</real>
 		<key>pace</key>
-		<real>10.816702842712402</real>
+		<real>12.558370590209961</real>
 		<key>time</key>
 		<date>2015-02-17T11:58:14Z</date>
 	</dict>
@@ -1968,7 +2478,7 @@
 		<key>elevation</key>
 		<real>281.60000610351562</real>
 		<key>pace</key>
-		<real>10.651371002197266</real>
+		<real>11.912202835083008</real>
 		<key>time</key>
 		<date>2015-02-17T11:58:44Z</date>
 	</dict>
@@ -1978,7 +2488,7 @@
 		<key>elevation</key>
 		<real>284.60000610351562</real>
 		<key>pace</key>
-		<real>10.582765579223633</real>
+		<real>11.594229698181152</real>
 		<key>time</key>
 		<date>2015-02-17T11:59:14Z</date>
 	</dict>
@@ -1988,7 +2498,7 @@
 		<key>elevation</key>
 		<real>289.60000610351562</real>
 		<key>pace</key>
-		<real>10.410274505615234</real>
+		<real>11.176718711853027</real>
 		<key>time</key>
 		<date>2015-02-17T11:59:44Z</date>
 	</dict>
@@ -1998,7 +2508,7 @@
 		<key>elevation</key>
 		<real>295.39999389648438</real>
 		<key>pace</key>
-		<real>10.384049415588379</real>
+		<real>12.049648284912109</real>
 		<key>time</key>
 		<date>2015-02-17T12:00:14Z</date>
 	</dict>
@@ -2008,7 +2518,7 @@
 		<key>elevation</key>
 		<real>299.20001220703125</real>
 		<key>pace</key>
-		<real>10.27507209777832</real>
+		<real>11.801969528198242</real>
 		<key>time</key>
 		<date>2015-02-17T12:00:44Z</date>
 	</dict>
@@ -2018,7 +2528,7 @@
 		<key>elevation</key>
 		<real>304</real>
 		<key>pace</key>
-		<real>10.17457389831543</real>
+		<real>10.914445877075195</real>
 		<key>time</key>
 		<date>2015-02-17T12:01:14Z</date>
 	</dict>
@@ -2028,7 +2538,7 @@
 		<key>elevation</key>
 		<real>310.60000610351562</real>
 		<key>pace</key>
-		<real>10.060511589050293</real>
+		<real>10.196933746337891</real>
 		<key>time</key>
 		<date>2015-02-17T12:01:44Z</date>
 	</dict>
@@ -2038,7 +2548,7 @@
 		<key>elevation</key>
 		<real>311</real>
 		<key>pace</key>
-		<real>9.9616384506225586</real>
+		<real>9.3434963226318359</real>
 		<key>time</key>
 		<date>2015-02-17T12:02:14Z</date>
 	</dict>
@@ -2048,7 +2558,7 @@
 		<key>elevation</key>
 		<real>316.60000610351562</real>
 		<key>pace</key>
-		<real>9.8120059967041016</real>
+		<real>7.9191145896911621</real>
 		<key>time</key>
 		<date>2015-02-17T12:02:44Z</date>
 	</dict>
@@ -2058,7 +2568,7 @@
 		<key>elevation</key>
 		<real>316.20001220703125</real>
 		<key>pace</key>
-		<real>9.6494207382202148</real>
+		<real>7.0274381637573242</real>
 		<key>time</key>
 		<date>2015-02-17T12:03:14Z</date>
 	</dict>
@@ -2068,7 +2578,7 @@
 		<key>elevation</key>
 		<real>314.60000610351562</real>
 		<key>pace</key>
-		<real>9.5290126800537109</real>
+		<real>6.8112168312072754</real>
 		<key>time</key>
 		<date>2015-02-17T12:03:44Z</date>
 	</dict>
@@ -2078,7 +2588,7 @@
 		<key>elevation</key>
 		<real>308.79998779296875</real>
 		<key>pace</key>
-		<real>9.5056247711181641</real>
+		<real>7.2480649948120117</real>
 		<key>time</key>
 		<date>2015-02-17T12:04:14Z</date>
 	</dict>
@@ -2088,7 +2598,7 @@
 		<key>elevation</key>
 		<real>306.39999389648438</real>
 		<key>pace</key>
-		<real>9.4736833572387695</real>
+		<real>7.393397331237793</real>
 		<key>time</key>
 		<date>2015-02-17T12:04:44Z</date>
 	</dict>
@@ -2098,7 +2608,7 @@
 		<key>elevation</key>
 		<real>304</real>
 		<key>pace</key>
-		<real>9.4713430404663086</real>
+		<real>8.243535041809082</real>
 		<key>time</key>
 		<date>2015-02-17T12:05:14Z</date>
 	</dict>
@@ -2108,7 +2618,7 @@
 		<key>elevation</key>
 		<real>307</real>
 		<key>pace</key>
-		<real>9.4223442077636719</real>
+		<real>8.5428171157836914</real>
 		<key>time</key>
 		<date>2015-02-17T12:05:44Z</date>
 	</dict>
@@ -2118,7 +2628,7 @@
 		<key>elevation</key>
 		<real>305.39999389648438</real>
 		<key>pace</key>
-		<real>9.3721780776977539</real>
+		<real>8.7878007888793945</real>
 		<key>time</key>
 		<date>2015-02-17T12:06:14Z</date>
 	</dict>
@@ -2128,7 +2638,7 @@
 		<key>elevation</key>
 		<real>303</real>
 		<key>pace</key>
-		<real>9.4090518951416016</real>
+		<real>8.8965950012207031</real>
 		<key>time</key>
 		<date>2015-02-17T12:06:44Z</date>
 	</dict>
@@ -2138,7 +2648,7 @@
 		<key>elevation</key>
 		<real>302.20001220703125</real>
 		<key>pace</key>
-		<real>9.5996723175048828</real>
+		<real>10.936975479125977</real>
 		<key>time</key>
 		<date>2015-02-17T12:07:14Z</date>
 	</dict>
@@ -2148,7 +2658,7 @@
 		<key>elevation</key>
 		<real>300.60000610351562</real>
 		<key>pace</key>
-		<real>9.4833812713623047</real>
+		<real>10.022525787353516</real>
 		<key>time</key>
 		<date>2015-02-17T12:07:44Z</date>
 	</dict>
@@ -2158,7 +2668,7 @@
 		<key>elevation</key>
 		<real>290.60000610351562</real>
 		<key>pace</key>
-		<real>9.4730567932128906</real>
+		<real>9.7015476226806641</real>
 		<key>time</key>
 		<date>2015-02-17T12:08:14Z</date>
 	</dict>
@@ -2168,7 +2678,7 @@
 		<key>elevation</key>
 		<real>286.60000610351562</real>
 		<key>pace</key>
-		<real>9.4694585800170898</real>
+		<real>9.2977848052978516</real>
 		<key>time</key>
 		<date>2015-02-17T12:08:44Z</date>
 	</dict>
@@ -2178,7 +2688,7 @@
 		<key>elevation</key>
 		<real>277.20001220703125</real>
 		<key>pace</key>
-		<real>9.4586849212646484</real>
+		<real>8.2946271896362305</real>
 		<key>time</key>
 		<date>2015-02-17T12:09:14Z</date>
 	</dict>
@@ -2188,7 +2698,7 @@
 		<key>elevation</key>
 		<real>272.39999389648438</real>
 		<key>pace</key>
-		<real>9.4552860260009766</real>
+		<real>5.8936185836791992</real>
 		<key>time</key>
 		<date>2015-02-17T12:09:44Z</date>
 	</dict>
@@ -2198,7 +2708,7 @@
 		<key>elevation</key>
 		<real>262</real>
 		<key>pace</key>
-		<real>9.4554176330566406</real>
+		<real>5.9185523986816406</real>
 		<key>time</key>
 		<date>2015-02-17T12:10:14Z</date>
 	</dict>
@@ -2208,7 +2718,7 @@
 		<key>elevation</key>
 		<real>250.80000305175781</real>
 		<key>pace</key>
-		<real>9.4726123809814453</real>
+		<real>6.2699003219604492</real>
 		<key>time</key>
 		<date>2015-02-17T12:10:44Z</date>
 	</dict>
@@ -2218,7 +2728,7 @@
 		<key>elevation</key>
 		<real>248.60000610351562</real>
 		<key>pace</key>
-		<real>9.5106630325317383</real>
+		<real>7.850888729095459</real>
 		<key>time</key>
 		<date>2015-02-17T12:11:14Z</date>
 	</dict>
@@ -2228,7 +2738,7 @@
 		<key>elevation</key>
 		<real>245.80000305175781</real>
 		<key>pace</key>
-		<real>9.5354347229003906</real>
+		<real>10.286661148071289</real>
 		<key>time</key>
 		<date>2015-02-17T12:11:44Z</date>
 	</dict>
@@ -2238,7 +2748,7 @@
 		<key>elevation</key>
 		<real>244.19999694824219</real>
 		<key>pace</key>
-		<real>9.6951141357421875</real>
+		<real>12.242055892944336</real>
 		<key>time</key>
 		<date>2015-02-17T12:12:14Z</date>
 	</dict>
@@ -2248,7 +2758,7 @@
 		<key>elevation</key>
 		<real>240.80000305175781</real>
 		<key>pace</key>
-		<real>9.7476720809936523</real>
+		<real>13.030181884765625</real>
 		<key>time</key>
 		<date>2015-02-17T12:12:44Z</date>
 	</dict>
@@ -2258,7 +2768,7 @@
 		<key>elevation</key>
 		<real>237.39999389648438</real>
 		<key>pace</key>
-		<real>9.9337091445922852</real>
+		<real>14.876774787902832</real>
 		<key>time</key>
 		<date>2015-02-17T12:13:14Z</date>
 	</dict>
@@ -2268,7 +2778,7 @@
 		<key>elevation</key>
 		<real>230.19999694824219</real>
 		<key>pace</key>
-		<real>9.9499168395996094</real>
+		<real>13.561566352844238</real>
 		<key>time</key>
 		<date>2015-02-17T12:13:44Z</date>
 	</dict>
@@ -2278,29 +2788,9 @@
 		<key>elevation</key>
 		<real>226.39999389648438</real>
 		<key>pace</key>
-		<real>9.9720354080200195</real>
+		<real>11.529604911804199</real>
 		<key>time</key>
 		<date>2015-02-17T12:14:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>17873.19921875</real>
-		<key>elevation</key>
-		<real>219.80000305175781</real>
-		<key>pace</key>
-		<real>10.266736030578613</real>
-		<key>time</key>
-		<date>2015-02-17T12:14:44Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>17896.19921875</real>
-		<key>elevation</key>
-		<real>209.19999694824219</real>
-		<key>pace</key>
-		<real>10.423293113708496</real>
-		<key>time</key>
-		<date>2015-02-17T12:15:14Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -2308,29 +2798,9 @@
 		<key>elevation</key>
 		<real>198.19999694824219</real>
 		<key>pace</key>
-		<real>10.517181396484375</real>
+		<real>11.861320495605469</real>
 		<key>time</key>
 		<date>2015-02-17T12:15:44Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>17927.19921875</real>
-		<key>elevation</key>
-		<real>196.39999389648438</real>
-		<key>pace</key>
-		<real>13.81805419921875</real>
-		<key>time</key>
-		<date>2015-02-17T12:16:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>17942.80078125</real>
-		<key>elevation</key>
-		<real>192.39999389648438</real>
-		<key>pace</key>
-		<real>14.172589302062988</real>
-		<key>time</key>
-		<date>2015-02-17T12:16:44Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -2338,7 +2808,7 @@
 		<key>elevation</key>
 		<real>176.39999389648438</real>
 		<key>pace</key>
-		<real>14.229922294616699</real>
+		<real>11.750171661376953</real>
 		<key>time</key>
 		<date>2015-02-17T12:17:14Z</date>
 	</dict>
@@ -2348,7 +2818,7 @@
 		<key>elevation</key>
 		<real>167</real>
 		<key>pace</key>
-		<real>14.222834587097168</real>
+		<real>9.7415485382080078</real>
 		<key>time</key>
 		<date>2015-02-17T12:17:44Z</date>
 	</dict>
@@ -2358,7 +2828,7 @@
 		<key>elevation</key>
 		<real>163.39999389648438</real>
 		<key>pace</key>
-		<real>14.103390693664551</real>
+		<real>10.404783248901367</real>
 		<key>time</key>
 		<date>2015-02-17T12:18:14Z</date>
 	</dict>
@@ -2368,7 +2838,7 @@
 		<key>elevation</key>
 		<real>170.39999389648438</real>
 		<key>pace</key>
-		<real>13.851472854614258</real>
+		<real>10.734721183776855</real>
 		<key>time</key>
 		<date>2015-02-17T12:18:44Z</date>
 	</dict>
@@ -2378,7 +2848,7 @@
 		<key>elevation</key>
 		<real>164</real>
 		<key>pace</key>
-		<real>13.776833534240723</real>
+		<real>8.953709602355957</real>
 		<key>time</key>
 		<date>2015-02-17T12:19:14Z</date>
 	</dict>
@@ -2388,7 +2858,7 @@
 		<key>elevation</key>
 		<real>155.80000305175781</real>
 		<key>pace</key>
-		<real>13.763209342956543</real>
+		<real>10.036893844604492</real>
 		<key>time</key>
 		<date>2015-02-17T12:19:44Z</date>
 	</dict>
@@ -2398,7 +2868,7 @@
 		<key>elevation</key>
 		<real>151</real>
 		<key>pace</key>
-		<real>13.946070671081543</real>
+		<real>12.115846633911133</real>
 		<key>time</key>
 		<date>2015-02-17T12:20:14Z</date>
 	</dict>
@@ -2408,7 +2878,7 @@
 		<key>elevation</key>
 		<real>144.60000610351562</real>
 		<key>pace</key>
-		<real>14.051587104797363</real>
+		<real>12.618795394897461</real>
 		<key>time</key>
 		<date>2015-02-17T12:20:44Z</date>
 	</dict>
@@ -2418,7 +2888,7 @@
 		<key>elevation</key>
 		<real>139.60000610351562</real>
 		<key>pace</key>
-		<real>14.060092926025391</real>
+		<real>12.201749801635742</real>
 		<key>time</key>
 		<date>2015-02-17T12:21:14Z</date>
 	</dict>
@@ -2428,7 +2898,7 @@
 		<key>elevation</key>
 		<real>137.60000610351562</real>
 		<key>pace</key>
-		<real>14.114912986755371</real>
+		<real>12.470561981201172</real>
 		<key>time</key>
 		<date>2015-02-17T12:21:44Z</date>
 	</dict>
@@ -2438,7 +2908,7 @@
 		<key>elevation</key>
 		<real>135.39999389648438</real>
 		<key>pace</key>
-		<real>14.115826606750488</real>
+		<real>11.105051040649414</real>
 		<key>time</key>
 		<date>2015-02-17T12:22:14Z</date>
 	</dict>
@@ -2448,7 +2918,7 @@
 		<key>elevation</key>
 		<real>136.39999389648438</real>
 		<key>pace</key>
-		<real>14.109255790710449</real>
+		<real>9.0858039855957031</real>
 		<key>time</key>
 		<date>2015-02-17T12:22:44Z</date>
 	</dict>
@@ -2458,7 +2928,7 @@
 		<key>elevation</key>
 		<real>129.19999694824219</real>
 		<key>pace</key>
-		<real>14.281522750854492</real>
+		<real>10.02857494354248</real>
 		<key>time</key>
 		<date>2015-02-17T12:23:14Z</date>
 	</dict>
@@ -2468,7 +2938,7 @@
 		<key>elevation</key>
 		<real>118.59999847412109</real>
 		<key>pace</key>
-		<real>14.321451187133789</real>
+		<real>11.023809432983398</real>
 		<key>time</key>
 		<date>2015-02-17T12:23:44Z</date>
 	</dict>
@@ -2478,7 +2948,7 @@
 		<key>elevation</key>
 		<real>110.19999694824219</real>
 		<key>pace</key>
-		<real>14.43468189239502</real>
+		<real>11.757176399230957</real>
 		<key>time</key>
 		<date>2015-02-17T12:24:14Z</date>
 	</dict>
@@ -2488,7 +2958,7 @@
 		<key>elevation</key>
 		<real>103</real>
 		<key>pace</key>
-		<real>14.533738136291504</real>
+		<real>13.131808280944824</real>
 		<key>time</key>
 		<date>2015-02-17T12:24:44Z</date>
 	</dict>
@@ -2498,7 +2968,7 @@
 		<key>elevation</key>
 		<real>92.599998474121094</real>
 		<key>pace</key>
-		<real>14.543213844299316</real>
+		<real>13.5257568359375</real>
 		<key>time</key>
 		<date>2015-02-17T12:25:14Z</date>
 	</dict>
@@ -2508,7 +2978,7 @@
 		<key>elevation</key>
 		<real>85</real>
 		<key>pace</key>
-		<real>14.493931770324707</real>
+		<real>11.458536148071289</real>
 		<key>time</key>
 		<date>2015-02-17T12:25:44Z</date>
 	</dict>
@@ -2518,7 +2988,7 @@
 		<key>elevation</key>
 		<real>75.599998474121094</real>
 		<key>pace</key>
-		<real>14.337048530578613</real>
+		<real>10.233726501464844</real>
 		<key>time</key>
 		<date>2015-02-17T12:26:14Z</date>
 	</dict>
@@ -2528,7 +2998,7 @@
 		<key>elevation</key>
 		<real>60.799999237060547</real>
 		<key>pace</key>
-		<real>14.234536170959473</real>
+		<real>8.8767929077148438</real>
 		<key>time</key>
 		<date>2015-02-17T12:26:44Z</date>
 	</dict>
@@ -2538,59 +3008,9 @@
 		<key>elevation</key>
 		<real>50.599998474121094</real>
 		<key>pace</key>
-		<real>14.146978378295898</real>
+		<real>7.4912581443786621</real>
 		<key>time</key>
 		<date>2015-02-17T12:27:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>19082</real>
-		<key>elevation</key>
-		<real>47.200000762939453</real>
-		<key>pace</key>
-		<real>14.373167991638184</real>
-		<key>time</key>
-		<date>2015-02-17T12:27:44Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>19084.900390625</real>
-		<key>elevation</key>
-		<real>47.200000762939453</real>
-		<key>pace</key>
-		<real>17.050266265869141</real>
-		<key>time</key>
-		<date>2015-02-17T12:28:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>19088.099609375</real>
-		<key>elevation</key>
-		<real>47.200000762939453</real>
-		<key>pace</key>
-		<real>19.453296661376953</real>
-		<key>time</key>
-		<date>2015-02-17T12:28:44Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>19090.599609375</real>
-		<key>elevation</key>
-		<real>47</real>
-		<key>pace</key>
-		<real>22.597234725952148</real>
-		<key>time</key>
-		<date>2015-02-17T12:29:14Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>19110.19921875</real>
-		<key>elevation</key>
-		<real>46</real>
-		<key>pace</key>
-		<real>22.832586288452148</real>
-		<key>time</key>
-		<date>2015-02-17T12:29:44Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -2598,7 +3018,7 @@
 		<key>elevation</key>
 		<real>44.200000762939453</real>
 		<key>pace</key>
-		<real>22.728792190551758</real>
+		<real>7.1356515884399414</real>
 		<key>time</key>
 		<date>2015-02-17T12:30:14Z</date>
 	</dict>
@@ -2608,7 +3028,7 @@
 		<key>elevation</key>
 		<real>38.200000762939453</real>
 		<key>pace</key>
-		<real>22.674304962158203</real>
+		<real>7.1208124160766602</real>
 		<key>time</key>
 		<date>2015-02-17T12:30:44Z</date>
 	</dict>
@@ -2618,7 +3038,7 @@
 		<key>elevation</key>
 		<real>30.399999618530273</real>
 		<key>pace</key>
-		<real>22.685382843017578</real>
+		<real>7.6026506423950195</real>
 		<key>time</key>
 		<date>2015-02-17T12:31:14Z</date>
 	</dict>
@@ -2628,7 +3048,7 @@
 		<key>elevation</key>
 		<real>28.799999237060547</real>
 		<key>pace</key>
-		<real>22.722780227661133</real>
+		<real>8.246098518371582</real>
 		<key>time</key>
 		<date>2015-02-17T12:31:44Z</date>
 	</dict>
@@ -2638,7 +3058,7 @@
 		<key>elevation</key>
 		<real>29.600000381469727</real>
 		<key>pace</key>
-		<real>22.768764495849609</real>
+		<real>8.5776300430297852</real>
 		<key>time</key>
 		<date>2015-02-17T12:32:14Z</date>
 	</dict>
@@ -2648,7 +3068,7 @@
 		<key>elevation</key>
 		<real>29.600000381469727</real>
 		<key>pace</key>
-		<real>22.768903732299805</real>
+		<real>8.4004440307617188</real>
 		<key>time</key>
 		<date>2015-02-17T12:32:44Z</date>
 	</dict>
@@ -2658,7 +3078,7 @@
 		<key>elevation</key>
 		<real>27.200000762939453</real>
 		<key>pace</key>
-		<real>22.816844940185547</real>
+		<real>8.7379283905029297</real>
 		<key>time</key>
 		<date>2015-02-17T12:33:14Z</date>
 	</dict>
@@ -2668,7 +3088,7 @@
 		<key>elevation</key>
 		<real>22.399999618530273</real>
 		<key>pace</key>
-		<real>22.849504470825195</real>
+		<real>8.7806644439697266</real>
 		<key>time</key>
 		<date>2015-02-17T12:33:44Z</date>
 	</dict>
@@ -2678,7 +3098,7 @@
 		<key>elevation</key>
 		<real>22</real>
 		<key>pace</key>
-		<real>22.808624267578125</real>
+		<real>8.2781820297241211</real>
 		<key>time</key>
 		<date>2015-02-17T12:34:14Z</date>
 	</dict>
@@ -2688,7 +3108,7 @@
 		<key>elevation</key>
 		<real>19</real>
 		<key>pace</key>
-		<real>22.768880844116211</real>
+		<real>7.3947782516479492</real>
 		<key>time</key>
 		<date>2015-02-17T12:34:44Z</date>
 	</dict>
@@ -2698,7 +3118,7 @@
 		<key>elevation</key>
 		<real>16.200000762939453</real>
 		<key>pace</key>
-		<real>22.677389144897461</real>
+		<real>7.1453399658203125</real>
 		<key>time</key>
 		<date>2015-02-17T12:35:14Z</date>
 	</dict>
@@ -2708,7 +3128,7 @@
 		<key>elevation</key>
 		<real>15.800000190734863</real>
 		<key>pace</key>
-		<real>22.641017913818359</real>
+		<real>6.432866096496582</real>
 		<key>time</key>
 		<date>2015-02-17T12:35:44Z</date>
 	</dict>
@@ -2718,7 +3138,7 @@
 		<key>elevation</key>
 		<real>15</real>
 		<key>pace</key>
-		<real>22.683345794677734</real>
+		<real>6.7939081192016602</real>
 		<key>time</key>
 		<date>2015-02-17T12:36:14Z</date>
 	</dict>
@@ -2728,7 +3148,7 @@
 		<key>elevation</key>
 		<real>13.199999809265137</real>
 		<key>pace</key>
-		<real>22.619384765625</real>
+		<real>6.6257309913635254</real>
 		<key>time</key>
 		<date>2015-02-17T12:36:44Z</date>
 	</dict>
@@ -2738,7 +3158,7 @@
 		<key>elevation</key>
 		<real>12.800000190734863</real>
 		<key>pace</key>
-		<real>22.45018196105957</real>
+		<real>7.1125936508178711</real>
 		<key>time</key>
 		<date>2015-02-17T12:37:14Z</date>
 	</dict>
@@ -2748,7 +3168,7 @@
 		<key>elevation</key>
 		<real>11.600000381469727</real>
 		<key>pace</key>
-		<real>22.453739166259766</real>
+		<real>7.338747501373291</real>
 		<key>time</key>
 		<date>2015-02-17T12:37:44Z</date>
 	</dict>
@@ -2758,7 +3178,7 @@
 		<key>elevation</key>
 		<real>12.800000190734863</real>
 		<key>pace</key>
-		<real>22.463489532470703</real>
+		<real>7.5712194442749023</real>
 		<key>time</key>
 		<date>2015-02-17T12:38:14Z</date>
 	</dict>
@@ -2768,7 +3188,7 @@
 		<key>elevation</key>
 		<real>12</real>
 		<key>pace</key>
-		<real>22.467084884643555</real>
+		<real>6.7026815414428711</real>
 		<key>time</key>
 		<date>2015-02-17T12:38:44Z</date>
 	</dict>
@@ -2778,7 +3198,7 @@
 		<key>elevation</key>
 		<real>14.600000381469727</real>
 		<key>pace</key>
-		<real>22.483278274536133</real>
+		<real>6.6613640785217285</real>
 		<key>time</key>
 		<date>2015-02-17T12:39:14Z</date>
 	</dict>
@@ -2788,7 +3208,7 @@
 		<key>elevation</key>
 		<real>17</real>
 		<key>pace</key>
-		<real>22.488130569458008</real>
+		<real>6.3490257263183594</real>
 		<key>time</key>
 		<date>2015-02-17T12:39:44Z</date>
 	</dict>
@@ -2798,7 +3218,7 @@
 		<key>elevation</key>
 		<real>16.799999237060547</real>
 		<key>pace</key>
-		<real>22.482847213745117</real>
+		<real>6.2678451538085938</real>
 		<key>time</key>
 		<date>2015-02-17T12:40:14Z</date>
 	</dict>
@@ -2808,7 +3228,7 @@
 		<key>elevation</key>
 		<real>19.399999618530273</real>
 		<key>pace</key>
-		<real>22.473291397094727</real>
+		<real>6.3875226974487305</real>
 		<key>time</key>
 		<date>2015-02-17T12:40:44Z</date>
 	</dict>
@@ -2818,7 +3238,7 @@
 		<key>elevation</key>
 		<real>15</real>
 		<key>pace</key>
-		<real>22.351274490356445</real>
+		<real>6.46112060546875</real>
 		<key>time</key>
 		<date>2015-02-17T12:41:14Z</date>
 	</dict>
@@ -2828,7 +3248,7 @@
 		<key>elevation</key>
 		<real>12.600000381469727</real>
 		<key>pace</key>
-		<real>22.160593032836914</real>
+		<real>6.4144225120544434</real>
 		<key>time</key>
 		<date>2015-02-17T12:41:44Z</date>
 	</dict>
@@ -2838,7 +3258,7 @@
 		<key>elevation</key>
 		<real>13.600000381469727</real>
 		<key>pace</key>
-		<real>21.996084213256836</real>
+		<real>6.3374776840209961</real>
 		<key>time</key>
 		<date>2015-02-17T12:42:14Z</date>
 	</dict>
@@ -2848,7 +3268,7 @@
 		<key>elevation</key>
 		<real>14.199999809265137</real>
 		<key>pace</key>
-		<real>21.924060821533203</real>
+		<real>6.3247289657592773</real>
 		<key>time</key>
 		<date>2015-02-17T12:42:44Z</date>
 	</dict>
@@ -2858,7 +3278,7 @@
 		<key>elevation</key>
 		<real>13</real>
 		<key>pace</key>
-		<real>21.74113655090332</real>
+		<real>6.0908842086791992</real>
 		<key>time</key>
 		<date>2015-02-17T12:43:14Z</date>
 	</dict>
@@ -2868,7 +3288,7 @@
 		<key>elevation</key>
 		<real>12</real>
 		<key>pace</key>
-		<real>21.72492790222168</real>
+		<real>6.0454106330871582</real>
 		<key>time</key>
 		<date>2015-02-17T12:43:44Z</date>
 	</dict>
@@ -2878,7 +3298,7 @@
 		<key>elevation</key>
 		<real>11.399999618530273</real>
 		<key>pace</key>
-		<real>21.773046493530273</real>
+		<real>6.8790268898010254</real>
 		<key>time</key>
 		<date>2015-02-17T12:44:14Z</date>
 	</dict>
@@ -2888,7 +3308,7 @@
 		<key>elevation</key>
 		<real>8.1999998092651367</real>
 		<key>pace</key>
-		<real>21.479612350463867</real>
+		<real>6.9292511940002441</real>
 		<key>time</key>
 		<date>2015-02-17T12:44:44Z</date>
 	</dict>
@@ -2898,7 +3318,7 @@
 		<key>elevation</key>
 		<real>2</real>
 		<key>pace</key>
-		<real>21.219043731689453</real>
+		<real>6.965390682220459</real>
 		<key>time</key>
 		<date>2015-02-17T12:45:14Z</date>
 	</dict>
@@ -2908,7 +3328,7 @@
 		<key>elevation</key>
 		<real>-0.60000002384185791</real>
 		<key>pace</key>
-		<real>21.050958633422852</real>
+		<real>7.2499628067016602</real>
 		<key>time</key>
 		<date>2015-02-17T12:45:44Z</date>
 	</dict>
@@ -2918,7 +3338,7 @@
 		<key>elevation</key>
 		<real>-2.7999999523162842</real>
 		<key>pace</key>
-		<real>17.670633316040039</real>
+		<real>7.149876594543457</real>
 		<key>time</key>
 		<date>2015-02-17T12:46:14Z</date>
 	</dict>
@@ -2928,7 +3348,7 @@
 		<key>elevation</key>
 		<real>-2.7999999523162842</real>
 		<key>pace</key>
-		<real>17.234771728515625</real>
+		<real>6.2502036094665527</real>
 		<key>time</key>
 		<date>2015-02-17T12:46:44Z</date>
 	</dict>
@@ -2938,7 +3358,7 @@
 		<key>elevation</key>
 		<real>-0.60000002384185791</real>
 		<key>pace</key>
-		<real>17.164051055908203</real>
+		<real>6.098841667175293</real>
 		<key>time</key>
 		<date>2015-02-17T12:47:44Z</date>
 	</dict>
@@ -2948,7 +3368,7 @@
 		<key>elevation</key>
 		<real>3.5999999046325684</real>
 		<key>pace</key>
-		<real>17.143430709838867</real>
+		<real>6.0116181373596191</real>
 		<key>time</key>
 		<date>2015-02-17T12:48:14Z</date>
 	</dict>
@@ -2958,7 +3378,7 @@
 		<key>elevation</key>
 		<real>2.5999999046325684</real>
 		<key>pace</key>
-		<real>17.062664031982422</real>
+		<real>5.6508831977844238</real>
 		<key>time</key>
 		<date>2015-02-17T12:48:44Z</date>
 	</dict>
@@ -2968,7 +3388,7 @@
 		<key>elevation</key>
 		<real>3.4000000953674316</real>
 		<key>pace</key>
-		<real>16.99946403503418</real>
+		<real>5.5939884185791016</real>
 		<key>time</key>
 		<date>2015-02-17T12:49:15Z</date>
 	</dict>
@@ -2978,7 +3398,7 @@
 		<key>elevation</key>
 		<real>3.2000000476837158</real>
 		<key>pace</key>
-		<real>16.948705673217773</real>
+		<real>5.5209169387817383</real>
 		<key>time</key>
 		<date>2015-02-17T12:49:45Z</date>
 	</dict>
@@ -2988,7 +3408,7 @@
 		<key>elevation</key>
 		<real>2.7999999523162842</real>
 		<key>pace</key>
-		<real>16.790258407592773</real>
+		<real>5.5513887405395508</real>
 		<key>time</key>
 		<date>2015-02-17T12:50:15Z</date>
 	</dict>
@@ -2998,7 +3418,7 @@
 		<key>elevation</key>
 		<real>5</real>
 		<key>pace</key>
-		<real>16.595335006713867</real>
+		<real>5.5387029647827148</real>
 		<key>time</key>
 		<date>2015-02-17T12:50:45Z</date>
 	</dict>
@@ -3008,7 +3428,7 @@
 		<key>elevation</key>
 		<real>8</real>
 		<key>pace</key>
-		<real>16.47071647644043</real>
+		<real>5.5154204368591309</real>
 		<key>time</key>
 		<date>2015-02-17T12:51:15Z</date>
 	</dict>
@@ -3018,7 +3438,7 @@
 		<key>elevation</key>
 		<real>9.8000001907348633</real>
 		<key>pace</key>
-		<real>16.442649841308594</real>
+		<real>5.5199713706970215</real>
 		<key>time</key>
 		<date>2015-02-17T12:51:45Z</date>
 	</dict>
@@ -3028,29 +3448,9 @@
 		<key>elevation</key>
 		<real>11.800000190734863</real>
 		<key>pace</key>
-		<real>16.480068206787109</real>
+		<real>6.8468947410583496</real>
 		<key>time</key>
 		<date>2015-02-17T12:52:15Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>22589.69921875</real>
-		<key>elevation</key>
-		<real>15.199999809265137</real>
-		<key>pace</key>
-		<real>16.81828498840332</real>
-		<key>time</key>
-		<date>2015-02-17T12:52:45Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>22612.30078125</real>
-		<key>elevation</key>
-		<real>20</real>
-		<key>pace</key>
-		<real>17.066915512084961</real>
-		<key>time</key>
-		<date>2015-02-17T12:53:15Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -3058,7 +3458,7 @@
 		<key>elevation</key>
 		<real>26.200000762939453</real>
 		<key>pace</key>
-		<real>16.984508514404297</real>
+		<real>8.2716884613037109</real>
 		<key>time</key>
 		<date>2015-02-17T12:53:45Z</date>
 	</dict>
@@ -3068,7 +3468,7 @@
 		<key>elevation</key>
 		<real>33.799999237060547</real>
 		<key>pace</key>
-		<real>17.045753479003906</real>
+		<real>10.29517936706543</real>
 		<key>time</key>
 		<date>2015-02-17T12:54:15Z</date>
 	</dict>
@@ -3078,7 +3478,7 @@
 		<key>elevation</key>
 		<real>40</real>
 		<key>pace</key>
-		<real>17.13494873046875</real>
+		<real>12.987722396850586</real>
 		<key>time</key>
 		<date>2015-02-17T12:54:45Z</date>
 	</dict>
@@ -3088,7 +3488,7 @@
 		<key>elevation</key>
 		<real>42.200000762939453</real>
 		<key>pace</key>
-		<real>17.152996063232422</real>
+		<real>15.156999588012695</real>
 		<key>time</key>
 		<date>2015-02-17T12:55:15Z</date>
 	</dict>
@@ -3098,7 +3498,7 @@
 		<key>elevation</key>
 		<real>46.400001525878906</real>
 		<key>pace</key>
-		<real>17.198505401611328</real>
+		<real>15.104838371276855</real>
 		<key>time</key>
 		<date>2015-02-17T12:55:45Z</date>
 	</dict>
@@ -3108,7 +3508,7 @@
 		<key>elevation</key>
 		<real>52.400001525878906</real>
 		<key>pace</key>
-		<real>17.336732864379883</real>
+		<real>15.685232162475586</real>
 		<key>time</key>
 		<date>2015-02-17T12:56:15Z</date>
 	</dict>
@@ -3118,7 +3518,7 @@
 		<key>elevation</key>
 		<real>58.200000762939453</real>
 		<key>pace</key>
-		<real>17.466930389404297</real>
+		<real>15.287878036499023</real>
 		<key>time</key>
 		<date>2015-02-17T12:56:45Z</date>
 	</dict>
@@ -3128,7 +3528,7 @@
 		<key>elevation</key>
 		<real>63.799999237060547</real>
 		<key>pace</key>
-		<real>17.567228317260742</real>
+		<real>14.06415843963623</real>
 		<key>time</key>
 		<date>2015-02-17T12:57:15Z</date>
 	</dict>
@@ -3138,7 +3538,7 @@
 		<key>elevation</key>
 		<real>69.800003051757812</real>
 		<key>pace</key>
-		<real>17.623069763183594</real>
+		<real>13.132138252258301</real>
 		<key>time</key>
 		<date>2015-02-17T12:57:45Z</date>
 	</dict>
@@ -3148,7 +3548,7 @@
 		<key>elevation</key>
 		<real>76.199996948242188</real>
 		<key>pace</key>
-		<real>17.425298690795898</real>
+		<real>12.944093704223633</real>
 		<key>time</key>
 		<date>2015-02-17T12:58:15Z</date>
 	</dict>
@@ -3158,7 +3558,7 @@
 		<key>elevation</key>
 		<real>77.199996948242188</real>
 		<key>pace</key>
-		<real>14.748201370239258</real>
+		<real>12.17203426361084</real>
 		<key>time</key>
 		<date>2015-02-17T12:58:45Z</date>
 	</dict>
@@ -3168,7 +3568,7 @@
 		<key>elevation</key>
 		<real>80.199996948242188</real>
 		<key>pace</key>
-		<real>12.338562965393066</real>
+		<real>11.766775131225586</real>
 		<key>time</key>
 		<date>2015-02-17T12:59:15Z</date>
 	</dict>
@@ -3178,7 +3578,7 @@
 		<key>elevation</key>
 		<real>80</real>
 		<key>pace</key>
-		<real>9.2205657958984375</real>
+		<real>11.786703109741211</real>
 		<key>time</key>
 		<date>2015-02-17T12:59:45Z</date>
 	</dict>
@@ -3188,7 +3588,7 @@
 		<key>elevation</key>
 		<real>81.599998474121094</real>
 		<key>pace</key>
-		<real>8.9777317047119141</real>
+		<real>11.659975051879883</real>
 		<key>time</key>
 		<date>2015-02-17T13:00:15Z</date>
 	</dict>
@@ -3198,7 +3598,7 @@
 		<key>elevation</key>
 		<real>88.400001525878906</real>
 		<key>pace</key>
-		<real>9.0451564788818359</real>
+		<real>11.755437850952148</real>
 		<key>time</key>
 		<date>2015-02-17T13:00:45Z</date>
 	</dict>
@@ -3208,7 +3608,7 @@
 		<key>elevation</key>
 		<real>92.199996948242188</real>
 		<key>pace</key>
-		<real>9.116215705871582</real>
+		<real>11.706623077392578</real>
 		<key>time</key>
 		<date>2015-02-17T13:01:15Z</date>
 	</dict>
@@ -3218,7 +3618,7 @@
 		<key>elevation</key>
 		<real>94.599998474121094</real>
 		<key>pace</key>
-		<real>9.1498575210571289</real>
+		<real>11.435019493103027</real>
 		<key>time</key>
 		<date>2015-02-17T13:01:45Z</date>
 	</dict>
@@ -3228,7 +3628,7 @@
 		<key>elevation</key>
 		<real>97.800003051757812</real>
 		<key>pace</key>
-		<real>9.2251167297363281</real>
+		<real>11.758097648620605</real>
 		<key>time</key>
 		<date>2015-02-17T13:02:15Z</date>
 	</dict>
@@ -3238,7 +3638,7 @@
 		<key>elevation</key>
 		<real>100</real>
 		<key>pace</key>
-		<real>9.2703275680541992</real>
+		<real>12.088787078857422</real>
 		<key>time</key>
 		<date>2015-02-17T13:02:45Z</date>
 	</dict>
@@ -3248,7 +3648,7 @@
 		<key>elevation</key>
 		<real>103.59999847412109</real>
 		<key>pace</key>
-		<real>9.4105777740478516</real>
+		<real>12.785490989685059</real>
 		<key>time</key>
 		<date>2015-02-17T13:03:15Z</date>
 	</dict>
@@ -3258,7 +3658,7 @@
 		<key>elevation</key>
 		<real>106.40000152587891</real>
 		<key>pace</key>
-		<real>9.4407148361206055</real>
+		<real>12.631901741027832</real>
 		<key>time</key>
 		<date>2015-02-17T13:03:45Z</date>
 	</dict>
@@ -3268,7 +3668,7 @@
 		<key>elevation</key>
 		<real>110.19999694824219</real>
 		<key>pace</key>
-		<real>9.5081768035888672</real>
+		<real>13.080482482910156</real>
 		<key>time</key>
 		<date>2015-02-17T13:04:15Z</date>
 	</dict>
@@ -3278,7 +3678,7 @@
 		<key>elevation</key>
 		<real>110.59999847412109</real>
 		<key>pace</key>
-		<real>9.6348152160644531</real>
+		<real>13.194557189941406</real>
 		<key>time</key>
 		<date>2015-02-17T13:04:45Z</date>
 	</dict>
@@ -3288,7 +3688,7 @@
 		<key>elevation</key>
 		<real>115.80000305175781</real>
 		<key>pace</key>
-		<real>9.7331352233886719</real>
+		<real>12.948468208312988</real>
 		<key>time</key>
 		<date>2015-02-17T13:05:15Z</date>
 	</dict>
@@ -3298,7 +3698,7 @@
 		<key>elevation</key>
 		<real>121.19999694824219</real>
 		<key>pace</key>
-		<real>9.8682289123535156</real>
+		<real>12.637162208557129</real>
 		<key>time</key>
 		<date>2015-02-17T13:05:45Z</date>
 	</dict>
@@ -3308,7 +3708,7 @@
 		<key>elevation</key>
 		<real>125</real>
 		<key>pace</key>
-		<real>9.9465398788452148</real>
+		<real>12.502769470214844</real>
 		<key>time</key>
 		<date>2015-02-17T13:06:15Z</date>
 	</dict>
@@ -3318,7 +3718,7 @@
 		<key>elevation</key>
 		<real>125.40000152587891</real>
 		<key>pace</key>
-		<real>9.9479761123657227</real>
+		<real>12.071493148803711</real>
 		<key>time</key>
 		<date>2015-02-17T13:06:45Z</date>
 	</dict>
@@ -3328,7 +3728,7 @@
 		<key>elevation</key>
 		<real>129.19999694824219</real>
 		<key>pace</key>
-		<real>10.037186622619629</real>
+		<real>11.454178810119629</real>
 		<key>time</key>
 		<date>2015-02-17T13:07:15Z</date>
 	</dict>
@@ -3338,7 +3738,7 @@
 		<key>elevation</key>
 		<real>134.19999694824219</real>
 		<key>pace</key>
-		<real>10.087488174438477</real>
+		<real>11.36482048034668</real>
 		<key>time</key>
 		<date>2015-02-17T13:07:45Z</date>
 	</dict>
@@ -3348,7 +3748,7 @@
 		<key>elevation</key>
 		<real>138.19999694824219</real>
 		<key>pace</key>
-		<real>10.188737869262695</real>
+		<real>11.184841156005859</real>
 		<key>time</key>
 		<date>2015-02-17T13:08:15Z</date>
 	</dict>
@@ -3358,7 +3758,7 @@
 		<key>elevation</key>
 		<real>141.39999389648438</real>
 		<key>pace</key>
-		<real>10.26241397857666</real>
+		<real>11.361698150634766</real>
 		<key>time</key>
 		<date>2015-02-17T13:08:45Z</date>
 	</dict>
@@ -3368,7 +3768,7 @@
 		<key>elevation</key>
 		<real>143.39999389648438</real>
 		<key>pace</key>
-		<real>10.281642913818359</real>
+		<real>10.706681251525879</real>
 		<key>time</key>
 		<date>2015-02-17T13:09:15Z</date>
 	</dict>
@@ -3378,7 +3778,7 @@
 		<key>elevation</key>
 		<real>145.19999694824219</real>
 		<key>pace</key>
-		<real>10.329448699951172</real>
+		<real>10.168497085571289</real>
 		<key>time</key>
 		<date>2015-02-17T13:09:45Z</date>
 	</dict>
@@ -3388,7 +3788,7 @@
 		<key>elevation</key>
 		<real>147.39999389648438</real>
 		<key>pace</key>
-		<real>10.335987091064453</real>
+		<real>9.3310098648071289</real>
 		<key>time</key>
 		<date>2015-02-17T13:10:15Z</date>
 	</dict>
@@ -3398,7 +3798,7 @@
 		<key>elevation</key>
 		<real>148</real>
 		<key>pace</key>
-		<real>10.400554656982422</real>
+		<real>8.8096370697021484</real>
 		<key>time</key>
 		<date>2015-02-17T13:10:45Z</date>
 	</dict>
@@ -3408,7 +3808,7 @@
 		<key>elevation</key>
 		<real>154.60000610351562</real>
 		<key>pace</key>
-		<real>10.518925666809082</real>
+		<real>9.4656705856323242</real>
 		<key>time</key>
 		<date>2015-02-17T13:11:15Z</date>
 	</dict>
@@ -3418,7 +3818,7 @@
 		<key>elevation</key>
 		<real>158</real>
 		<key>pace</key>
-		<real>10.611992835998535</real>
+		<real>10.425321578979492</real>
 		<key>time</key>
 		<date>2015-02-17T13:11:45Z</date>
 	</dict>
@@ -3428,7 +3828,7 @@
 		<key>elevation</key>
 		<real>160.60000610351562</real>
 		<key>pace</key>
-		<real>10.703836441040039</real>
+		<real>10.907075881958008</real>
 		<key>time</key>
 		<date>2015-02-17T13:12:15Z</date>
 	</dict>
@@ -3438,7 +3838,7 @@
 		<key>elevation</key>
 		<real>164</real>
 		<key>pace</key>
-		<real>10.79708194732666</real>
+		<real>11.870622634887695</real>
 		<key>time</key>
 		<date>2015-02-17T13:12:45Z</date>
 	</dict>
@@ -3448,7 +3848,7 @@
 		<key>elevation</key>
 		<real>165.60000610351562</real>
 		<key>pace</key>
-		<real>10.895819664001465</real>
+		<real>12.267917633056641</real>
 		<key>time</key>
 		<date>2015-02-17T13:13:15Z</date>
 	</dict>
@@ -3458,7 +3858,7 @@
 		<key>elevation</key>
 		<real>171.19999694824219</real>
 		<key>pace</key>
-		<real>10.944805145263672</real>
+		<real>11.20142650604248</real>
 		<key>time</key>
 		<date>2015-02-17T13:13:45Z</date>
 	</dict>
@@ -3468,7 +3868,7 @@
 		<key>elevation</key>
 		<real>180</real>
 		<key>pace</key>
-		<real>11.003484725952148</real>
+		<real>10.743318557739258</real>
 		<key>time</key>
 		<date>2015-02-17T13:14:15Z</date>
 	</dict>
@@ -3478,7 +3878,7 @@
 		<key>elevation</key>
 		<real>187.19999694824219</real>
 		<key>pace</key>
-		<real>11.031527519226074</real>
+		<real>10.811315536499023</real>
 		<key>time</key>
 		<date>2015-02-17T13:14:45Z</date>
 	</dict>
@@ -3488,7 +3888,7 @@
 		<key>elevation</key>
 		<real>193.19999694824219</real>
 		<key>pace</key>
-		<real>11.109696388244629</real>
+		<real>10.680612564086914</real>
 		<key>time</key>
 		<date>2015-02-17T13:15:15Z</date>
 	</dict>
@@ -3498,7 +3898,7 @@
 		<key>elevation</key>
 		<real>196.39999389648438</real>
 		<key>pace</key>
-		<real>11.193131446838379</real>
+		<real>10.533122062683105</real>
 		<key>time</key>
 		<date>2015-02-17T13:15:45Z</date>
 	</dict>
@@ -3508,7 +3908,7 @@
 		<key>elevation</key>
 		<real>196.80000305175781</real>
 		<key>pace</key>
-		<real>11.180084228515625</real>
+		<real>10.073302268981934</real>
 		<key>time</key>
 		<date>2015-02-17T13:16:15Z</date>
 	</dict>
@@ -3518,7 +3918,7 @@
 		<key>elevation</key>
 		<real>196.39999389648438</real>
 		<key>pace</key>
-		<real>11.269072532653809</real>
+		<real>10.336912155151367</real>
 		<key>time</key>
 		<date>2015-02-17T13:16:45Z</date>
 	</dict>
@@ -3528,7 +3928,7 @@
 		<key>elevation</key>
 		<real>200</real>
 		<key>pace</key>
-		<real>11.336806297302246</real>
+		<real>9.9135398864746094</real>
 		<key>time</key>
 		<date>2015-02-17T13:17:15Z</date>
 	</dict>
@@ -3538,7 +3938,7 @@
 		<key>elevation</key>
 		<real>207.39999389648438</real>
 		<key>pace</key>
-		<real>11.448787689208984</real>
+		<real>10.167929649353027</real>
 		<key>time</key>
 		<date>2015-02-17T13:17:45Z</date>
 	</dict>
@@ -3548,7 +3948,7 @@
 		<key>elevation</key>
 		<real>212.19999694824219</real>
 		<key>pace</key>
-		<real>11.55559253692627</real>
+		<real>10.361143112182617</real>
 		<key>time</key>
 		<date>2015-02-17T13:18:15Z</date>
 	</dict>
@@ -3558,7 +3958,7 @@
 		<key>elevation</key>
 		<real>218.39999389648438</real>
 		<key>pace</key>
-		<real>11.674419403076172</real>
+		<real>11.582898139953613</real>
 		<key>time</key>
 		<date>2015-02-17T13:18:45Z</date>
 	</dict>
@@ -3568,7 +3968,7 @@
 		<key>elevation</key>
 		<real>225.60000610351562</real>
 		<key>pace</key>
-		<real>11.79923152923584</real>
+		<real>11.955892562866211</real>
 		<key>time</key>
 		<date>2015-02-17T13:19:15Z</date>
 	</dict>
@@ -3578,7 +3978,7 @@
 		<key>elevation</key>
 		<real>230.80000305175781</real>
 		<key>pace</key>
-		<real>11.863394737243652</real>
+		<real>11.839975357055664</real>
 		<key>time</key>
 		<date>2015-02-17T13:19:45Z</date>
 	</dict>
@@ -3588,7 +3988,7 @@
 		<key>elevation</key>
 		<real>236</real>
 		<key>pace</key>
-		<real>11.896149635314941</real>
+		<real>10.919730186462402</real>
 		<key>time</key>
 		<date>2015-02-17T13:20:15Z</date>
 	</dict>
@@ -3598,7 +3998,7 @@
 		<key>elevation</key>
 		<real>240.80000305175781</real>
 		<key>pace</key>
-		<real>11.916567802429199</real>
+		<real>9.870391845703125</real>
 		<key>time</key>
 		<date>2015-02-17T13:20:45Z</date>
 	</dict>
@@ -3608,7 +4008,7 @@
 		<key>elevation</key>
 		<real>237.19999694824219</real>
 		<key>pace</key>
-		<real>11.930116653442383</real>
+		<real>8.5837745666503906</real>
 		<key>time</key>
 		<date>2015-02-17T13:21:15Z</date>
 	</dict>
@@ -3618,7 +4018,7 @@
 		<key>elevation</key>
 		<real>234.80000305175781</real>
 		<key>pace</key>
-		<real>11.949965476989746</real>
+		<real>7.3287668228149414</real>
 		<key>time</key>
 		<date>2015-02-17T13:21:45Z</date>
 	</dict>
@@ -3628,7 +4028,7 @@
 		<key>elevation</key>
 		<real>233.80000305175781</real>
 		<key>pace</key>
-		<real>11.855573654174805</real>
+		<real>6.7530379295349121</real>
 		<key>time</key>
 		<date>2015-02-17T13:22:15Z</date>
 	</dict>
@@ -3638,7 +4038,7 @@
 		<key>elevation</key>
 		<real>231.80000305175781</real>
 		<key>pace</key>
-		<real>11.494165420532227</real>
+		<real>6.6175508499145508</real>
 		<key>time</key>
 		<date>2015-02-17T13:22:45Z</date>
 	</dict>
@@ -3648,7 +4048,7 @@
 		<key>elevation</key>
 		<real>234.19999694824219</real>
 		<key>pace</key>
-		<real>11.241524696350098</real>
+		<real>6.6442327499389648</real>
 		<key>time</key>
 		<date>2015-02-17T13:23:15Z</date>
 	</dict>
@@ -3658,7 +4058,7 @@
 		<key>elevation</key>
 		<real>237.19999694824219</real>
 		<key>pace</key>
-		<real>11.136722564697266</real>
+		<real>6.6733527183532715</real>
 		<key>time</key>
 		<date>2015-02-17T13:23:45Z</date>
 	</dict>
@@ -3668,7 +4068,7 @@
 		<key>elevation</key>
 		<real>235.60000610351562</real>
 		<key>pace</key>
-		<real>10.998500823974609</real>
+		<real>6.8434739112854004</real>
 		<key>time</key>
 		<date>2015-02-17T13:24:15Z</date>
 	</dict>
@@ -3678,7 +4078,7 @@
 		<key>elevation</key>
 		<real>230</real>
 		<key>pace</key>
-		<real>10.797003746032715</real>
+		<real>6.9129204750061035</real>
 		<key>time</key>
 		<date>2015-02-17T13:24:45Z</date>
 	</dict>
@@ -3688,7 +4088,7 @@
 		<key>elevation</key>
 		<real>225.39999389648438</real>
 		<key>pace</key>
-		<real>10.632858276367188</real>
+		<real>6.8126664161682129</real>
 		<key>time</key>
 		<date>2015-02-17T13:25:15Z</date>
 	</dict>
@@ -3698,7 +4098,7 @@
 		<key>elevation</key>
 		<real>220</real>
 		<key>pace</key>
-		<real>10.537199974060059</real>
+		<real>6.6529374122619629</real>
 		<key>time</key>
 		<date>2015-02-17T13:25:45Z</date>
 	</dict>
@@ -3708,7 +4108,7 @@
 		<key>elevation</key>
 		<real>217.60000610351562</real>
 		<key>pace</key>
-		<real>10.382672309875488</real>
+		<real>6.6366157531738281</real>
 		<key>time</key>
 		<date>2015-02-17T13:26:15Z</date>
 	</dict>
@@ -3718,7 +4118,7 @@
 		<key>elevation</key>
 		<real>219.19999694824219</real>
 		<key>pace</key>
-		<real>10.264257431030273</real>
+		<real>6.476959228515625</real>
 		<key>time</key>
 		<date>2015-02-17T13:26:45Z</date>
 	</dict>
@@ -3728,7 +4128,7 @@
 		<key>elevation</key>
 		<real>216.60000610351562</real>
 		<key>pace</key>
-		<real>10.158525466918945</real>
+		<real>6.4024133682250977</real>
 		<key>time</key>
 		<date>2015-02-17T13:27:15Z</date>
 	</dict>
@@ -3738,7 +4138,7 @@
 		<key>elevation</key>
 		<real>213.60000610351562</real>
 		<key>pace</key>
-		<real>10.085353851318359</real>
+		<real>6.5620765686035156</real>
 		<key>time</key>
 		<date>2015-02-17T13:27:45Z</date>
 	</dict>
@@ -3748,7 +4148,7 @@
 		<key>elevation</key>
 		<real>211.80000305175781</real>
 		<key>pace</key>
-		<real>10.043378829956055</real>
+		<real>7.0182366371154785</real>
 		<key>time</key>
 		<date>2015-02-17T13:28:15Z</date>
 	</dict>
@@ -3758,7 +4158,7 @@
 		<key>elevation</key>
 		<real>213</real>
 		<key>pace</key>
-		<real>9.9612998962402344</real>
+		<real>7.115572452545166</real>
 		<key>time</key>
 		<date>2015-02-17T13:28:45Z</date>
 	</dict>
@@ -3768,7 +4168,7 @@
 		<key>elevation</key>
 		<real>210</real>
 		<key>pace</key>
-		<real>9.8726978302001953</real>
+		<real>7.0680723190307617</real>
 		<key>time</key>
 		<date>2015-02-17T13:29:15Z</date>
 	</dict>
@@ -3778,7 +4178,7 @@
 		<key>elevation</key>
 		<real>207.39999389648438</real>
 		<key>pace</key>
-		<real>9.8393163681030273</real>
+		<real>7.9562172889709473</real>
 		<key>time</key>
 		<date>2015-02-17T13:29:45Z</date>
 	</dict>
@@ -3788,7 +4188,7 @@
 		<key>elevation</key>
 		<real>208.19999694824219</real>
 		<key>pace</key>
-		<real>9.840123176574707</real>
+		<real>8.7172298431396484</real>
 		<key>time</key>
 		<date>2015-02-17T13:30:15Z</date>
 	</dict>
@@ -3798,7 +4198,7 @@
 		<key>elevation</key>
 		<real>208.39999389648438</real>
 		<key>pace</key>
-		<real>9.8396816253662109</real>
+		<real>9.3110828399658203</real>
 		<key>time</key>
 		<date>2015-02-17T13:30:45Z</date>
 	</dict>
@@ -3808,7 +4208,7 @@
 		<key>elevation</key>
 		<real>209.39999389648438</real>
 		<key>pace</key>
-		<real>9.836212158203125</real>
+		<real>10.205571174621582</real>
 		<key>time</key>
 		<date>2015-02-17T13:31:15Z</date>
 	</dict>
@@ -3818,7 +4218,7 @@
 		<key>elevation</key>
 		<real>209</real>
 		<key>pace</key>
-		<real>9.8579301834106445</real>
+		<real>11.25779914855957</real>
 		<key>time</key>
 		<date>2015-02-17T13:31:45Z</date>
 	</dict>
@@ -3828,7 +4228,7 @@
 		<key>elevation</key>
 		<real>209.80000305175781</real>
 		<key>pace</key>
-		<real>9.837306022644043</real>
+		<real>11.733939170837402</real>
 		<key>time</key>
 		<date>2015-02-17T13:32:15Z</date>
 	</dict>
@@ -3838,7 +4238,7 @@
 		<key>elevation</key>
 		<real>208.80000305175781</real>
 		<key>pace</key>
-		<real>9.8628063201904297</real>
+		<real>12.360964775085449</real>
 		<key>time</key>
 		<date>2015-02-17T13:32:45Z</date>
 	</dict>
@@ -3848,7 +4248,7 @@
 		<key>elevation</key>
 		<real>212.60000610351562</real>
 		<key>pace</key>
-		<real>9.7636575698852539</real>
+		<real>11.873194694519043</real>
 		<key>time</key>
 		<date>2015-02-17T13:33:15Z</date>
 	</dict>
@@ -3858,7 +4258,7 @@
 		<key>elevation</key>
 		<real>213</real>
 		<key>pace</key>
-		<real>9.6979818344116211</real>
+		<real>10.973138809204102</real>
 		<key>time</key>
 		<date>2015-02-17T13:33:45Z</date>
 	</dict>
@@ -3868,7 +4268,7 @@
 		<key>elevation</key>
 		<real>216.60000610351562</real>
 		<key>pace</key>
-		<real>9.6083183288574219</real>
+		<real>10.085142135620117</real>
 		<key>time</key>
 		<date>2015-02-17T13:34:15Z</date>
 	</dict>
@@ -3878,7 +4278,7 @@
 		<key>elevation</key>
 		<real>220.39999389648438</real>
 		<key>pace</key>
-		<real>9.4783840179443359</real>
+		<real>8.8875198364257812</real>
 		<key>time</key>
 		<date>2015-02-17T13:34:45Z</date>
 	</dict>
@@ -3888,7 +4288,7 @@
 		<key>elevation</key>
 		<real>225.80000305175781</real>
 		<key>pace</key>
-		<real>9.409937858581543</real>
+		<real>7.5140624046325684</real>
 		<key>time</key>
 		<date>2015-02-17T13:35:15Z</date>
 	</dict>
@@ -3898,7 +4298,7 @@
 		<key>elevation</key>
 		<real>229.80000305175781</real>
 		<key>pace</key>
-		<real>9.3060016632080078</real>
+		<real>7.1453094482421875</real>
 		<key>time</key>
 		<date>2015-02-17T13:35:45Z</date>
 	</dict>
@@ -3908,7 +4308,7 @@
 		<key>elevation</key>
 		<real>236.60000610351562</real>
 		<key>pace</key>
-		<real>9.2616281509399414</real>
+		<real>7.2665534019470215</real>
 		<key>time</key>
 		<date>2015-02-17T13:36:15Z</date>
 	</dict>
@@ -3918,7 +4318,7 @@
 		<key>elevation</key>
 		<real>242.39999389648438</real>
 		<key>pace</key>
-		<real>9.1990652084350586</real>
+		<real>7.160487174987793</real>
 		<key>time</key>
 		<date>2015-02-17T13:36:45Z</date>
 	</dict>
@@ -3928,7 +4328,7 @@
 		<key>elevation</key>
 		<real>247.80000305175781</real>
 		<key>pace</key>
-		<real>9.1136846542358398</real>
+		<real>7.077817440032959</real>
 		<key>time</key>
 		<date>2015-02-17T13:37:15Z</date>
 	</dict>
@@ -3938,7 +4338,7 @@
 		<key>elevation</key>
 		<real>251</real>
 		<key>pace</key>
-		<real>9.0395412445068359</real>
+		<real>6.9200949668884277</real>
 		<key>time</key>
 		<date>2015-02-17T13:37:45Z</date>
 	</dict>
@@ -3948,7 +4348,7 @@
 		<key>elevation</key>
 		<real>250</real>
 		<key>pace</key>
-		<real>8.9474668502807617</real>
+		<real>6.8824424743652344</real>
 		<key>time</key>
 		<date>2015-02-17T13:38:15Z</date>
 	</dict>
@@ -3958,7 +4358,7 @@
 		<key>elevation</key>
 		<real>250.19999694824219</real>
 		<key>pace</key>
-		<real>8.893916130065918</real>
+		<real>6.9491591453552246</real>
 		<key>time</key>
 		<date>2015-02-17T13:38:45Z</date>
 	</dict>
@@ -3968,7 +4368,7 @@
 		<key>elevation</key>
 		<real>251.80000305175781</real>
 		<key>pace</key>
-		<real>8.884613037109375</real>
+		<real>6.9332571029663086</real>
 		<key>time</key>
 		<date>2015-02-17T13:39:15Z</date>
 	</dict>
@@ -3978,7 +4378,7 @@
 		<key>elevation</key>
 		<real>249.60000610351562</real>
 		<key>pace</key>
-		<real>8.835296630859375</real>
+		<real>6.8278322219848633</real>
 		<key>time</key>
 		<date>2015-02-17T13:39:45Z</date>
 	</dict>
@@ -3988,7 +4388,7 @@
 		<key>elevation</key>
 		<real>243.60000610351562</real>
 		<key>pace</key>
-		<real>8.8387203216552734</real>
+		<real>6.9211549758911133</real>
 		<key>time</key>
 		<date>2015-02-17T13:40:15Z</date>
 	</dict>
@@ -3998,7 +4398,7 @@
 		<key>elevation</key>
 		<real>238.60000610351562</real>
 		<key>pace</key>
-		<real>8.7837123870849609</real>
+		<real>6.8445816040039062</real>
 		<key>time</key>
 		<date>2015-02-17T13:40:45Z</date>
 	</dict>
@@ -4008,7 +4408,7 @@
 		<key>elevation</key>
 		<real>233</real>
 		<key>pace</key>
-		<real>8.6708564758300781</real>
+		<real>6.7889533042907715</real>
 		<key>time</key>
 		<date>2015-02-17T13:41:15Z</date>
 	</dict>
@@ -4018,7 +4418,7 @@
 		<key>elevation</key>
 		<real>228.39999389648438</real>
 		<key>pace</key>
-		<real>8.5940485000610352</real>
+		<real>6.9385237693786621</real>
 		<key>time</key>
 		<date>2015-02-17T13:41:45Z</date>
 	</dict>
@@ -4028,7 +4428,7 @@
 		<key>elevation</key>
 		<real>223</real>
 		<key>pace</key>
-		<real>8.5311269760131836</real>
+		<real>7.2570252418518066</real>
 		<key>time</key>
 		<date>2015-02-17T13:42:15Z</date>
 	</dict>
@@ -4038,7 +4438,7 @@
 		<key>elevation</key>
 		<real>217.80000305175781</real>
 		<key>pace</key>
-		<real>8.4775638580322266</real>
+		<real>7.5367217063903809</real>
 		<key>time</key>
 		<date>2015-02-17T13:42:45Z</date>
 	</dict>
@@ -4048,7 +4448,7 @@
 		<key>elevation</key>
 		<real>208.19999694824219</real>
 		<key>pace</key>
-		<real>8.4102964401245117</real>
+		<real>7.7869062423706055</real>
 		<key>time</key>
 		<date>2015-02-17T13:43:15Z</date>
 	</dict>
@@ -4058,7 +4458,7 @@
 		<key>elevation</key>
 		<real>197</real>
 		<key>pace</key>
-		<real>8.4061727523803711</real>
+		<real>8.0252132415771484</real>
 		<key>time</key>
 		<date>2015-02-17T13:43:45Z</date>
 	</dict>
@@ -4068,7 +4468,7 @@
 		<key>elevation</key>
 		<real>190.39999389648438</real>
 		<key>pace</key>
-		<real>8.3811578750610352</real>
+		<real>8.1886329650878906</real>
 		<key>time</key>
 		<date>2015-02-17T13:44:15Z</date>
 	</dict>
@@ -4078,7 +4478,7 @@
 		<key>elevation</key>
 		<real>177.60000610351562</real>
 		<key>pace</key>
-		<real>8.3086729049682617</real>
+		<real>8.1418600082397461</real>
 		<key>time</key>
 		<date>2015-02-17T13:44:45Z</date>
 	</dict>
@@ -4088,7 +4488,7 @@
 		<key>elevation</key>
 		<real>164.39999389648438</real>
 		<key>pace</key>
-		<real>8.2509346008300781</real>
+		<real>7.9610605239868164</real>
 		<key>time</key>
 		<date>2015-02-17T13:45:15Z</date>
 	</dict>
@@ -4098,7 +4498,7 @@
 		<key>elevation</key>
 		<real>158</real>
 		<key>pace</key>
-		<real>8.1976070404052734</real>
+		<real>7.9808588027954102</real>
 		<key>time</key>
 		<date>2015-02-17T13:45:45Z</date>
 	</dict>
@@ -4108,7 +4508,7 @@
 		<key>elevation</key>
 		<real>149.60000610351562</real>
 		<key>pace</key>
-		<real>8.2237653732299805</real>
+		<real>7.8844108581542969</real>
 		<key>time</key>
 		<date>2015-02-17T13:46:15Z</date>
 	</dict>
@@ -4118,7 +4518,7 @@
 		<key>elevation</key>
 		<real>142.80000305175781</real>
 		<key>pace</key>
-		<real>8.1638898849487305</real>
+		<real>7.729701042175293</real>
 		<key>time</key>
 		<date>2015-02-17T13:46:45Z</date>
 	</dict>
@@ -4128,7 +4528,7 @@
 		<key>elevation</key>
 		<real>136.80000305175781</real>
 		<key>pace</key>
-		<real>8.1266851425170898</real>
+		<real>7.729701042175293</real>
 		<key>time</key>
 		<date>2015-02-17T13:47:15Z</date>
 	</dict>
@@ -4138,7 +4538,7 @@
 		<key>elevation</key>
 		<real>127.59999847412109</real>
 		<key>pace</key>
-		<real>8.0596475601196289</real>
+		<real>7.8724884986877441</real>
 		<key>time</key>
 		<date>2015-02-17T13:47:45Z</date>
 	</dict>
@@ -4148,7 +4548,7 @@
 		<key>elevation</key>
 		<real>118</real>
 		<key>pace</key>
-		<real>7.9814548492431641</real>
+		<real>7.7673120498657227</real>
 		<key>time</key>
 		<date>2015-02-17T13:48:15Z</date>
 	</dict>
@@ -4158,7 +4558,7 @@
 		<key>elevation</key>
 		<real>104.59999847412109</real>
 		<key>pace</key>
-		<real>7.8862910270690918</real>
+		<real>7.5332016944885254</real>
 		<key>time</key>
 		<date>2015-02-17T13:48:45Z</date>
 	</dict>
@@ -4168,7 +4568,7 @@
 		<key>elevation</key>
 		<real>97.400001525878906</real>
 		<key>pace</key>
-		<real>7.8520407676696777</real>
+		<real>8.2136936187744141</real>
 		<key>time</key>
 		<date>2015-02-17T13:49:15Z</date>
 	</dict>
@@ -4178,7 +4578,7 @@
 		<key>elevation</key>
 		<real>83.199996948242188</real>
 		<key>pace</key>
-		<real>7.8213887214660645</real>
+		<real>8.1764020919799805</real>
 		<key>time</key>
 		<date>2015-02-17T13:49:45Z</date>
 	</dict>
@@ -4188,7 +4588,7 @@
 		<key>elevation</key>
 		<real>71.800003051757812</real>
 		<key>pace</key>
-		<real>7.8422856330871582</real>
+		<real>8.3113803863525391</real>
 		<key>time</key>
 		<date>2015-02-17T13:50:15Z</date>
 	</dict>
@@ -4198,7 +4598,7 @@
 		<key>elevation</key>
 		<real>64.199996948242188</real>
 		<key>pace</key>
-		<real>7.8454866409301758</real>
+		<real>8.2387676239013672</real>
 		<key>time</key>
 		<date>2015-02-17T13:50:45Z</date>
 	</dict>
@@ -4208,7 +4608,7 @@
 		<key>elevation</key>
 		<real>56</real>
 		<key>pace</key>
-		<real>7.8570528030395508</real>
+		<real>8.232914924621582</real>
 		<key>time</key>
 		<date>2015-02-17T13:51:15Z</date>
 	</dict>
@@ -4218,7 +4618,7 @@
 		<key>elevation</key>
 		<real>50.200000762939453</real>
 		<key>pace</key>
-		<real>7.8746294975280762</real>
+		<real>7.5998411178588867</real>
 		<key>time</key>
 		<date>2015-02-17T13:51:45Z</date>
 	</dict>
@@ -4228,7 +4628,7 @@
 		<key>elevation</key>
 		<real>39.799999237060547</real>
 		<key>pace</key>
-		<real>7.8769292831420898</real>
+		<real>7.4195265769958496</real>
 		<key>time</key>
 		<date>2015-02-17T13:52:15Z</date>
 	</dict>
@@ -4238,7 +4638,7 @@
 		<key>elevation</key>
 		<real>36.400001525878906</real>
 		<key>pace</key>
-		<real>7.979158878326416</real>
+		<real>8.2600345611572266</real>
 		<key>time</key>
 		<date>2015-02-17T13:52:45Z</date>
 	</dict>
@@ -4248,7 +4648,7 @@
 		<key>elevation</key>
 		<real>36</real>
 		<key>pace</key>
-		<real>8.0092935562133789</real>
+		<real>8.6099109649658203</real>
 		<key>time</key>
 		<date>2015-02-17T13:53:15Z</date>
 	</dict>
@@ -4258,7 +4658,7 @@
 		<key>elevation</key>
 		<real>33.799999237060547</real>
 		<key>pace</key>
-		<real>8.0063438415527344</real>
+		<real>8.4648447036743164</real>
 		<key>time</key>
 		<date>2015-02-17T13:53:45Z</date>
 	</dict>
@@ -4268,7 +4668,7 @@
 		<key>elevation</key>
 		<real>29.399999618530273</real>
 		<key>pace</key>
-		<real>7.9838948249816895</real>
+		<real>8.1546545028686523</real>
 		<key>time</key>
 		<date>2015-02-17T13:54:15Z</date>
 	</dict>
@@ -4278,59 +4678,9 @@
 		<key>elevation</key>
 		<real>25.600000381469727</real>
 		<key>pace</key>
-		<real>7.9921097755432129</real>
+		<real>8.2950839996337891</real>
 		<key>time</key>
 		<date>2015-02-17T13:54:45Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>29603.80078125</real>
-		<key>elevation</key>
-		<real>24.399999618530273</real>
-		<key>pace</key>
-		<real>8.3673563003540039</real>
-		<key>time</key>
-		<date>2015-02-17T13:55:15Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>29605.900390625</real>
-		<key>elevation</key>
-		<real>23.399999618530273</real>
-		<key>pace</key>
-		<real>12.23359489440918</real>
-		<key>time</key>
-		<date>2015-02-17T13:55:45Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>29607.5</real>
-		<key>elevation</key>
-		<real>23.799999237060547</real>
-		<key>pace</key>
-		<real>17.337310791015625</real>
-		<key>time</key>
-		<date>2015-02-17T13:56:15Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>29621.19921875</real>
-		<key>elevation</key>
-		<real>24.799999237060547</real>
-		<key>pace</key>
-		<real>17.83509635925293</real>
-		<key>time</key>
-		<date>2015-02-17T13:56:45Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>29634.69921875</real>
-		<key>elevation</key>
-		<real>23.799999237060547</real>
-		<key>pace</key>
-		<real>18.344438552856445</real>
-		<key>time</key>
-		<date>2015-02-17T13:57:15Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -4338,7 +4688,7 @@
 		<key>elevation</key>
 		<real>23.600000381469727</real>
 		<key>pace</key>
-		<real>18.52232551574707</real>
+		<real>9.2623729705810547</real>
 		<key>time</key>
 		<date>2015-02-17T13:57:45Z</date>
 	</dict>
@@ -4348,19 +4698,9 @@
 		<key>elevation</key>
 		<real>21.200000762939453</real>
 		<key>pace</key>
-		<real>18.58580207824707</real>
+		<real>9.9589204788208008</real>
 		<key>time</key>
 		<date>2015-02-17T13:58:15Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>29710.69921875</real>
-		<key>elevation</key>
-		<real>21</real>
-		<key>pace</key>
-		<real>19.629335403442383</real>
-		<key>time</key>
-		<date>2015-02-17T13:58:45Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -4368,7 +4708,7 @@
 		<key>elevation</key>
 		<real>18.600000381469727</real>
 		<key>pace</key>
-		<real>19.70045280456543</real>
+		<real>10.839509963989258</real>
 		<key>time</key>
 		<date>2015-02-17T13:59:15Z</date>
 	</dict>
@@ -4378,7 +4718,7 @@
 		<key>elevation</key>
 		<real>17.399999618530273</real>
 		<key>pace</key>
-		<real>19.70245361328125</real>
+		<real>11.830450057983398</real>
 		<key>time</key>
 		<date>2015-02-17T13:59:45Z</date>
 	</dict>
@@ -4388,7 +4728,7 @@
 		<key>elevation</key>
 		<real>16.799999237060547</real>
 		<key>pace</key>
-		<real>19.691839218139648</real>
+		<real>12.432456016540527</real>
 		<key>time</key>
 		<date>2015-02-17T14:00:15Z</date>
 	</dict>
@@ -4398,7 +4738,7 @@
 		<key>elevation</key>
 		<real>17.600000381469727</real>
 		<key>pace</key>
-		<real>19.682344436645508</real>
+		<real>11.0301513671875</real>
 		<key>time</key>
 		<date>2015-02-17T14:00:45Z</date>
 	</dict>
@@ -4408,7 +4748,7 @@
 		<key>elevation</key>
 		<real>17.600000381469727</real>
 		<key>pace</key>
-		<real>19.661144256591797</real>
+		<real>10.587297439575195</real>
 		<key>time</key>
 		<date>2015-02-17T14:01:15Z</date>
 	</dict>
@@ -4418,7 +4758,7 @@
 		<key>elevation</key>
 		<real>18.200000762939453</real>
 		<key>pace</key>
-		<real>19.6533203125</real>
+		<real>10.692196846008301</real>
 		<key>time</key>
 		<date>2015-02-17T14:01:45Z</date>
 	</dict>
@@ -4428,7 +4768,7 @@
 		<key>elevation</key>
 		<real>18.200000762939453</real>
 		<key>pace</key>
-		<real>19.605649948120117</real>
+		<real>10.572271347045898</real>
 		<key>time</key>
 		<date>2015-02-17T14:02:16Z</date>
 	</dict>
@@ -4438,7 +4778,7 @@
 		<key>elevation</key>
 		<real>20.399999618530273</real>
 		<key>pace</key>
-		<real>19.557094573974609</real>
+		<real>10.743999481201172</real>
 		<key>time</key>
 		<date>2015-02-17T14:02:46Z</date>
 	</dict>
@@ -4448,7 +4788,7 @@
 		<key>elevation</key>
 		<real>20.600000381469727</real>
 		<key>pace</key>
-		<real>19.546842575073242</real>
+		<real>10.247148513793945</real>
 		<key>time</key>
 		<date>2015-02-17T14:03:16Z</date>
 	</dict>
@@ -4458,7 +4798,7 @@
 		<key>elevation</key>
 		<real>19.799999237060547</real>
 		<key>pace</key>
-		<real>19.543535232543945</real>
+		<real>9.5617942810058594</real>
 		<key>time</key>
 		<date>2015-02-17T14:03:46Z</date>
 	</dict>
@@ -4468,7 +4808,7 @@
 		<key>elevation</key>
 		<real>20.200000762939453</real>
 		<key>pace</key>
-		<real>19.52903938293457</real>
+		<real>8.5937709808349609</real>
 		<key>time</key>
 		<date>2015-02-17T14:04:16Z</date>
 	</dict>
@@ -4478,7 +4818,7 @@
 		<key>elevation</key>
 		<real>23.799999237060547</real>
 		<key>pace</key>
-		<real>19.51255989074707</real>
+		<real>7.7704572677612305</real>
 		<key>time</key>
 		<date>2015-02-17T14:04:46Z</date>
 	</dict>
@@ -4488,7 +4828,7 @@
 		<key>elevation</key>
 		<real>24.399999618530273</real>
 		<key>pace</key>
-		<real>19.495517730712891</real>
+		<real>6.7751493453979492</real>
 		<key>time</key>
 		<date>2015-02-17T14:05:16Z</date>
 	</dict>
@@ -4498,7 +4838,7 @@
 		<key>elevation</key>
 		<real>27.399999618530273</real>
 		<key>pace</key>
-		<real>19.480806350708008</real>
+		<real>6.3528761863708496</real>
 		<key>time</key>
 		<date>2015-02-17T14:05:46Z</date>
 	</dict>
@@ -4508,7 +4848,7 @@
 		<key>elevation</key>
 		<real>26</real>
 		<key>pace</key>
-		<real>19.457086563110352</real>
+		<real>6.2291874885559082</real>
 		<key>time</key>
 		<date>2015-02-17T14:06:16Z</date>
 	</dict>
@@ -4518,7 +4858,7 @@
 		<key>elevation</key>
 		<real>24.399999618530273</real>
 		<key>pace</key>
-		<real>19.492910385131836</real>
+		<real>6.7269296646118164</real>
 		<key>time</key>
 		<date>2015-02-17T14:06:46Z</date>
 	</dict>
@@ -4528,7 +4868,7 @@
 		<key>elevation</key>
 		<real>26.399999618530273</real>
 		<key>pace</key>
-		<real>19.484804153442383</real>
+		<real>6.7447519302368164</real>
 		<key>time</key>
 		<date>2015-02-17T14:07:16Z</date>
 	</dict>
@@ -4538,7 +4878,7 @@
 		<key>elevation</key>
 		<real>26.200000762939453</real>
 		<key>pace</key>
-		<real>19.485225677490234</real>
+		<real>6.7965879440307617</real>
 		<key>time</key>
 		<date>2015-02-17T14:07:46Z</date>
 	</dict>
@@ -4548,7 +4888,7 @@
 		<key>elevation</key>
 		<real>27.600000381469727</real>
 		<key>pace</key>
-		<real>19.484428405761719</real>
+		<real>6.925898551940918</real>
 		<key>time</key>
 		<date>2015-02-17T14:08:16Z</date>
 	</dict>
@@ -4558,7 +4898,7 @@
 		<key>elevation</key>
 		<real>29</real>
 		<key>pace</key>
-		<real>19.453847885131836</real>
+		<real>6.9102950096130371</real>
 		<key>time</key>
 		<date>2015-02-17T14:08:46Z</date>
 	</dict>
@@ -4568,7 +4908,7 @@
 		<key>elevation</key>
 		<real>31.200000762939453</real>
 		<key>pace</key>
-		<real>19.461633682250977</real>
+		<real>6.5579404830932617</real>
 		<key>time</key>
 		<date>2015-02-17T14:09:16Z</date>
 	</dict>
@@ -4578,7 +4918,7 @@
 		<key>elevation</key>
 		<real>32.400001525878906</real>
 		<key>pace</key>
-		<real>19.4984130859375</real>
+		<real>6.9911322593688965</real>
 		<key>time</key>
 		<date>2015-02-17T14:09:46Z</date>
 	</dict>
@@ -4588,7 +4928,7 @@
 		<key>elevation</key>
 		<real>30.600000381469727</real>
 		<key>pace</key>
-		<real>19.492053985595703</real>
+		<real>7.0030670166015625</real>
 		<key>time</key>
 		<date>2015-02-17T14:10:16Z</date>
 	</dict>
@@ -4598,7 +4938,7 @@
 		<key>elevation</key>
 		<real>30</real>
 		<key>pace</key>
-		<real>19.482019424438477</real>
+		<real>6.8156461715698242</real>
 		<key>time</key>
 		<date>2015-02-17T14:10:46Z</date>
 	</dict>
@@ -4608,7 +4948,7 @@
 		<key>elevation</key>
 		<real>31.399999618530273</real>
 		<key>pace</key>
-		<real>19.487255096435547</real>
+		<real>7.1898183822631836</real>
 		<key>time</key>
 		<date>2015-02-17T14:11:16Z</date>
 	</dict>
@@ -4618,7 +4958,7 @@
 		<key>elevation</key>
 		<real>31.200000762939453</real>
 		<key>pace</key>
-		<real>19.491355895996094</real>
+		<real>7.2951598167419434</real>
 		<key>time</key>
 		<date>2015-02-17T14:11:46Z</date>
 	</dict>
@@ -4628,7 +4968,7 @@
 		<key>elevation</key>
 		<real>32.400001525878906</real>
 		<key>pace</key>
-		<real>19.472036361694336</real>
+		<real>6.9404616355895996</real>
 		<key>time</key>
 		<date>2015-02-17T14:12:16Z</date>
 	</dict>
@@ -4638,7 +4978,7 @@
 		<key>elevation</key>
 		<real>34</real>
 		<key>pace</key>
-		<real>19.440395355224609</real>
+		<real>6.9168076515197754</real>
 		<key>time</key>
 		<date>2015-02-17T14:12:46Z</date>
 	</dict>
@@ -4648,7 +4988,7 @@
 		<key>elevation</key>
 		<real>39.200000762939453</real>
 		<key>pace</key>
-		<real>19.511968612670898</real>
+		<real>8.1462945938110352</real>
 		<key>time</key>
 		<date>2015-02-17T14:13:16Z</date>
 	</dict>
@@ -4658,7 +4998,7 @@
 		<key>elevation</key>
 		<real>46.200000762939453</real>
 		<key>pace</key>
-		<real>19.5640869140625</real>
+		<real>8.9471588134765625</real>
 		<key>time</key>
 		<date>2015-02-17T14:13:46Z</date>
 	</dict>
@@ -4668,7 +5008,7 @@
 		<key>elevation</key>
 		<real>52.200000762939453</real>
 		<key>pace</key>
-		<real>19.685911178588867</real>
+		<real>10.523275375366211</real>
 		<key>time</key>
 		<date>2015-02-17T14:14:16Z</date>
 	</dict>
@@ -4678,7 +5018,7 @@
 		<key>elevation</key>
 		<real>59</real>
 		<key>pace</key>
-		<real>19.76970100402832</real>
+		<real>11.713803291320801</real>
 		<key>time</key>
 		<date>2015-02-17T14:14:46Z</date>
 	</dict>
@@ -4688,7 +5028,7 @@
 		<key>elevation</key>
 		<real>63.400001525878906</real>
 		<key>pace</key>
-		<real>19.812213897705078</real>
+		<real>12.422844886779785</real>
 		<key>time</key>
 		<date>2015-02-17T14:15:16Z</date>
 	</dict>
@@ -4698,7 +5038,7 @@
 		<key>elevation</key>
 		<real>65.800003051757812</real>
 		<key>pace</key>
-		<real>19.842796325683594</real>
+		<real>11.950756072998047</real>
 		<key>time</key>
 		<date>2015-02-17T14:15:46Z</date>
 	</dict>
@@ -4708,7 +5048,7 @@
 		<key>elevation</key>
 		<real>68.599998474121094</real>
 		<key>pace</key>
-		<real>19.876825332641602</real>
+		<real>11.637260437011719</real>
 		<key>time</key>
 		<date>2015-02-17T14:16:16Z</date>
 	</dict>
@@ -4718,7 +5058,7 @@
 		<key>elevation</key>
 		<real>72.800003051757812</real>
 		<key>pace</key>
-		<real>19.975183486938477</real>
+		<real>11.200962066650391</real>
 		<key>time</key>
 		<date>2015-02-17T14:16:46Z</date>
 	</dict>
@@ -4728,7 +5068,7 @@
 		<key>elevation</key>
 		<real>78.599998474121094</real>
 		<key>pace</key>
-		<real>20.07160758972168</real>
+		<real>11.352594375610352</real>
 		<key>time</key>
 		<date>2015-02-17T14:17:16Z</date>
 	</dict>
@@ -4738,7 +5078,7 @@
 		<key>elevation</key>
 		<real>84.599998474121094</real>
 		<key>pace</key>
-		<real>20.130134582519531</real>
+		<real>11.687551498413086</real>
 		<key>time</key>
 		<date>2015-02-17T14:17:46Z</date>
 	</dict>
@@ -4748,7 +5088,7 @@
 		<key>elevation</key>
 		<real>90</real>
 		<key>pace</key>
-		<real>20.185871124267578</real>
+		<real>11.884203910827637</real>
 		<key>time</key>
 		<date>2015-02-17T14:18:16Z</date>
 	</dict>
@@ -4758,7 +5098,7 @@
 		<key>elevation</key>
 		<real>87.800003051757812</real>
 		<key>pace</key>
-		<real>20.193002700805664</real>
+		<real>11.327342987060547</real>
 		<key>time</key>
 		<date>2015-02-17T14:18:46Z</date>
 	</dict>
@@ -4768,7 +5108,7 @@
 		<key>elevation</key>
 		<real>84.800003051757812</real>
 		<key>pace</key>
-		<real>20.154026031494141</real>
+		<real>10.359799385070801</real>
 		<key>time</key>
 		<date>2015-02-17T14:19:16Z</date>
 	</dict>
@@ -4778,7 +5118,7 @@
 		<key>elevation</key>
 		<real>77</real>
 		<key>pace</key>
-		<real>20.153453826904297</real>
+		<real>9.1585636138916016</real>
 		<key>time</key>
 		<date>2015-02-17T14:19:46Z</date>
 	</dict>
@@ -4788,7 +5128,7 @@
 		<key>elevation</key>
 		<real>81</real>
 		<key>pace</key>
-		<real>20.156099319458008</real>
+		<real>8.6229391098022461</real>
 		<key>time</key>
 		<date>2015-02-17T14:20:16Z</date>
 	</dict>
@@ -4798,7 +5138,7 @@
 		<key>elevation</key>
 		<real>84.400001525878906</real>
 		<key>pace</key>
-		<real>20.223424911499023</real>
+		<real>8.6894264221191406</real>
 		<key>time</key>
 		<date>2015-02-17T14:20:46Z</date>
 	</dict>
@@ -4808,7 +5148,7 @@
 		<key>elevation</key>
 		<real>86</real>
 		<key>pace</key>
-		<real>20.225240707397461</real>
+		<real>8.6197528839111328</real>
 		<key>time</key>
 		<date>2015-02-17T14:21:16Z</date>
 	</dict>
@@ -4818,7 +5158,7 @@
 		<key>elevation</key>
 		<real>85.400001525878906</real>
 		<key>pace</key>
-		<real>20.216552734375</real>
+		<real>8.350153923034668</real>
 		<key>time</key>
 		<date>2015-02-17T14:21:46Z</date>
 	</dict>
@@ -4828,7 +5168,7 @@
 		<key>elevation</key>
 		<real>86</real>
 		<key>pace</key>
-		<real>20.23272705078125</real>
+		<real>8.3707752227783203</real>
 		<key>time</key>
 		<date>2015-02-17T14:22:16Z</date>
 	</dict>
@@ -4838,7 +5178,7 @@
 		<key>elevation</key>
 		<real>86.400001525878906</real>
 		<key>pace</key>
-		<real>20.132265090942383</real>
+		<real>7.9740195274353027</real>
 		<key>time</key>
 		<date>2015-02-17T14:22:46Z</date>
 	</dict>
@@ -4848,7 +5188,7 @@
 		<key>elevation</key>
 		<real>92</real>
 		<key>pace</key>
-		<real>20.173332214355469</real>
+		<real>8.0087833404541016</real>
 		<key>time</key>
 		<date>2015-02-17T14:23:16Z</date>
 	</dict>
@@ -4858,7 +5198,7 @@
 		<key>elevation</key>
 		<real>92.800003051757812</real>
 		<key>pace</key>
-		<real>20.177257537841797</real>
+		<real>7.8890447616577148</real>
 		<key>time</key>
 		<date>2015-02-17T14:23:46Z</date>
 	</dict>
@@ -4868,7 +5208,7 @@
 		<key>elevation</key>
 		<real>89.199996948242188</real>
 		<key>pace</key>
-		<real>20.191621780395508</real>
+		<real>7.8554739952087402</real>
 		<key>time</key>
 		<date>2015-02-17T14:24:16Z</date>
 	</dict>
@@ -4878,7 +5218,7 @@
 		<key>elevation</key>
 		<real>92.400001525878906</real>
 		<key>pace</key>
-		<real>20.201946258544922</real>
+		<real>7.925722599029541</real>
 		<key>time</key>
 		<date>2015-02-17T14:24:46Z</date>
 	</dict>
@@ -4888,7 +5228,7 @@
 		<key>elevation</key>
 		<real>98.800003051757812</real>
 		<key>pace</key>
-		<real>19.927576065063477</real>
+		<real>9.0147314071655273</real>
 		<key>time</key>
 		<date>2015-02-17T14:25:16Z</date>
 	</dict>
@@ -4898,7 +5238,7 @@
 		<key>elevation</key>
 		<real>103</real>
 		<key>pace</key>
-		<real>16.155586242675781</real>
+		<real>9.1315631866455078</real>
 		<key>time</key>
 		<date>2015-02-17T14:25:46Z</date>
 	</dict>
@@ -4908,7 +5248,7 @@
 		<key>elevation</key>
 		<real>107.80000305175781</real>
 		<key>pace</key>
-		<real>11.133245468139648</real>
+		<real>10.080052375793457</real>
 		<key>time</key>
 		<date>2015-02-17T14:26:16Z</date>
 	</dict>
@@ -4918,7 +5258,7 @@
 		<key>elevation</key>
 		<real>111.40000152587891</real>
 		<key>pace</key>
-		<real>10.715194702148438</real>
+		<real>10.974227905273438</real>
 		<key>time</key>
 		<date>2015-02-17T14:26:46Z</date>
 	</dict>
@@ -4928,7 +5268,7 @@
 		<key>elevation</key>
 		<real>116.40000152587891</real>
 		<key>pace</key>
-		<real>10.288607597351074</real>
+		<real>11.670261383056641</real>
 		<key>time</key>
 		<date>2015-02-17T14:27:16Z</date>
 	</dict>
@@ -4938,7 +5278,7 @@
 		<key>elevation</key>
 		<real>118.59999847412109</real>
 		<key>pace</key>
-		<real>10.183441162109375</real>
+		<real>11.492077827453613</real>
 		<key>time</key>
 		<date>2015-02-17T14:27:46Z</date>
 	</dict>
@@ -4948,7 +5288,7 @@
 		<key>elevation</key>
 		<real>124.40000152587891</real>
 		<key>pace</key>
-		<real>10.181467056274414</real>
+		<real>11.555285453796387</real>
 		<key>time</key>
 		<date>2015-02-17T14:28:16Z</date>
 	</dict>
@@ -4958,7 +5298,7 @@
 		<key>elevation</key>
 		<real>133</real>
 		<key>pace</key>
-		<real>9.2392702102661133</real>
+		<real>11.892126083374023</real>
 		<key>time</key>
 		<date>2015-02-17T14:28:46Z</date>
 	</dict>
@@ -4968,7 +5308,7 @@
 		<key>elevation</key>
 		<real>138.80000305175781</real>
 		<key>pace</key>
-		<real>9.2989950180053711</real>
+		<real>12.457938194274902</real>
 		<key>time</key>
 		<date>2015-02-17T14:29:16Z</date>
 	</dict>
@@ -4978,7 +5318,7 @@
 		<key>elevation</key>
 		<real>144.80000305175781</real>
 		<key>pace</key>
-		<real>9.3471746444702148</real>
+		<real>12.955204963684082</real>
 		<key>time</key>
 		<date>2015-02-17T14:29:46Z</date>
 	</dict>
@@ -4988,7 +5328,7 @@
 		<key>elevation</key>
 		<real>152</real>
 		<key>pace</key>
-		<real>9.4226417541503906</real>
+		<real>13.621830940246582</real>
 		<key>time</key>
 		<date>2015-02-17T14:30:16Z</date>
 	</dict>
@@ -4998,7 +5338,7 @@
 		<key>elevation</key>
 		<real>160.60000610351562</real>
 		<key>pace</key>
-		<real>9.4398336410522461</real>
+		<real>13.570028305053711</real>
 		<key>time</key>
 		<date>2015-02-17T14:30:46Z</date>
 	</dict>
@@ -5008,7 +5348,7 @@
 		<key>elevation</key>
 		<real>167</real>
 		<key>pace</key>
-		<real>9.5026760101318359</real>
+		<real>13.748189926147461</real>
 		<key>time</key>
 		<date>2015-02-17T14:31:16Z</date>
 	</dict>
@@ -5018,7 +5358,7 @@
 		<key>elevation</key>
 		<real>173.80000305175781</real>
 		<key>pace</key>
-		<real>9.5477352142333984</real>
+		<real>13.677091598510742</real>
 		<key>time</key>
 		<date>2015-02-17T14:31:46Z</date>
 	</dict>
@@ -5028,7 +5368,7 @@
 		<key>elevation</key>
 		<real>179.39999389648438</real>
 		<key>pace</key>
-		<real>9.6033620834350586</real>
+		<real>13.646512985229492</real>
 		<key>time</key>
 		<date>2015-02-17T14:32:16Z</date>
 	</dict>
@@ -5038,7 +5378,7 @@
 		<key>elevation</key>
 		<real>187.39999389648438</real>
 		<key>pace</key>
-		<real>9.7058582305908203</real>
+		<real>14.14258861541748</real>
 		<key>time</key>
 		<date>2015-02-17T14:32:46Z</date>
 	</dict>
@@ -5048,7 +5388,7 @@
 		<key>elevation</key>
 		<real>197.39999389648438</real>
 		<key>pace</key>
-		<real>9.8370571136474609</real>
+		<real>15.013830184936523</real>
 		<key>time</key>
 		<date>2015-02-17T14:33:16Z</date>
 	</dict>
@@ -5058,7 +5398,7 @@
 		<key>elevation</key>
 		<real>205.60000610351562</real>
 		<key>pace</key>
-		<real>9.9748344421386719</real>
+		<real>15.227689743041992</real>
 		<key>time</key>
 		<date>2015-02-17T14:33:46Z</date>
 	</dict>
@@ -5068,7 +5408,7 @@
 		<key>elevation</key>
 		<real>212.80000305175781</real>
 		<key>pace</key>
-		<real>10.114912033081055</real>
+		<real>15.399900436401367</real>
 		<key>time</key>
 		<date>2015-02-17T14:34:16Z</date>
 	</dict>
@@ -5078,7 +5418,7 @@
 		<key>elevation</key>
 		<real>219.39999389648438</real>
 		<key>pace</key>
-		<real>10.235404014587402</real>
+		<real>15.354985237121582</real>
 		<key>time</key>
 		<date>2015-02-17T14:34:46Z</date>
 	</dict>
@@ -5088,7 +5428,7 @@
 		<key>elevation</key>
 		<real>228</real>
 		<key>pace</key>
-		<real>10.354302406311035</real>
+		<real>14.556486129760742</real>
 		<key>time</key>
 		<date>2015-02-17T14:35:16Z</date>
 	</dict>
@@ -5098,7 +5438,7 @@
 		<key>elevation</key>
 		<real>237</real>
 		<key>pace</key>
-		<real>10.521586418151855</real>
+		<real>14.567227363586426</real>
 		<key>time</key>
 		<date>2015-02-17T14:35:46Z</date>
 	</dict>
@@ -5108,7 +5448,7 @@
 		<key>elevation</key>
 		<real>241.39999389648438</real>
 		<key>pace</key>
-		<real>10.708020210266113</real>
+		<real>15.027417182922363</real>
 		<key>time</key>
 		<date>2015-02-17T14:36:16Z</date>
 	</dict>
@@ -5118,7 +5458,7 @@
 		<key>elevation</key>
 		<real>242.19999694824219</real>
 		<key>pace</key>
-		<real>10.848143577575684</real>
+		<real>15.525703430175781</real>
 		<key>time</key>
 		<date>2015-02-17T14:36:46Z</date>
 	</dict>
@@ -5128,7 +5468,7 @@
 		<key>elevation</key>
 		<real>249.39999389648438</real>
 		<key>pace</key>
-		<real>10.996153831481934</real>
+		<real>15.873738288879395</real>
 		<key>time</key>
 		<date>2015-02-17T14:37:16Z</date>
 	</dict>
@@ -5138,7 +5478,7 @@
 		<key>elevation</key>
 		<real>256.60000610351562</real>
 		<key>pace</key>
-		<real>11.12267017364502</real>
+		<real>16.017009735107422</real>
 		<key>time</key>
 		<date>2015-02-17T14:37:46Z</date>
 	</dict>
@@ -5148,7 +5488,7 @@
 		<key>elevation</key>
 		<real>264.79998779296875</real>
 		<key>pace</key>
-		<real>11.246516227722168</real>
+		<real>15.625056266784668</real>
 		<key>time</key>
 		<date>2015-02-17T14:38:16Z</date>
 	</dict>
@@ -5158,7 +5498,7 @@
 		<key>elevation</key>
 		<real>272.79998779296875</real>
 		<key>pace</key>
-		<real>11.378103256225586</real>
+		<real>14.951306343078613</real>
 		<key>time</key>
 		<date>2015-02-17T14:38:46Z</date>
 	</dict>
@@ -5168,7 +5508,7 @@
 		<key>elevation</key>
 		<real>281.60000610351562</real>
 		<key>pace</key>
-		<real>11.515050888061523</real>
+		<real>14.560842514038086</real>
 		<key>time</key>
 		<date>2015-02-17T14:39:16Z</date>
 	</dict>
@@ -5178,7 +5518,7 @@
 		<key>elevation</key>
 		<real>290.60000610351562</real>
 		<key>pace</key>
-		<real>11.601701736450195</real>
+		<real>14.257723808288574</real>
 		<key>time</key>
 		<date>2015-02-17T14:39:46Z</date>
 	</dict>
@@ -5188,7 +5528,7 @@
 		<key>elevation</key>
 		<real>299.20001220703125</real>
 		<key>pace</key>
-		<real>11.723312377929688</real>
+		<real>14.210786819458008</real>
 		<key>time</key>
 		<date>2015-02-17T14:40:16Z</date>
 	</dict>
@@ -5198,7 +5538,7 @@
 		<key>elevation</key>
 		<real>307</real>
 		<key>pace</key>
-		<real>11.846209526062012</real>
+		<real>14.011995315551758</real>
 		<key>time</key>
 		<date>2015-02-17T14:40:46Z</date>
 	</dict>
@@ -5208,7 +5548,7 @@
 		<key>elevation</key>
 		<real>317</real>
 		<key>pace</key>
-		<real>11.952475547790527</real>
+		<real>14.082303047180176</real>
 		<key>time</key>
 		<date>2015-02-17T14:41:16Z</date>
 	</dict>
@@ -5218,7 +5558,7 @@
 		<key>elevation</key>
 		<real>325.60000610351562</real>
 		<key>pace</key>
-		<real>12.052271842956543</real>
+		<real>13.741824150085449</real>
 		<key>time</key>
 		<date>2015-02-17T14:41:46Z</date>
 	</dict>
@@ -5228,7 +5568,7 @@
 		<key>elevation</key>
 		<real>331.39999389648438</real>
 		<key>pace</key>
-		<real>12.102617263793945</real>
+		<real>12.95146369934082</real>
 		<key>time</key>
 		<date>2015-02-17T14:42:16Z</date>
 	</dict>
@@ -5238,7 +5578,7 @@
 		<key>elevation</key>
 		<real>336.79998779296875</real>
 		<key>pace</key>
-		<real>12.127857208251953</real>
+		<real>11.771364212036133</real>
 		<key>time</key>
 		<date>2015-02-17T14:42:46Z</date>
 	</dict>
@@ -5248,7 +5588,7 @@
 		<key>elevation</key>
 		<real>341.20001220703125</real>
 		<key>pace</key>
-		<real>12.053492546081543</real>
+		<real>10.633695602416992</real>
 		<key>time</key>
 		<date>2015-02-17T14:43:16Z</date>
 	</dict>
@@ -5258,7 +5598,7 @@
 		<key>elevation</key>
 		<real>347.79998779296875</real>
 		<key>pace</key>
-		<real>11.98115062713623</real>
+		<real>9.2912616729736328</real>
 		<key>time</key>
 		<date>2015-02-17T14:43:46Z</date>
 	</dict>
@@ -5268,7 +5608,7 @@
 		<key>elevation</key>
 		<real>349.79998779296875</real>
 		<key>pace</key>
-		<real>11.866836547851562</real>
+		<real>8.2980670928955078</real>
 		<key>time</key>
 		<date>2015-02-17T14:44:16Z</date>
 	</dict>
@@ -5278,7 +5618,7 @@
 		<key>elevation</key>
 		<real>355.20001220703125</real>
 		<key>pace</key>
-		<real>11.905997276306152</real>
+		<real>9.3543758392333984</real>
 		<key>time</key>
 		<date>2015-02-17T14:44:46Z</date>
 	</dict>
@@ -5288,7 +5628,7 @@
 		<key>elevation</key>
 		<real>364.39999389648438</real>
 		<key>pace</key>
-		<real>11.953896522521973</real>
+		<real>10.335309028625488</real>
 		<key>time</key>
 		<date>2015-02-17T14:45:16Z</date>
 	</dict>
@@ -5298,7 +5638,7 @@
 		<key>elevation</key>
 		<real>368.20001220703125</real>
 		<key>pace</key>
-		<real>12.073941230773926</real>
+		<real>12.196142196655273</real>
 		<key>time</key>
 		<date>2015-02-17T14:45:46Z</date>
 	</dict>
@@ -5308,7 +5648,7 @@
 		<key>elevation</key>
 		<real>375.79998779296875</real>
 		<key>pace</key>
-		<real>12.161518096923828</real>
+		<real>13.801678657531738</real>
 		<key>time</key>
 		<date>2015-02-17T14:46:16Z</date>
 	</dict>
@@ -5318,7 +5658,7 @@
 		<key>elevation</key>
 		<real>383.39999389648438</real>
 		<key>pace</key>
-		<real>12.160932540893555</real>
+		<real>14.730114936828613</real>
 		<key>time</key>
 		<date>2015-02-17T14:46:46Z</date>
 	</dict>
@@ -5328,7 +5668,7 @@
 		<key>elevation</key>
 		<real>389.20001220703125</real>
 		<key>pace</key>
-		<real>12.182250022888184</real>
+		<real>14.667620658874512</real>
 		<key>time</key>
 		<date>2015-02-17T14:47:16Z</date>
 	</dict>
@@ -5338,7 +5678,7 @@
 		<key>elevation</key>
 		<real>398</real>
 		<key>pace</key>
-		<real>12.277345657348633</real>
+		<real>15.568951606750488</real>
 		<key>time</key>
 		<date>2015-02-17T14:47:46Z</date>
 	</dict>
@@ -5348,7 +5688,7 @@
 		<key>elevation</key>
 		<real>409</real>
 		<key>pace</key>
-		<real>12.4202880859375</real>
+		<real>16.04035758972168</real>
 		<key>time</key>
 		<date>2015-02-17T14:48:16Z</date>
 	</dict>
@@ -5358,19 +5698,9 @@
 		<key>elevation</key>
 		<real>419.39999389648438</real>
 		<key>pace</key>
-		<real>12.604920387268066</real>
+		<real>16.648162841796875</real>
 		<key>time</key>
 		<date>2015-02-17T14:48:46Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>34712.6015625</real>
-		<key>elevation</key>
-		<real>427</real>
-		<key>pace</key>
-		<real>12.801255226135254</real>
-		<key>time</key>
-		<date>2015-02-17T14:49:16Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -5378,7 +5708,7 @@
 		<key>elevation</key>
 		<real>433.60000610351562</real>
 		<key>pace</key>
-		<real>12.963489532470703</real>
+		<real>17.443862915039062</real>
 		<key>time</key>
 		<date>2015-02-17T14:49:46Z</date>
 	</dict>
@@ -5388,7 +5718,7 @@
 		<key>elevation</key>
 		<real>441.79998779296875</real>
 		<key>pace</key>
-		<real>13.0718994140625</real>
+		<real>17.581626892089844</real>
 		<key>time</key>
 		<date>2015-02-17T14:50:16Z</date>
 	</dict>
@@ -5398,7 +5728,7 @@
 		<key>elevation</key>
 		<real>448.60000610351562</real>
 		<key>pace</key>
-		<real>13.141589164733887</real>
+		<real>17.158206939697266</real>
 		<key>time</key>
 		<date>2015-02-17T14:50:46Z</date>
 	</dict>
@@ -5408,19 +5738,9 @@
 		<key>elevation</key>
 		<real>458.20001220703125</real>
 		<key>pace</key>
-		<real>13.312729835510254</real>
+		<real>16.769098281860352</real>
 		<key>time</key>
 		<date>2015-02-17T14:51:16Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>34859.80078125</real>
-		<key>elevation</key>
-		<real>466.39999389648438</real>
-		<key>pace</key>
-		<real>13.537115097045898</real>
-		<key>time</key>
-		<date>2015-02-17T14:51:46Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -5428,7 +5748,7 @@
 		<key>elevation</key>
 		<real>476.20001220703125</real>
 		<key>pace</key>
-		<real>13.713305473327637</real>
+		<real>16.701757431030273</real>
 		<key>time</key>
 		<date>2015-02-17T14:52:16Z</date>
 	</dict>
@@ -5438,7 +5758,7 @@
 		<key>elevation</key>
 		<real>487.79998779296875</real>
 		<key>pace</key>
-		<real>13.883148193359375</real>
+		<real>16.690185546875</real>
 		<key>time</key>
 		<date>2015-02-17T14:52:46Z</date>
 	</dict>
@@ -5448,7 +5768,7 @@
 		<key>elevation</key>
 		<real>496.79998779296875</real>
 		<key>pace</key>
-		<real>13.943140029907227</real>
+		<real>16.560993194580078</real>
 		<key>time</key>
 		<date>2015-02-17T14:53:16Z</date>
 	</dict>
@@ -5458,7 +5778,7 @@
 		<key>elevation</key>
 		<real>509.60000610351562</real>
 		<key>pace</key>
-		<real>14.029171943664551</real>
+		<real>15.84337329864502</real>
 		<key>time</key>
 		<date>2015-02-17T14:53:46Z</date>
 	</dict>
@@ -5468,7 +5788,7 @@
 		<key>elevation</key>
 		<real>519.4000244140625</real>
 		<key>pace</key>
-		<real>14.152889251708984</real>
+		<real>15.244743347167969</real>
 		<key>time</key>
 		<date>2015-02-17T14:54:16Z</date>
 	</dict>
@@ -5478,7 +5798,7 @@
 		<key>elevation</key>
 		<real>514.5999755859375</real>
 		<key>pace</key>
-		<real>14.318897247314453</real>
+		<real>15.19281005859375</real>
 		<key>time</key>
 		<date>2015-02-17T14:54:46Z</date>
 	</dict>
@@ -5488,7 +5808,7 @@
 		<key>elevation</key>
 		<real>513.79998779296875</real>
 		<key>pace</key>
-		<real>14.338667869567871</real>
+		<real>14.480959892272949</real>
 		<key>time</key>
 		<date>2015-02-17T14:55:16Z</date>
 	</dict>
@@ -5498,7 +5818,7 @@
 		<key>elevation</key>
 		<real>514.4000244140625</real>
 		<key>pace</key>
-		<real>14.468462944030762</real>
+		<real>15.435444831848145</real>
 		<key>time</key>
 		<date>2015-02-17T14:55:46Z</date>
 	</dict>
@@ -5508,7 +5828,7 @@
 		<key>elevation</key>
 		<real>503.20001220703125</real>
 		<key>pace</key>
-		<real>14.505192756652832</real>
+		<real>15.792303085327148</real>
 		<key>time</key>
 		<date>2015-02-17T14:56:16Z</date>
 	</dict>
@@ -5518,7 +5838,7 @@
 		<key>elevation</key>
 		<real>493</real>
 		<key>pace</key>
-		<real>14.584638595581055</real>
+		<real>16.155216217041016</real>
 		<key>time</key>
 		<date>2015-02-17T14:56:46Z</date>
 	</dict>
@@ -5528,7 +5848,7 @@
 		<key>elevation</key>
 		<real>486</real>
 		<key>pace</key>
-		<real>14.695857048034668</real>
+		<real>16.193767547607422</real>
 		<key>time</key>
 		<date>2015-02-17T14:57:16Z</date>
 	</dict>
@@ -5538,7 +5858,7 @@
 		<key>elevation</key>
 		<real>471.79998779296875</real>
 		<key>pace</key>
-		<real>14.639572143554688</real>
+		<real>15.102922439575195</real>
 		<key>time</key>
 		<date>2015-02-17T14:57:46Z</date>
 	</dict>
@@ -5548,7 +5868,7 @@
 		<key>elevation</key>
 		<real>462.60000610351562</real>
 		<key>pace</key>
-		<real>14.638106346130371</real>
+		<real>13.59099292755127</real>
 		<key>time</key>
 		<date>2015-02-17T14:58:16Z</date>
 	</dict>
@@ -5558,7 +5878,7 @@
 		<key>elevation</key>
 		<real>454</real>
 		<key>pace</key>
-		<real>14.584901809692383</real>
+		<real>12.848630905151367</real>
 		<key>time</key>
 		<date>2015-02-17T14:58:46Z</date>
 	</dict>
@@ -5568,7 +5888,7 @@
 		<key>elevation</key>
 		<real>440.20001220703125</real>
 		<key>pace</key>
-		<real>14.537310600280762</real>
+		<real>11.89000415802002</real>
 		<key>time</key>
 		<date>2015-02-17T14:59:16Z</date>
 	</dict>
@@ -5578,7 +5898,7 @@
 		<key>elevation</key>
 		<real>429.39999389648438</real>
 		<key>pace</key>
-		<real>14.48914623260498</real>
+		<real>10.474678039550781</real>
 		<key>time</key>
 		<date>2015-02-17T14:59:46Z</date>
 	</dict>
@@ -5588,7 +5908,7 @@
 		<key>elevation</key>
 		<real>417.60000610351562</real>
 		<key>pace</key>
-		<real>14.425097465515137</real>
+		<real>11.048137664794922</real>
 		<key>time</key>
 		<date>2015-02-17T15:00:16Z</date>
 	</dict>
@@ -5598,7 +5918,7 @@
 		<key>elevation</key>
 		<real>402.79998779296875</real>
 		<key>pace</key>
-		<real>14.420944213867188</real>
+		<real>10.964080810546875</real>
 		<key>time</key>
 		<date>2015-02-17T15:00:46Z</date>
 	</dict>
@@ -5608,7 +5928,7 @@
 		<key>elevation</key>
 		<real>392</real>
 		<key>pace</key>
-		<real>14.43730354309082</real>
+		<real>11.977007865905762</real>
 		<key>time</key>
 		<date>2015-02-17T15:01:16Z</date>
 	</dict>
@@ -5618,19 +5938,9 @@
 		<key>elevation</key>
 		<real>385.79998779296875</real>
 		<key>pace</key>
-		<real>14.475522994995117</real>
+		<real>12.935635566711426</real>
 		<key>time</key>
 		<date>2015-02-17T15:01:46Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>35626.30078125</real>
-		<key>elevation</key>
-		<real>380.79998779296875</real>
-		<key>pace</key>
-		<real>14.753993034362793</real>
-		<key>time</key>
-		<date>2015-02-17T15:02:16Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -5638,7 +5948,7 @@
 		<key>elevation</key>
 		<real>372</real>
 		<key>pace</key>
-		<real>14.763351440429688</real>
+		<real>14.312408447265625</real>
 		<key>time</key>
 		<date>2015-02-17T15:02:46Z</date>
 	</dict>
@@ -5648,7 +5958,7 @@
 		<key>elevation</key>
 		<real>360</real>
 		<key>pace</key>
-		<real>14.724907875061035</real>
+		<real>14.890274047851562</real>
 		<key>time</key>
 		<date>2015-02-17T15:03:16Z</date>
 	</dict>
@@ -5658,7 +5968,7 @@
 		<key>elevation</key>
 		<real>348.20001220703125</real>
 		<key>pace</key>
-		<real>14.672982215881348</real>
+		<real>14.917634963989258</real>
 		<key>time</key>
 		<date>2015-02-17T15:03:46Z</date>
 	</dict>
@@ -5668,7 +5978,7 @@
 		<key>elevation</key>
 		<real>340</real>
 		<key>pace</key>
-		<real>14.687565803527832</real>
+		<real>15.084123611450195</real>
 		<key>time</key>
 		<date>2015-02-17T15:04:16Z</date>
 	</dict>
@@ -5678,7 +5988,7 @@
 		<key>elevation</key>
 		<real>332.79998779296875</real>
 		<key>pace</key>
-		<real>14.740442276000977</real>
+		<real>15.19236946105957</real>
 		<key>time</key>
 		<date>2015-02-17T15:04:46Z</date>
 	</dict>
@@ -5688,7 +5998,7 @@
 		<key>elevation</key>
 		<real>316.60000610351562</real>
 		<key>pace</key>
-		<real>14.670259475708008</real>
+		<real>13.439389228820801</real>
 		<key>time</key>
 		<date>2015-02-17T15:05:16Z</date>
 	</dict>
@@ -5698,7 +6008,7 @@
 		<key>elevation</key>
 		<real>300.79998779296875</real>
 		<key>pace</key>
-		<real>14.547887802124023</real>
+		<real>12.443014144897461</real>
 		<key>time</key>
 		<date>2015-02-17T15:05:46Z</date>
 	</dict>
@@ -5708,7 +6018,7 @@
 		<key>elevation</key>
 		<real>289.39999389648438</real>
 		<key>pace</key>
-		<real>14.41700267791748</real>
+		<real>11.955690383911133</real>
 		<key>time</key>
 		<date>2015-02-17T15:06:16Z</date>
 	</dict>
@@ -5718,7 +6028,7 @@
 		<key>elevation</key>
 		<real>277</real>
 		<key>pace</key>
-		<real>14.271132469177246</real>
+		<real>10.528528213500977</real>
 		<key>time</key>
 		<date>2015-02-17T15:06:46Z</date>
 	</dict>
@@ -5728,7 +6038,7 @@
 		<key>elevation</key>
 		<real>264.60000610351562</real>
 		<key>pace</key>
-		<real>14.134154319763184</real>
+		<real>8.5983152389526367</real>
 		<key>time</key>
 		<date>2015-02-17T15:07:16Z</date>
 	</dict>
@@ -5738,7 +6048,7 @@
 		<key>elevation</key>
 		<real>251.60000610351562</real>
 		<key>pace</key>
-		<real>14.002040863037109</real>
+		<real>7.9984054565429688</real>
 		<key>time</key>
 		<date>2015-02-17T15:07:46Z</date>
 	</dict>
@@ -5748,7 +6058,7 @@
 		<key>elevation</key>
 		<real>238.80000305175781</real>
 		<key>pace</key>
-		<real>13.879472732543945</real>
+		<real>7.6040863990783691</real>
 		<key>time</key>
 		<date>2015-02-17T15:08:16Z</date>
 	</dict>
@@ -5758,49 +6068,9 @@
 		<key>elevation</key>
 		<real>237.39999389648438</real>
 		<key>pace</key>
-		<real>13.850561141967773</real>
+		<real>8.1540193557739258</real>
 		<key>time</key>
 		<date>2015-02-17T15:08:46Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>36283.8984375</real>
-		<key>elevation</key>
-		<real>237.19999694824219</real>
-		<key>pace</key>
-		<real>19.554777145385742</real>
-		<key>time</key>
-		<date>2015-02-17T15:09:16Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>36286.3984375</real>
-		<key>elevation</key>
-		<real>236.60000610351562</real>
-		<key>pace</key>
-		<real>22.65852165222168</real>
-		<key>time</key>
-		<date>2015-02-17T15:09:46Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>36286.80078125</real>
-		<key>elevation</key>
-		<real>237.39999389648438</real>
-		<key>pace</key>
-		<real>43.139663696289062</real>
-		<key>time</key>
-		<date>2015-02-17T15:10:16Z</date>
-	</dict>
-	<dict>
-		<key>distance</key>
-		<real>36292.1015625</real>
-		<key>elevation</key>
-		<real>237.60000610351562</real>
-		<key>pace</key>
-		<real>44.489540100097656</real>
-		<key>time</key>
-		<date>2015-02-17T15:10:46Z</date>
 	</dict>
 	<dict>
 		<key>distance</key>
@@ -5808,7 +6078,7 @@
 		<key>elevation</key>
 		<real>239.19999694824219</real>
 		<key>pace</key>
-		<real>44.360588073730469</real>
+		<real>7.7415800094604492</real>
 		<key>time</key>
 		<date>2015-02-17T15:11:16Z</date>
 	</dict>
@@ -5818,7 +6088,7 @@
 		<key>elevation</key>
 		<real>237.60000610351562</real>
 		<key>pace</key>
-		<real>44.268760681152344</real>
+		<real>7.9425849914550781</real>
 		<key>time</key>
 		<date>2015-02-17T15:11:46Z</date>
 	</dict>
@@ -5828,7 +6098,7 @@
 		<key>elevation</key>
 		<real>236.39999389648438</real>
 		<key>pace</key>
-		<real>44.272041320800781</real>
+		<real>8.7151165008544922</real>
 		<key>time</key>
 		<date>2015-02-17T15:12:16Z</date>
 	</dict>
@@ -5838,7 +6108,7 @@
 		<key>elevation</key>
 		<real>237.39999389648438</real>
 		<key>pace</key>
-		<real>44.415500640869141</real>
+		<real>10.631821632385254</real>
 		<key>time</key>
 		<date>2015-02-17T15:12:46Z</date>
 	</dict>
@@ -5848,7 +6118,7 @@
 		<key>elevation</key>
 		<real>245</real>
 		<key>pace</key>
-		<real>44.408329010009766</real>
+		<real>9.6592559814453125</real>
 		<key>time</key>
 		<date>2015-02-17T15:13:16Z</date>
 	</dict>
@@ -5858,7 +6128,7 @@
 		<key>elevation</key>
 		<real>239.60000610351562</real>
 		<key>pace</key>
-		<real>44.4239501953125</real>
+		<real>10.051665306091309</real>
 		<key>time</key>
 		<date>2015-02-17T15:13:46Z</date>
 	</dict>
@@ -5868,7 +6138,7 @@
 		<key>elevation</key>
 		<real>242.19999694824219</real>
 		<key>pace</key>
-		<real>44.453166961669922</real>
+		<real>10.510940551757812</real>
 		<key>time</key>
 		<date>2015-02-17T15:14:16Z</date>
 	</dict>
@@ -5878,7 +6148,7 @@
 		<key>elevation</key>
 		<real>245</real>
 		<key>pace</key>
-		<real>44.327678680419922</real>
+		<real>10.022021293640137</real>
 		<key>time</key>
 		<date>2015-02-17T15:14:46Z</date>
 	</dict>
@@ -5888,7 +6158,7 @@
 		<key>elevation</key>
 		<real>238.19999694824219</real>
 		<key>pace</key>
-		<real>44.225753784179688</real>
+		<real>8.0584011077880859</real>
 		<key>time</key>
 		<date>2015-02-17T15:15:16Z</date>
 	</dict>
@@ -5898,7 +6168,7 @@
 		<key>elevation</key>
 		<real>237.19999694824219</real>
 		<key>pace</key>
-		<real>44.051918029785156</real>
+		<real>7.9192099571228027</real>
 		<key>time</key>
 		<date>2015-02-17T15:15:46Z</date>
 	</dict>
@@ -5908,7 +6178,7 @@
 		<key>elevation</key>
 		<real>237</real>
 		<key>pace</key>
-		<real>43.902713775634766</real>
+		<real>7.5468583106994629</real>
 		<key>time</key>
 		<date>2015-02-17T15:16:16Z</date>
 	</dict>
@@ -5918,7 +6188,7 @@
 		<key>elevation</key>
 		<real>232.39999389648438</real>
 		<key>pace</key>
-		<real>43.790317535400391</real>
+		<real>6.7759299278259277</real>
 		<key>time</key>
 		<date>2015-02-17T15:16:46Z</date>
 	</dict>
@@ -5928,7 +6198,7 @@
 		<key>elevation</key>
 		<real>237.19999694824219</real>
 		<key>pace</key>
-		<real>43.724933624267578</real>
+		<real>7.4346914291381836</real>
 		<key>time</key>
 		<date>2015-02-17T15:17:16Z</date>
 	</dict>
@@ -5938,7 +6208,7 @@
 		<key>elevation</key>
 		<real>244</real>
 		<key>pace</key>
-		<real>43.668357849121094</real>
+		<real>8.8802042007446289</real>
 		<key>time</key>
 		<date>2015-02-17T15:17:46Z</date>
 	</dict>
@@ -5948,7 +6218,7 @@
 		<key>elevation</key>
 		<real>252.80000305175781</real>
 		<key>pace</key>
-		<real>43.623428344726562</real>
+		<real>10.898496627807617</real>
 		<key>time</key>
 		<date>2015-02-17T15:18:16Z</date>
 	</dict>
@@ -5958,7 +6228,7 @@
 		<key>elevation</key>
 		<real>261.60000610351562</real>
 		<key>pace</key>
-		<real>43.596340179443359</real>
+		<real>12.971685409545898</real>
 		<key>time</key>
 		<date>2015-02-17T15:18:46Z</date>
 	</dict>
@@ -5968,7 +6238,7 @@
 		<key>elevation</key>
 		<real>265.20001220703125</real>
 		<key>pace</key>
-		<real>43.481807708740234</real>
+		<real>14.341520309448242</real>
 		<key>time</key>
 		<date>2015-02-17T15:19:16Z</date>
 	</dict>
@@ -5978,7 +6248,7 @@
 		<key>elevation</key>
 		<real>266.20001220703125</real>
 		<key>pace</key>
-		<real>43.469505310058594</real>
+		<real>15.468276977539062</real>
 		<key>time</key>
 		<date>2015-02-17T15:19:46Z</date>
 	</dict>
@@ -5988,7 +6258,7 @@
 		<key>elevation</key>
 		<real>271.20001220703125</real>
 		<key>pace</key>
-		<real>43.439159393310547</real>
+		<real>15.40716552734375</real>
 		<key>time</key>
 		<date>2015-02-17T15:20:16Z</date>
 	</dict>
@@ -5998,7 +6268,7 @@
 		<key>elevation</key>
 		<real>277.79998779296875</real>
 		<key>pace</key>
-		<real>43.409709930419922</real>
+		<real>14.780383110046387</real>
 		<key>time</key>
 		<date>2015-02-17T15:20:46Z</date>
 	</dict>
@@ -6008,7 +6278,7 @@
 		<key>elevation</key>
 		<real>282.60000610351562</real>
 		<key>pace</key>
-		<real>43.353160858154297</real>
+		<real>14.195277214050293</real>
 		<key>time</key>
 		<date>2015-02-17T15:21:16Z</date>
 	</dict>
@@ -6018,7 +6288,7 @@
 		<key>elevation</key>
 		<real>288.20001220703125</real>
 		<key>pace</key>
-		<real>43.261985778808594</real>
+		<real>14.54265308380127</real>
 		<key>time</key>
 		<date>2015-02-17T15:21:46Z</date>
 	</dict>
@@ -6028,7 +6298,7 @@
 		<key>elevation</key>
 		<real>294.79998779296875</real>
 		<key>pace</key>
-		<real>43.199111938476562</real>
+		<real>14.123891830444336</real>
 		<key>time</key>
 		<date>2015-02-17T15:22:16Z</date>
 	</dict>
@@ -6038,7 +6308,7 @@
 		<key>elevation</key>
 		<real>300.60000610351562</real>
 		<key>pace</key>
-		<real>43.201045989990234</real>
+		<real>14.85169506072998</real>
 		<key>time</key>
 		<date>2015-02-17T15:22:46Z</date>
 	</dict>
@@ -6048,7 +6318,7 @@
 		<key>elevation</key>
 		<real>307.20001220703125</real>
 		<key>pace</key>
-		<real>43.240180969238281</real>
+		<real>15.593093872070312</real>
 		<key>time</key>
 		<date>2015-02-17T15:23:16Z</date>
 	</dict>
@@ -6058,7 +6328,7 @@
 		<key>elevation</key>
 		<real>313.60000610351562</real>
 		<key>pace</key>
-		<real>43.356861114501953</real>
+		<real>16.530788421630859</real>
 		<key>time</key>
 		<date>2015-02-17T15:23:46Z</date>
 	</dict>
@@ -6068,7 +6338,7 @@
 		<key>elevation</key>
 		<real>320.39999389648438</real>
 		<key>pace</key>
-		<real>43.373813629150391</real>
+		<real>16.586704254150391</real>
 		<key>time</key>
 		<date>2015-02-17T15:24:16Z</date>
 	</dict>
@@ -6078,7 +6348,7 @@
 		<key>elevation</key>
 		<real>328.79998779296875</real>
 		<key>pace</key>
-		<real>43.354743957519531</real>
+		<real>17.060413360595703</real>
 		<key>time</key>
 		<date>2015-02-17T15:24:46Z</date>
 	</dict>
@@ -6088,7 +6358,7 @@
 		<key>elevation</key>
 		<real>334.20001220703125</real>
 		<key>pace</key>
-		<real>43.406394958496094</real>
+		<real>16.945140838623047</real>
 		<key>time</key>
 		<date>2015-02-17T15:25:16Z</date>
 	</dict>
@@ -6098,7 +6368,7 @@
 		<key>elevation</key>
 		<real>342.39999389648438</real>
 		<key>pace</key>
-		<real>43.381515502929688</real>
+		<real>17.131420135498047</real>
 		<key>time</key>
 		<date>2015-02-17T15:25:46Z</date>
 	</dict>
@@ -6108,7 +6378,7 @@
 		<key>elevation</key>
 		<real>350</real>
 		<key>pace</key>
-		<real>43.404060363769531</real>
+		<real>16.358697891235352</real>
 		<key>time</key>
 		<date>2015-02-17T15:26:16Z</date>
 	</dict>
@@ -6118,7 +6388,7 @@
 		<key>elevation</key>
 		<real>358.79998779296875</real>
 		<key>pace</key>
-		<real>43.439643859863281</real>
+		<real>16.945198059082031</real>
 		<key>time</key>
 		<date>2015-02-17T15:26:46Z</date>
 	</dict>
@@ -6128,7 +6398,7 @@
 		<key>elevation</key>
 		<real>366.79998779296875</real>
 		<key>pace</key>
-		<real>43.433204650878906</real>
+		<real>17.135288238525391</real>
 		<key>time</key>
 		<date>2015-02-17T15:27:16Z</date>
 	</dict>
@@ -6138,7 +6408,7 @@
 		<key>elevation</key>
 		<real>375.79998779296875</real>
 		<key>pace</key>
-		<real>43.601192474365234</real>
+		<real>17.440473556518555</real>
 		<key>time</key>
 		<date>2015-02-17T15:27:46Z</date>
 	</dict>
@@ -6148,7 +6418,7 @@
 		<key>elevation</key>
 		<real>382.79998779296875</real>
 		<key>pace</key>
-		<real>43.64990234375</real>
+		<real>16.811641693115234</real>
 		<key>time</key>
 		<date>2015-02-17T15:28:16Z</date>
 	</dict>
@@ -6158,7 +6428,7 @@
 		<key>elevation</key>
 		<real>387.60000610351562</real>
 		<key>pace</key>
-		<real>43.705898284912109</real>
+		<real>16.470718383789062</real>
 		<key>time</key>
 		<date>2015-02-17T15:28:46Z</date>
 	</dict>
@@ -6168,7 +6438,7 @@
 		<key>elevation</key>
 		<real>388</real>
 		<key>pace</key>
-		<real>43.740718841552734</real>
+		<real>15.502883911132812</real>
 		<key>time</key>
 		<date>2015-02-17T15:29:16Z</date>
 	</dict>
@@ -6178,7 +6448,7 @@
 		<key>elevation</key>
 		<real>390.39999389648438</real>
 		<key>pace</key>
-		<real>43.782569885253906</real>
+		<real>14.667032241821289</real>
 		<key>time</key>
 		<date>2015-02-17T15:29:46Z</date>
 	</dict>
@@ -6188,7 +6458,7 @@
 		<key>elevation</key>
 		<real>395.20001220703125</real>
 		<key>pace</key>
-		<real>43.824459075927734</real>
+		<real>13.727331161499023</real>
 		<key>time</key>
 		<date>2015-02-17T15:30:16Z</date>
 	</dict>
@@ -6198,7 +6468,7 @@
 		<key>elevation</key>
 		<real>408.39999389648438</real>
 		<key>pace</key>
-		<real>43.83001708984375</real>
+		<real>13.125478744506836</real>
 		<key>time</key>
 		<date>2015-02-17T15:30:46Z</date>
 	</dict>
@@ -6208,7 +6478,7 @@
 		<key>elevation</key>
 		<real>411.20001220703125</real>
 		<key>pace</key>
-		<real>43.760669708251953</real>
+		<real>12.634195327758789</real>
 		<key>time</key>
 		<date>2015-02-17T15:31:17Z</date>
 	</dict>
@@ -6218,7 +6488,7 @@
 		<key>elevation</key>
 		<real>414.20001220703125</real>
 		<key>pace</key>
-		<real>43.770603179931641</real>
+		<real>13.294222831726074</real>
 		<key>time</key>
 		<date>2015-02-17T15:31:47Z</date>
 	</dict>
@@ -6228,7 +6498,7 @@
 		<key>elevation</key>
 		<real>408.79998779296875</real>
 		<key>pace</key>
-		<real>43.432258605957031</real>
+		<real>12.620963096618652</real>
 		<key>time</key>
 		<date>2015-02-17T15:32:17Z</date>
 	</dict>
@@ -6238,7 +6508,7 @@
 		<key>elevation</key>
 		<real>408.60000610351562</real>
 		<key>pace</key>
-		<real>43.261173248291016</real>
+		<real>11.442196846008301</real>
 		<key>time</key>
 		<date>2015-02-17T15:32:47Z</date>
 	</dict>
@@ -6248,7 +6518,7 @@
 		<key>elevation</key>
 		<real>404.60000610351562</real>
 		<key>pace</key>
-		<real>43.159069061279297</real>
+		<real>10.610016822814941</real>
 		<key>time</key>
 		<date>2015-02-17T15:33:17Z</date>
 	</dict>
@@ -6258,7 +6528,7 @@
 		<key>elevation</key>
 		<real>393.20001220703125</real>
 		<key>pace</key>
-		<real>43.192558288574219</real>
+		<real>11.238475799560547</real>
 		<key>time</key>
 		<date>2015-02-17T15:33:47Z</date>
 	</dict>
@@ -6268,7 +6538,7 @@
 		<key>elevation</key>
 		<real>379.60000610351562</real>
 		<key>pace</key>
-		<real>43.105033874511719</real>
+		<real>9.9575815200805664</real>
 		<key>time</key>
 		<date>2015-02-17T15:34:17Z</date>
 	</dict>
@@ -6278,7 +6548,7 @@
 		<key>elevation</key>
 		<real>367</real>
 		<key>pace</key>
-		<real>43.01068115234375</real>
+		<real>10.133413314819336</real>
 		<key>time</key>
 		<date>2015-02-17T15:34:47Z</date>
 	</dict>
@@ -6288,7 +6558,7 @@
 		<key>elevation</key>
 		<real>357.60000610351562</real>
 		<key>pace</key>
-		<real>43.076774597167969</real>
+		<real>11.226602554321289</real>
 		<key>time</key>
 		<date>2015-02-17T15:35:17Z</date>
 	</dict>
@@ -6298,7 +6568,7 @@
 		<key>elevation</key>
 		<real>347.60000610351562</real>
 		<key>pace</key>
-		<real>43.154136657714844</real>
+		<real>12.383816719055176</real>
 		<key>time</key>
 		<date>2015-02-17T15:35:47Z</date>
 	</dict>
@@ -6308,7 +6578,7 @@
 		<key>elevation</key>
 		<real>338.20001220703125</real>
 		<key>pace</key>
-		<real>43.254314422607422</real>
+		<real>12.696760177612305</real>
 		<key>time</key>
 		<date>2015-02-17T15:36:17Z</date>
 	</dict>
@@ -6318,7 +6588,7 @@
 		<key>elevation</key>
 		<real>331</real>
 		<key>pace</key>
-		<real>43.404182434082031</real>
+		<real>14.118350028991699</real>
 		<key>time</key>
 		<date>2015-02-17T15:36:47Z</date>
 	</dict>
@@ -6328,7 +6598,7 @@
 		<key>elevation</key>
 		<real>324.79998779296875</real>
 		<key>pace</key>
-		<real>43.562255859375</real>
+		<real>15.217267036437988</real>
 		<key>time</key>
 		<date>2015-02-17T15:37:17Z</date>
 	</dict>
@@ -6338,7 +6608,7 @@
 		<key>elevation</key>
 		<real>317</real>
 		<key>pace</key>
-		<real>43.745021820068359</real>
+		<real>16.017452239990234</real>
 		<key>time</key>
 		<date>2015-02-17T15:37:47Z</date>
 	</dict>
@@ -6348,7 +6618,7 @@
 		<key>elevation</key>
 		<real>307.39999389648438</real>
 		<key>pace</key>
-		<real>43.854625701904297</real>
+		<real>16.009973526000977</real>
 		<key>time</key>
 		<date>2015-02-17T15:38:17Z</date>
 	</dict>
@@ -6358,7 +6628,7 @@
 		<key>elevation</key>
 		<real>299.79998779296875</real>
 		<key>pace</key>
-		<real>43.860111236572266</real>
+		<real>15.423609733581543</real>
 		<key>time</key>
 		<date>2015-02-17T15:38:47Z</date>
 	</dict>
@@ -6368,7 +6638,7 @@
 		<key>elevation</key>
 		<real>296</real>
 		<key>pace</key>
-		<real>38.074337005615234</real>
+		<real>14.006401062011719</real>
 		<key>time</key>
 		<date>2015-02-17T15:39:17Z</date>
 	</dict>
@@ -6378,7 +6648,7 @@
 		<key>elevation</key>
 		<real>290.39999389648438</real>
 		<key>pace</key>
-		<real>34.860733032226562</real>
+		<real>12.131806373596191</real>
 		<key>time</key>
 		<date>2015-02-17T15:39:47Z</date>
 	</dict>
@@ -6388,7 +6658,7 @@
 		<key>elevation</key>
 		<real>293</real>
 		<key>pace</key>
-		<real>14.294957160949707</real>
+		<real>10.461442947387695</real>
 		<key>time</key>
 		<date>2015-02-17T15:40:17Z</date>
 	</dict>
@@ -6398,7 +6668,7 @@
 		<key>elevation</key>
 		<real>289.20001220703125</real>
 		<key>pace</key>
-		<real>12.888211250305176</real>
+		<real>9.7357769012451172</real>
 		<key>time</key>
 		<date>2015-02-17T15:40:47Z</date>
 	</dict>
@@ -6408,7 +6678,7 @@
 		<key>elevation</key>
 		<real>281.60000610351562</real>
 		<key>pace</key>
-		<real>12.974893569946289</real>
+		<real>9.58001708984375</real>
 		<key>time</key>
 		<date>2015-02-17T15:41:17Z</date>
 	</dict>
@@ -6418,7 +6688,7 @@
 		<key>elevation</key>
 		<real>269</real>
 		<key>pace</key>
-		<real>12.999299049377441</real>
+		<real>9.4092254638671875</real>
 		<key>time</key>
 		<date>2015-02-17T15:41:47Z</date>
 	</dict>
@@ -6428,7 +6698,7 @@
 		<key>elevation</key>
 		<real>258.39999389648438</real>
 		<key>pace</key>
-		<real>12.960107803344727</real>
+		<real>9.5062370300292969</real>
 		<key>time</key>
 		<date>2015-02-17T15:42:17Z</date>
 	</dict>
@@ -6438,7 +6708,7 @@
 		<key>elevation</key>
 		<real>243.80000305175781</real>
 		<key>pace</key>
-		<real>12.822358131408691</real>
+		<real>9.4102039337158203</real>
 		<key>time</key>
 		<date>2015-02-17T15:42:47Z</date>
 	</dict>
@@ -6448,7 +6718,7 @@
 		<key>elevation</key>
 		<real>224.60000610351562</real>
 		<key>pace</key>
-		<real>12.815181732177734</real>
+		<real>8.7828817367553711</real>
 		<key>time</key>
 		<date>2015-02-17T15:43:17Z</date>
 	</dict>
@@ -6458,7 +6728,7 @@
 		<key>elevation</key>
 		<real>216.19999694824219</real>
 		<key>pace</key>
-		<real>12.87713623046875</real>
+		<real>8.8785619735717773</real>
 		<key>time</key>
 		<date>2015-02-17T15:43:47Z</date>
 	</dict>
@@ -6468,7 +6738,7 @@
 		<key>elevation</key>
 		<real>202.39999389648438</real>
 		<key>pace</key>
-		<real>12.825724601745605</real>
+		<real>8.4280261993408203</real>
 		<key>time</key>
 		<date>2015-02-17T15:44:17Z</date>
 	</dict>
@@ -6478,7 +6748,7 @@
 		<key>elevation</key>
 		<real>187.80000305175781</real>
 		<key>pace</key>
-		<real>12.810717582702637</real>
+		<real>8.2293376922607422</real>
 		<key>time</key>
 		<date>2015-02-17T15:44:47Z</date>
 	</dict>
@@ -6488,7 +6758,7 @@
 		<key>elevation</key>
 		<real>172</real>
 		<key>pace</key>
-		<real>12.804702758789062</real>
+		<real>7.8465194702148438</real>
 		<key>time</key>
 		<date>2015-02-17T15:45:17Z</date>
 	</dict>
@@ -6498,7 +6768,7 @@
 		<key>elevation</key>
 		<real>156.19999694824219</real>
 		<key>pace</key>
-		<real>12.822510719299316</real>
+		<real>8.0071392059326172</real>
 		<key>time</key>
 		<date>2015-02-17T15:45:47Z</date>
 	</dict>
@@ -6508,7 +6778,7 @@
 		<key>elevation</key>
 		<real>144.39999389648438</real>
 		<key>pace</key>
-		<real>12.93302059173584</real>
+		<real>8.2174568176269531</real>
 		<key>time</key>
 		<date>2015-02-17T15:46:17Z</date>
 	</dict>
@@ -6518,7 +6788,7 @@
 		<key>elevation</key>
 		<real>129.39999389648438</real>
 		<key>pace</key>
-		<real>12.96279239654541</real>
+		<real>8.4207248687744141</real>
 		<key>time</key>
 		<date>2015-02-17T15:46:47Z</date>
 	</dict>
@@ -6528,7 +6798,7 @@
 		<key>elevation</key>
 		<real>113.59999847412109</real>
 		<key>pace</key>
-		<real>12.987911224365234</real>
+		<real>9.5609960556030273</real>
 		<key>time</key>
 		<date>2015-02-17T15:47:17Z</date>
 	</dict>
@@ -6538,7 +6808,7 @@
 		<key>elevation</key>
 		<real>100.40000152587891</real>
 		<key>pace</key>
-		<real>12.929121017456055</real>
+		<real>10.373211860656738</real>
 		<key>time</key>
 		<date>2015-02-17T15:47:47Z</date>
 	</dict>
@@ -6548,7 +6818,7 @@
 		<key>elevation</key>
 		<real>90</real>
 		<key>pace</key>
-		<real>12.767858505249023</real>
+		<real>10.242657661437988</real>
 		<key>time</key>
 		<date>2015-02-17T15:48:17Z</date>
 	</dict>
@@ -6558,7 +6828,7 @@
 		<key>elevation</key>
 		<real>80.599998474121094</real>
 		<key>pace</key>
-		<real>12.609761238098145</real>
+		<real>9.092559814453125</real>
 		<key>time</key>
 		<date>2015-02-17T15:48:47Z</date>
 	</dict>
@@ -6568,7 +6838,7 @@
 		<key>elevation</key>
 		<real>70.199996948242188</real>
 		<key>pace</key>
-		<real>12.488093376159668</real>
+		<real>8.6451320648193359</real>
 		<key>time</key>
 		<date>2015-02-17T15:49:17Z</date>
 	</dict>
@@ -6578,7 +6848,7 @@
 		<key>elevation</key>
 		<real>68</real>
 		<key>pace</key>
-		<real>12.31453800201416</real>
+		<real>7.3877921104431152</real>
 		<key>time</key>
 		<date>2015-02-17T15:49:47Z</date>
 	</dict>
@@ -6588,7 +6858,7 @@
 		<key>elevation</key>
 		<real>70.199996948242188</real>
 		<key>pace</key>
-		<real>12.191681861877441</real>
+		<real>6.5579023361206055</real>
 		<key>time</key>
 		<date>2015-02-17T15:50:17Z</date>
 	</dict>
@@ -6598,7 +6868,7 @@
 		<key>elevation</key>
 		<real>64.599998474121094</real>
 		<key>pace</key>
-		<real>12.064883232116699</real>
+		<real>6.3446898460388184</real>
 		<key>time</key>
 		<date>2015-02-17T15:50:47Z</date>
 	</dict>
@@ -6608,7 +6878,7 @@
 		<key>elevation</key>
 		<real>63.400001525878906</real>
 		<key>pace</key>
-		<real>11.925092697143555</real>
+		<real>5.9792604446411133</real>
 		<key>time</key>
 		<date>2015-02-17T15:51:17Z</date>
 	</dict>
@@ -6618,7 +6888,7 @@
 		<key>elevation</key>
 		<real>62</real>
 		<key>pace</key>
-		<real>11.768038749694824</real>
+		<real>5.9020085334777832</real>
 		<key>time</key>
 		<date>2015-02-17T15:51:47Z</date>
 	</dict>
@@ -6628,7 +6898,7 @@
 		<key>elevation</key>
 		<real>61</real>
 		<key>pace</key>
-		<real>11.621410369873047</real>
+		<real>5.8063688278198242</real>
 		<key>time</key>
 		<date>2015-02-17T15:52:17Z</date>
 	</dict>
@@ -6638,7 +6908,7 @@
 		<key>elevation</key>
 		<real>62</real>
 		<key>pace</key>
-		<real>11.46187686920166</real>
+		<real>6.0940275192260742</real>
 		<key>time</key>
 		<date>2015-02-17T15:52:47Z</date>
 	</dict>
@@ -6648,7 +6918,7 @@
 		<key>elevation</key>
 		<real>63.799999237060547</real>
 		<key>pace</key>
-		<real>11.329526901245117</real>
+		<real>6.7688169479370117</real>
 		<key>time</key>
 		<date>2015-02-17T15:53:17Z</date>
 	</dict>
@@ -6658,7 +6928,7 @@
 		<key>elevation</key>
 		<real>61.400001525878906</real>
 		<key>pace</key>
-		<real>11.126253128051758</real>
+		<real>6.9447159767150879</real>
 		<key>time</key>
 		<date>2015-02-17T15:53:47Z</date>
 	</dict>
@@ -6668,7 +6938,7 @@
 		<key>elevation</key>
 		<real>67.199996948242188</real>
 		<key>pace</key>
-		<real>10.961417198181152</real>
+		<real>6.9072532653808594</real>
 		<key>time</key>
 		<date>2015-02-17T15:54:17Z</date>
 	</dict>
@@ -6678,7 +6948,7 @@
 		<key>elevation</key>
 		<real>64</real>
 		<key>pace</key>
-		<real>10.763564109802246</real>
+		<real>6.7662582397460938</real>
 		<key>time</key>
 		<date>2015-02-17T15:54:47Z</date>
 	</dict>
@@ -6688,7 +6958,7 @@
 		<key>elevation</key>
 		<real>59.799999237060547</real>
 		<key>pace</key>
-		<real>10.570313453674316</real>
+		<real>6.2463788986206055</real>
 		<key>time</key>
 		<date>2015-02-17T15:55:17Z</date>
 	</dict>
@@ -6698,7 +6968,7 @@
 		<key>elevation</key>
 		<real>57</real>
 		<key>pace</key>
-		<real>10.372696876525879</real>
+		<real>5.6494588851928711</real>
 		<key>time</key>
 		<date>2015-02-17T15:55:47Z</date>
 	</dict>
@@ -6708,7 +6978,7 @@
 		<key>elevation</key>
 		<real>58.400001525878906</real>
 		<key>pace</key>
-		<real>10.224424362182617</real>
+		<real>5.5367426872253418</real>
 		<key>time</key>
 		<date>2015-02-17T15:56:17Z</date>
 	</dict>
@@ -6718,7 +6988,7 @@
 		<key>elevation</key>
 		<real>57.799999237060547</real>
 		<key>pace</key>
-		<real>10.00704288482666</real>
+		<real>5.4926853179931641</real>
 		<key>time</key>
 		<date>2015-02-17T15:56:47Z</date>
 	</dict>
@@ -6728,7 +6998,7 @@
 		<key>elevation</key>
 		<real>60.400001525878906</real>
 		<key>pace</key>
-		<real>9.798553466796875</real>
+		<real>5.5551486015319824</real>
 		<key>time</key>
 		<date>2015-02-17T15:57:17Z</date>
 	</dict>
@@ -6738,7 +7008,7 @@
 		<key>elevation</key>
 		<real>57.599998474121094</real>
 		<key>pace</key>
-		<real>9.5834341049194336</real>
+		<real>5.5979104042053223</real>
 		<key>time</key>
 		<date>2015-02-17T15:57:47Z</date>
 	</dict>
@@ -6748,7 +7018,7 @@
 		<key>elevation</key>
 		<real>59.200000762939453</real>
 		<key>pace</key>
-		<real>9.4326543807983398</real>
+		<real>5.5311226844787598</real>
 		<key>time</key>
 		<date>2015-02-17T15:58:17Z</date>
 	</dict>
@@ -6758,7 +7028,7 @@
 		<key>elevation</key>
 		<real>63.200000762939453</real>
 		<key>pace</key>
-		<real>9.3150472640991211</real>
+		<real>5.5581836700439453</real>
 		<key>time</key>
 		<date>2015-02-17T15:58:47Z</date>
 	</dict>
@@ -6768,7 +7038,7 @@
 		<key>elevation</key>
 		<real>60.599998474121094</real>
 		<key>pace</key>
-		<real>9.1854362487792969</real>
+		<real>5.6436014175415039</real>
 		<key>time</key>
 		<date>2015-02-17T15:59:17Z</date>
 	</dict>
@@ -6778,7 +7048,7 @@
 		<key>elevation</key>
 		<real>59.799999237060547</real>
 		<key>pace</key>
-		<real>9.0450859069824219</real>
+		<real>5.6254096031188965</real>
 		<key>time</key>
 		<date>2015-02-17T15:59:47Z</date>
 	</dict>
@@ -6788,7 +7058,7 @@
 		<key>elevation</key>
 		<real>55.599998474121094</real>
 		<key>pace</key>
-		<real>8.9262113571166992</real>
+		<real>5.840665340423584</real>
 		<key>time</key>
 		<date>2015-02-17T16:00:17Z</date>
 	</dict>
@@ -6798,7 +7068,7 @@
 		<key>elevation</key>
 		<real>56.599998474121094</real>
 		<key>pace</key>
-		<real>8.8935203552246094</real>
+		<real>6.6558637619018555</real>
 		<key>time</key>
 		<date>2015-02-17T16:00:47Z</date>
 	</dict>
@@ -6808,7 +7078,7 @@
 		<key>elevation</key>
 		<real>54.400001525878906</real>
 		<key>pace</key>
-		<real>8.8074026107788086</real>
+		<real>6.5424642562866211</real>
 		<key>time</key>
 		<date>2015-02-17T16:01:17Z</date>
 	</dict>
@@ -6818,7 +7088,7 @@
 		<key>elevation</key>
 		<real>54.400001525878906</real>
 		<key>pace</key>
-		<real>8.6137685775756836</real>
+		<real>6.4342117309570312</real>
 		<key>time</key>
 		<date>2015-02-17T16:01:47Z</date>
 	</dict>
@@ -6828,7 +7098,7 @@
 		<key>elevation</key>
 		<real>54</real>
 		<key>pace</key>
-		<real>8.6124019622802734</real>
+		<real>7.4287729263305664</real>
 		<key>time</key>
 		<date>2015-02-17T16:02:17Z</date>
 	</dict>
@@ -6838,7 +7108,7 @@
 		<key>elevation</key>
 		<real>55.599998474121094</real>
 		<key>pace</key>
-		<real>8.5806798934936523</real>
+		<real>7.2958312034606934</real>
 		<key>time</key>
 		<date>2015-02-17T16:02:47Z</date>
 	</dict>
@@ -6848,7 +7118,7 @@
 		<key>elevation</key>
 		<real>57.599998474121094</real>
 		<key>pace</key>
-		<real>8.5443029403686523</real>
+		<real>6.4194269180297852</real>
 		<key>time</key>
 		<date>2015-02-17T16:03:17Z</date>
 	</dict>
@@ -6858,7 +7128,7 @@
 		<key>elevation</key>
 		<real>58.200000762939453</real>
 		<key>pace</key>
-		<real>8.4033002853393555</real>
+		<real>6.389256477355957</real>
 		<key>time</key>
 		<date>2015-02-17T16:03:47Z</date>
 	</dict>
@@ -6868,7 +7138,7 @@
 		<key>elevation</key>
 		<real>61.799999237060547</real>
 		<key>pace</key>
-		<real>8.3224878311157227</real>
+		<real>6.4622201919555664</real>
 		<key>time</key>
 		<date>2015-02-17T16:04:17Z</date>
 	</dict>
@@ -6878,7 +7148,7 @@
 		<key>elevation</key>
 		<real>62</real>
 		<key>pace</key>
-		<real>8.2292909622192383</real>
+		<real>5.5360822677612305</real>
 		<key>time</key>
 		<date>2015-02-17T16:04:47Z</date>
 	</dict>

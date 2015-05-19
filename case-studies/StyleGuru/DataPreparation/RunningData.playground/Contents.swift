@@ -11,7 +11,7 @@ trackpoints = calculatePace(trackpoints)
 trackpoints = paceMovingAverage(trackpoints, windowSize: 20)
 */
 
-let trackpoints = loadTrackpoints()
+let trackpoints = loadTrackpoints(30, 5)
 
 
 
