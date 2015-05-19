@@ -73,9 +73,9 @@ public func loadTrackpoints() -> [Trackpoint] {
   var trackpoints = [Trackpoint]()
   p.beginParsing { trackpoints.append($0) }
   
+  trackpoints = trackpoints.takeEvery(30)
   trackpoints = calculatePace(trackpoints)
   trackpoints = filterTrackpoints(trackpoints)
-  
   trackpoints = paceMovingAverage(trackpoints, windowSize: 60)
   
   

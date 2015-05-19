@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		221654331B06AD5500935787 /* RangeExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 221654321B06AD5500935787 /* RangeExtensions.swift */; };
-		221654351B0A253500935787 /* running-data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 221654341B0A253500935787 /* running-data.plist */; };
+		221654371B0B317E00935787 /* running-data.plist in Resources */ = {isa = PBXBuildFile; fileRef = 221654361B0B317E00935787 /* running-data.plist */; };
 		222216B51ADBC2A000294F21 /* TwitterImpressions.plist in Resources */ = {isa = PBXBuildFile; fileRef = 222216B41ADBC2A000294F21 /* TwitterImpressions.plist */; };
 		222216B71ADBC5D300294F21 /* TwitterStatsData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222216B61ADBC5D300294F21 /* TwitterStatsData.swift */; };
 		222216B91ADBD9A600294F21 /* TwitterStatsChartData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 222216B81ADBD9A600294F21 /* TwitterStatsChartData.swift */; };
@@ -55,7 +55,7 @@
 
 /* Begin PBXFileReference section */
 		221654321B06AD5500935787 /* RangeExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RangeExtensions.swift; sourceTree = "<group>"; };
-		221654341B0A253500935787 /* running-data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "running-data.plist"; sourceTree = "<group>"; };
+		221654361B0B317E00935787 /* running-data.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "running-data.plist"; sourceTree = "<group>"; };
 		222216B41ADBC2A000294F21 /* TwitterImpressions.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = TwitterImpressions.plist; sourceTree = "<group>"; };
 		222216B61ADBC5D300294F21 /* TwitterStatsData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsData.swift; sourceTree = "<group>"; };
 		222216B81ADBD9A600294F21 /* TwitterStatsChartData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TwitterStatsChartData.swift; sourceTree = "<group>"; };
@@ -201,7 +201,7 @@
 		22EDB8901AD82178008515E4 /* sport */ = {
 			isa = PBXGroup;
 			children = (
-				221654341B0A253500935787 /* running-data.plist */,
+				221654361B0B317E00935787 /* running-data.plist */,
 				227E6EAB1ADD685E00FE3442 /* RunningViewController.swift */,
 				227E6EAD1ADD697200FE3442 /* RunningChartData.swift */,
 				227E6EAF1ADD69A600FE3442 /* RunningData.swift */,
@@ -349,7 +349,7 @@
 			files = (
 				227E6EB71ADE5E0D00FE3442 /* AAPL.csv in Resources */,
 				22EDB8731AD81BFE008515E4 /* Main.storyboard in Resources */,
-				221654351B0A253500935787 /* running-data.plist in Resources */,
+				221654371B0B317E00935787 /* running-data.plist in Resources */,
 				227E6EBF1ADEA19600FE3442 /* healthspark.plist in Resources */,
 				222216B51ADBC2A000294F21 /* TwitterImpressions.plist in Resources */,
 				22EDB8781AD81BFE008515E4 /* LaunchScreen.xib in Resources */,

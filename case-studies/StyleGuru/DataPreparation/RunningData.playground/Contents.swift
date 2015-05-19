@@ -14,6 +14,7 @@ trackpoints = paceMovingAverage(trackpoints, windowSize: 20)
 let trackpoints = loadTrackpoints()
 
 
+
 trackpoints.map { $0.elevation }
 
 trackpoints.map { $0.pace }
@@ -35,5 +36,3 @@ let plistOut = documentsPath.stringByAppendingPathComponent("output.plist")
 nsarray.writeToFile(plistOut, atomically: false)
 
 println(documentsPath)
-
-
