@@ -57,6 +57,15 @@ private extension SChartAxis {
 
 
 extension AxisStyler {
+  static func hideOutOfRangeTickMark(tickMark: SChartTickMark, axis: SChartAxis) {
+    if !axis.visibleRange().contains(tickMark.value) {
+      tickMark.disableTick(axis)
+      if let tickMarkView = tickMark.tickMarkView {
+        tickMarkView.hidden = true
+      }
+    }
+  }
+  
   static func negateTickMarkLabelsForTickMark(tickMark: SChartTickMark, axis: SChartAxis) {
     let negatedValue = -tickMark.value
     if let tickLabel = tickMark.tickLabel,

@@ -65,12 +65,8 @@ class RunningChartDelegate: NSObject, SChartDelegate {
   // to both hide tick marks we don't want, and to reposition the ones we do.
   func sChart(chart: ShinobiChart!, alterTickMark tickMark: SChartTickMark!,
     beforeAddingToAxis axis: SChartAxis!) {
-      if !axis.visibleRange().contains(tickMark.value) {
-        tickMark.disableTick(axis)
-        if let tickMarkView = tickMark.tickMarkView {
-          tickMarkView.hidden = true
-        }
-      }
+      
+      AxisStyler.hideOutOfRangeTickMark(tickMark, axis: axis)
       
       if let chartSeries = runningChartSeriesForAxis(axisMapping, axis) {
         switch chartSeries {
