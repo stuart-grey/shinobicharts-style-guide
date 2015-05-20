@@ -19,8 +19,9 @@ import UIKit
 class RunningViewController: UIViewController {
   
   @IBOutlet weak var chart: ShinobiChart!
-  var chartDatasource: RunningChartDataSource?
-  let chartDelegate = RunningChartDelegate()
+  var chartDatasource : RunningChartDataSource?
+  var chartDelegate : RunningChartDelegate?
+
   
   
   override func viewDidLoad() {
@@ -28,13 +29,13 @@ class RunningViewController: UIViewController {
     
     let axisMapping = prepareChart()
     chartDatasource = RunningChartDataSource.defaultData(axisMapping)
+    chartDelegate = RunningChartDelegate(axisMapping: axisMapping)
     
-    // Do any additional setup after loading the view.
     if let chartDatasource = chartDatasource {
-      chart.datasource = chartDatasource
+        chart.datasource = chartDatasource
     }
-    chart.delegate = chartDelegate
     
+    chart.delegate = chartDelegate
   }
 
   private func prepareChart() -> SeriesAxisMapping {
@@ -53,6 +54,13 @@ class RunningViewController: UIViewController {
 
 
 class RunningChartDelegate: NSObject, SChartDelegate {
+  private let axisMapping: SeriesAxisMapping
+  
+  init(axisMapping: SeriesAxisMapping) {
+    self.axisMapping = axisMapping
+    super.init()
+  }
+  
   // This method is called as tick marks are drawn on the chart. It's used here
   // to both hide tick marks we don't want, and to reposition the ones we do.
   func sChart(chart: ShinobiChart!, alterTickMark tickMark: SChartTickMark!,
@@ -61,6 +69,15 @@ class RunningChartDelegate: NSObject, SChartDelegate {
         tickMark.disableTick(axis)
         if let tickMarkView = tickMark.tickMarkView {
           tickMarkView.hidden = true
+        }
+      }
+      
+      if let chartSeries = runningChartSeriesForAxis(axisMapping, axis) {
+        switch chartSeries {
+        case .Elevation:
+          break
+        case .Pace:
+          AxisStyler.negateTickMarkLabelsForTickMark(tickMark, axis: axis)
         }
       }
   }

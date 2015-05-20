@@ -54,3 +54,14 @@ private extension SChartAxis {
     enableMomentumZooming = true
   }
 }
+
+
+extension AxisStyler {
+  static func negateTickMarkLabelsForTickMark(tickMark: SChartTickMark, axis: SChartAxis) {
+    let negatedValue = -tickMark.value
+    if let tickLabel = tickMark.tickLabel,
+      let formatter = axis.labelFormatter {
+        tickLabel.text = formatter.stringForObjectValue(negatedValue, onAxis: axis)
+    }
+  }
+}

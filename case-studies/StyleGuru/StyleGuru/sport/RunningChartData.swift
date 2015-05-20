@@ -23,6 +23,14 @@ enum RunningChartSeries: Int {
 
 typealias SeriesAxisMapping = [RunningChartSeries : SChartAxis]
 
+func runningChartSeriesForAxis(mapping: SeriesAxisMapping, axis: SChartAxis) -> RunningChartSeries? {
+  let series = filter(mapping) {
+    (k,v) in
+    return v === axis
+    }.map { $0.0 }
+  return series.first
+}
+
 class RunningChartDataSource: NSObject {
   let datapoints: [RunningChartSeries : [SChartData]]
   let axisMapping: SeriesAxisMapping

@@ -65,7 +65,8 @@ extension RunningTrackpoint {
   func paceDataPoint() -> SChartDataPoint {
     let dp = SChartDataPoint()
     dp.xValue = distance
-    dp.yValue = pace
+    // Negate this value so that the axis will plot the "correct" way round
+    dp.yValue = -pace
     return dp
   }
 }
